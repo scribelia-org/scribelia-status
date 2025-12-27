@@ -430,7 +430,8 @@
 
     async function loadStatus() {
       try {
-        const res = await fetch('./data/status.json');
+        // Cache-bust to always get fresh data
+        const res = await fetch(`./data/status.json?t=${Date.now()}`);
         const data = await res.json();
         render(data);
       } catch (err) {
@@ -490,7 +491,7 @@
           html += `<div class="service-details"><div class="sub-services">`;
           
           for (const [name, check] of Object.entries(hc.checks)) {
-            const latency = check.latency !== null ? `${check.latency}ms` : '';
+            const latency = check.latency != null ? `${check.latency}ms` : '';
             html += `
               <div class="sub-service">
                 <div class="sub-service-dot ${check.status}"></div>
