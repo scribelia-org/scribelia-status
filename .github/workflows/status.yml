@@ -4,6 +4,8 @@ on:
   schedule:
     # Every 5 minutes
     - cron: '*/5 * * * *'
+    # Daily summary at 9am Paris (8am UTC)
+    - cron: '0 8 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -41,6 +43,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/handle-incidents.mjs
+
+      - name: Send daily summary (9am Paris)
+        if: github.event.schedule == '0 8 * * *'
+        run: node scripts/daily-summary.mjs
 
       - name: Commit and push changes
         run: |
