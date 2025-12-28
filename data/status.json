@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-28T16:55:07.328Z",
+  "lastUpdate": "2025-12-28T16:56:21.750Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -1321,35 +1321,41 @@
           "statusCode": 200,
           "responseTime": 526,
           "timestamp": "2025-12-28T16:55:07.033Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 559,
+          "timestamp": "2025-12-28T16:56:20.970Z"
         }
       ],
-      "lastCheck": "2025-12-28T16:55:07.033Z",
-      "responseTime": 526,
+      "lastCheck": "2025-12-28T16:56:20.970Z",
+      "responseTime": 559,
       "statusCode": 200,
       "uptime": {
         "day": 83.57,
-        "week": 85.39,
-        "month": 85.39,
-        "all": 85.39
+        "week": 85.45,
+        "month": 85.45,
+        "all": 85.45
       },
       "avgResponseTime": {
         "day": 606,
-        "week": 1003,
-        "month": 1003
+        "week": 1000,
+        "month": 1000
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 5621.916293108,
+        "uptime": 5695.792500194,
         "deployedAt": "2025-12-28T15:21:27.851Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 87
+            "latency": 119
           },
           "redis": {
             "status": "up",
-            "latency": null
+            "latency": 1
           }
         }
       }
@@ -2673,21 +2679,27 @@
           "statusCode": 200,
           "responseTime": 289,
           "timestamp": "2025-12-28T16:55:07.327Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 774,
+          "timestamp": "2025-12-28T16:56:21.749Z"
         }
       ],
-      "lastCheck": "2025-12-28T16:55:07.327Z",
-      "responseTime": 289,
+      "lastCheck": "2025-12-28T16:56:21.749Z",
+      "responseTime": 774,
       "statusCode": 200,
       "uptime": {
         "day": 100,
-        "week": 99.54,
-        "month": 99.54,
-        "all": 99.54
+        "week": 99.55,
+        "month": 99.55,
+        "all": 99.55
       },
       "avgResponseTime": {
-        "day": 620,
-        "week": 613,
-        "month": 613
+        "day": 619,
+        "week": 614,
+        "month": 614
       }
     }
   },
