@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-30T10:57:16.754Z",
+  "lastUpdate": "2025-12-30T11:09:57.342Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -2617,31 +2617,37 @@
           "statusCode": 200,
           "responseTime": 514,
           "timestamp": "2025-12-30T10:57:16.420Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 527,
+          "timestamp": "2025-12-30T11:09:57.068Z"
         }
       ],
-      "lastCheck": "2025-12-30T10:57:16.420Z",
-      "responseTime": 514,
+      "lastCheck": "2025-12-30T11:09:57.068Z",
+      "responseTime": 527,
       "statusCode": 200,
       "uptime": {
         "day": 78.74,
-        "week": 83.22,
-        "month": 83.22,
-        "all": 83.22
+        "week": 83.26,
+        "month": 83.26,
+        "all": 83.26
       },
       "avgResponseTime": {
-        "day": 605,
-        "week": 814,
-        "month": 814
+        "day": 603,
+        "week": 813,
+        "month": 813
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 562.175425414,
+        "uptime": 1322.807518416,
         "deployedAt": "2025-12-30T10:47:56.288Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 161
+            "latency": 180
           },
           "redis": {
             "status": "up",
@@ -5265,10 +5271,16 @@
           "statusCode": 200,
           "responseTime": 322,
           "timestamp": "2025-12-30T10:57:16.750Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 266,
+          "timestamp": "2025-12-30T11:09:57.339Z"
         }
       ],
-      "lastCheck": "2025-12-30T10:57:16.750Z",
-      "responseTime": 322,
+      "lastCheck": "2025-12-30T11:09:57.339Z",
+      "responseTime": 266,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -5277,9 +5289,9 @@
         "all": 99.77
       },
       "avgResponseTime": {
-        "day": 649,
-        "week": 621,
-        "month": 621
+        "day": 645,
+        "week": 620,
+        "month": 620
       }
     }
   },
