@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-31T11:52:05.753Z",
+  "lastUpdate": "2025-12-31T11:54:34.053Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -3397,31 +3397,37 @@
           "statusCode": 200,
           "responseTime": 697,
           "timestamp": "2025-12-31T11:52:04.630Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 971,
+          "timestamp": "2025-12-31T11:54:33.400Z"
         }
       ],
-      "lastCheck": "2025-12-31T11:52:04.630Z",
-      "responseTime": 697,
+      "lastCheck": "2025-12-31T11:54:33.400Z",
+      "responseTime": 971,
       "statusCode": 200,
       "uptime": {
         "day": 74.4,
-        "week": 81.42,
-        "month": 81.42,
-        "all": 81.42
+        "week": 81.45,
+        "month": 81.45,
+        "all": 81.45
       },
       "avgResponseTime": {
-        "day": 624,
-        "week": 773,
-        "month": 773
+        "day": 627,
+        "week": 774,
+        "month": 774
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 2104.741354837,
+        "uptime": 2253.524491723,
         "deployedAt": "2025-12-31T11:17:02.423Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 179
+            "latency": 165
           },
           "redis": {
             "status": "up",
@@ -6825,10 +6831,16 @@
           "statusCode": 200,
           "responseTime": 1113,
           "timestamp": "2025-12-31T11:52:05.751Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 645,
+          "timestamp": "2025-12-31T11:54:34.050Z"
         }
       ],
-      "lastCheck": "2025-12-31T11:52:05.751Z",
-      "responseTime": 1113,
+      "lastCheck": "2025-12-31T11:54:34.050Z",
+      "responseTime": 645,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -6837,7 +6849,7 @@
         "all": 99.82
       },
       "avgResponseTime": {
-        "day": 638,
+        "day": 636,
         "week": 623,
         "month": 623
       }
