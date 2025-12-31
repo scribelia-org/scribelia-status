@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2025-12-31T20:53:17.574Z",
-  "overallStatus": "outage",
+  "lastUpdate": "2025-12-31T20:58:44.540Z",
+  "overallStatus": "operational",
   "sites": {
     "api": {
       "name": "API",
@@ -3739,35 +3739,41 @@
           "statusCode": 200,
           "responseTime": 408,
           "timestamp": "2025-12-31T20:53:16.987Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 824,
+          "timestamp": "2025-12-31T20:58:43.387Z"
         }
       ],
-      "lastCheck": "2025-12-31T20:53:16.987Z",
-      "responseTime": 408,
+      "lastCheck": "2025-12-31T20:58:43.387Z",
+      "responseTime": 824,
       "statusCode": 200,
       "uptime": {
-        "day": 77.1,
-        "week": 81.19,
-        "month": 81.19,
-        "all": 81.19
+        "day": 76.92,
+        "week": 81.22,
+        "month": 81.22,
+        "all": 81.22
       },
       "avgResponseTime": {
-        "day": 631,
-        "week": 761,
-        "month": 761
+        "day": 632,
+        "week": 762,
+        "month": 762
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 884.079429419,
+        "uptime": 1210.428570528,
         "deployedAt": "2025-12-31T20:38:36.267Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 170
+            "latency": 182
           },
           "redis": {
             "status": "up",
-            "latency": 1
+            "latency": null
           }
         }
       }
@@ -3776,7 +3782,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "down",
+      "status": "up",
       "history": [
         {
           "status": "up",
@@ -7509,19 +7515,25 @@
           "statusCode": 0,
           "responseTime": 182,
           "timestamp": "2025-12-31T20:53:17.175Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 807,
+          "timestamp": "2025-12-31T20:58:44.200Z"
         }
       ],
-      "lastCheck": "2025-12-31T20:53:17.175Z",
-      "responseTime": 182,
-      "statusCode": 0,
+      "lastCheck": "2025-12-31T20:58:44.200Z",
+      "responseTime": 807,
+      "statusCode": 200,
       "uptime": {
-        "day": 99.24,
+        "day": 99.23,
         "week": 99.68,
         "month": 99.68,
         "all": 99.68
       },
       "avgResponseTime": {
-        "day": 661,
+        "day": 663,
         "week": 623,
         "month": 623
       }
@@ -7534,12 +7546,17 @@
       "slug": "website",
       "status": "down",
       "startedAt": "2025-12-31T20:53:17.175Z",
-      "resolvedAt": null,
+      "resolvedAt": "2025-12-31T20:58:44.200Z",
       "updates": [
         {
           "status": "down",
           "message": "Website is down",
           "timestamp": "2025-12-31T20:53:17.175Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2025-12-31T20:58:44.200Z"
         }
       ]
     },
