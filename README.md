@@ -1,12 +1,12 @@
-# 🟢 Scribelia Status
+# 🟡 Scribelia Status
 
 [![Status](https://status.scribelia.com/badge.svg)](https://status.scribelia.com)
 
 > État des services Scribelia en temps réel
 
-**Statut actuel:** 🟢 Tous les systèmes opérationnels
+**Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 01/01/2026 23:57:52*
+*Dernière mise à jour: 02/01/2026 00:16:00*
 
 ---
 
@@ -14,12 +14,16 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ✅ Opérationnel | 773ms | 79.53% | 81.18% | 81.18% |
-| **Website** | ✅ Opérationnel | 753ms | 100% | 99.74% | 99.74% |
+| **API** | ⚠️ Dégradé | 7654ms | 79.37% | 81.07% | 81.07% |
+| **Website** | ✅ Opérationnel | 240ms | 100% | 99.74% | 99.74% |
 
 ---
 
 ## 📈 Historique récent
+
+### 🚨 Incidents en cours
+
+- **API** - ⚠️ Dégradé depuis 1s
 
 ### ✅ Incidents résolus récemment
 
@@ -42,7 +46,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 594ms
+- **Temps de réponse moyen (24h):** 598ms
 - **Temps de réponse moyen (7j):** 617ms
 
 ---
