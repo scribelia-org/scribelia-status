@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-01T22:42:48.875Z",
+  "lastUpdate": "2026-01-01T22:50:00.622Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -4579,16 +4579,22 @@
           "statusCode": 200,
           "responseTime": 637,
           "timestamp": "2026-01-01T22:42:48.250Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 567,
+          "timestamp": "2026-01-01T22:49:59.847Z"
         }
       ],
-      "lastCheck": "2026-01-01T22:42:48.250Z",
-      "responseTime": 637,
+      "lastCheck": "2026-01-01T22:49:59.847Z",
+      "responseTime": 567,
       "statusCode": 200,
       "uptime": {
         "day": 79.53,
-        "week": 81.1,
-        "month": 81.1,
-        "all": 81.1
+        "week": 81.13,
+        "month": 81.13,
+        "all": 81.13
       },
       "avgResponseTime": {
         "day": 628,
@@ -4598,12 +4604,12 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 1629.396412929,
+        "uptime": 2061.052366859,
         "deployedAt": "2026-01-01T22:15:45.175Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 180
+            "latency": 118
           },
           "redis": {
             "status": "up",
@@ -9189,10 +9195,16 @@
           "statusCode": 200,
           "responseTime": 612,
           "timestamp": "2026-01-01T22:42:48.869Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 762,
+          "timestamp": "2026-01-01T22:50:00.619Z"
         }
       ],
-      "lastCheck": "2026-01-01T22:42:48.869Z",
-      "responseTime": 612,
+      "lastCheck": "2026-01-01T22:50:00.619Z",
+      "responseTime": 762,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -9201,7 +9213,7 @@
         "all": 99.74
       },
       "avgResponseTime": {
-        "day": 587,
+        "day": 591,
         "week": 617,
         "month": 617
       }
