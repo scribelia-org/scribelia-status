@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-03T23:17:01.481Z",
+  "lastUpdate": "2026-01-03T23:30:54.670Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -6241,31 +6241,37 @@
           "statusCode": 200,
           "responseTime": 668,
           "timestamp": "2026-01-03T23:17:01.284Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 648,
+          "timestamp": "2026-01-03T23:30:53.862Z"
         }
       ],
-      "lastCheck": "2026-01-03T23:17:01.284Z",
-      "responseTime": 668,
+      "lastCheck": "2026-01-03T23:30:53.862Z",
+      "responseTime": 648,
       "statusCode": 200,
       "uptime": {
         "day": 80.42,
         "week": 79.45,
-        "month": 80.65,
-        "all": 80.65
+        "month": 80.67,
+        "all": 80.67
       },
       "avgResponseTime": {
-        "day": 638,
+        "day": 639,
         "week": 627,
         "month": 711
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 2349.554791724,
+        "uptime": 3182.172184353,
         "deployedAt": "2026-01-03T22:37:53.585Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 174
+            "latency": 130
           },
           "redis": {
             "status": "up",
@@ -12513,10 +12519,16 @@
           "statusCode": 200,
           "responseTime": 182,
           "timestamp": "2026-01-03T23:17:01.476Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 796,
+          "timestamp": "2026-01-03T23:30:54.666Z"
         }
       ],
-      "lastCheck": "2026-01-03T23:17:01.476Z",
-      "responseTime": 182,
+      "lastCheck": "2026-01-03T23:30:54.666Z",
+      "responseTime": 796,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -12526,7 +12538,7 @@
       },
       "avgResponseTime": {
         "day": 562,
-        "week": 604,
+        "week": 605,
         "month": 607
       }
     }
