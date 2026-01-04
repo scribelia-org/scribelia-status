@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-04T16:51:42.427Z",
+  "lastUpdate": "2026-01-04T16:56:47.615Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -6781,16 +6781,22 @@
           "statusCode": 200,
           "responseTime": 475,
           "timestamp": "2026-01-04T16:51:41.642Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 564,
+          "timestamp": "2026-01-04T16:56:47.367Z"
         }
       ],
-      "lastCheck": "2026-01-04T16:51:41.642Z",
-      "responseTime": 475,
+      "lastCheck": "2026-01-04T16:56:47.367Z",
+      "responseTime": 564,
       "statusCode": 200,
       "uptime": {
         "day": 84.89,
-        "week": 79.69,
-        "month": 80.78,
-        "all": 80.78
+        "week": 79.67,
+        "month": 80.8,
+        "all": 80.8
       },
       "avgResponseTime": {
         "day": 609,
@@ -6800,16 +6806,16 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 1474.913713939,
+        "uptime": 1780.617829323,
         "deployedAt": "2026-01-04T16:27:09.370Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 177
+            "latency": 180
           },
           "redis": {
             "status": "up",
-            "latency": null
+            "latency": 1
           }
         }
       }
@@ -13593,10 +13599,16 @@
           "statusCode": 200,
           "responseTime": 768,
           "timestamp": "2026-01-04T16:51:42.423Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 231,
+          "timestamp": "2026-01-04T16:56:47.608Z"
         }
       ],
-      "lastCheck": "2026-01-04T16:51:42.423Z",
-      "responseTime": 768,
+      "lastCheck": "2026-01-04T16:56:47.608Z",
+      "responseTime": 231,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -13605,7 +13617,7 @@
         "all": 99.82
       },
       "avgResponseTime": {
-        "day": 574,
+        "day": 571,
         "week": 603,
         "month": 605
       }
