@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟢 Tous les systèmes opérationnels
 
-*Dernière mise à jour: 06/01/2026 00:31:10*
+*Dernière mise à jour: 06/01/2026 00:44:11*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ✅ Opérationnel | 593ms | 78.1% | 79.58% | 80.97% |
-| **Website** | ✅ Opérationnel | 977ms | 100% | 99.89% | 99.84% |
+| **API** | ✅ Opérationnel | 491ms | 77.88% | 79.55% | 80.98% |
+| **Website** | ✅ Opérationnel | 971ms | 100% | 99.89% | 99.84% |
 
 ---
 
@@ -42,7 +42,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 579ms
+- **Temps de réponse moyen (24h):** 585ms
 - **Temps de réponse moyen (7j):** 594ms
 
 ---
