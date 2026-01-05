@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05T22:30:12.019Z",
+  "lastUpdate": "2026-01-05T22:41:50.714Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -7657,16 +7657,22 @@
           "statusCode": 200,
           "responseTime": 553,
           "timestamp": "2026-01-05T22:30:11.492Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 589,
+          "timestamp": "2026-01-05T22:41:49.846Z"
         }
       ],
-      "lastCheck": "2026-01-05T22:30:11.492Z",
-      "responseTime": 553,
+      "lastCheck": "2026-01-05T22:41:49.846Z",
+      "responseTime": 589,
       "statusCode": 200,
       "uptime": {
         "day": 78.1,
         "week": 79.69,
-        "month": 80.94,
-        "all": 80.94
+        "month": 80.96,
+        "all": 80.96
       },
       "avgResponseTime": {
         "day": 605,
@@ -7676,12 +7682,12 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 575.549577598,
+        "uptime": 1273.941674221,
         "deployedAt": "2026-01-05T22:20:39.297Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 186
+            "latency": 125
           },
           "redis": {
             "status": "up",
@@ -15345,10 +15351,16 @@
           "statusCode": 200,
           "responseTime": 287,
           "timestamp": "2026-01-05T22:30:12.013Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 854,
+          "timestamp": "2026-01-05T22:41:50.710Z"
         }
       ],
-      "lastCheck": "2026-01-05T22:30:12.013Z",
-      "responseTime": 287,
+      "lastCheck": "2026-01-05T22:41:50.710Z",
+      "responseTime": 854,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -15357,9 +15369,9 @@
         "all": 99.84
       },
       "avgResponseTime": {
-        "day": 565,
+        "day": 571,
         "week": 594,
-        "month": 601
+        "month": 602
       }
     }
   },
