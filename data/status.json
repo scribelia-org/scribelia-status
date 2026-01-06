@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-06T11:52:12.521Z",
+  "lastUpdate": "2026-01-06T11:53:17.028Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -7999,16 +7999,22 @@
           "statusCode": 200,
           "responseTime": 465,
           "timestamp": "2026-01-06T11:52:12.244Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 629,
+          "timestamp": "2026-01-06T11:53:15.940Z"
         }
       ],
-      "lastCheck": "2026-01-06T11:52:12.244Z",
-      "responseTime": 465,
+      "lastCheck": "2026-01-06T11:53:15.940Z",
+      "responseTime": 629,
       "statusCode": 200,
       "uptime": {
-        "day": 76.79,
+        "day": 76.99,
         "week": 78.92,
-        "month": 80.41,
-        "all": 80.41
+        "month": 80.42,
+        "all": 80.42
       },
       "avgResponseTime": {
         "day": 603,
@@ -8018,16 +8024,16 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 4087.610602157,
+        "uptime": 4151.254489252,
         "deployedAt": "2026-01-06T10:44:07.494Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 139
+            "latency": 149
           },
           "redis": {
             "status": "up",
-            "latency": 1
+            "latency": null
           }
         }
       }
@@ -16029,10 +16035,16 @@
           "statusCode": 200,
           "responseTime": 263,
           "timestamp": "2026-01-06T11:52:12.516Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 1071,
+          "timestamp": "2026-01-06T11:53:17.022Z"
         }
       ],
-      "lastCheck": "2026-01-06T11:52:12.516Z",
-      "responseTime": 263,
+      "lastCheck": "2026-01-06T11:53:17.022Z",
+      "responseTime": 1071,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -16041,7 +16053,7 @@
         "all": 99.85
       },
       "avgResponseTime": {
-        "day": 611,
+        "day": 615,
         "week": 595,
         "month": 603
       }
