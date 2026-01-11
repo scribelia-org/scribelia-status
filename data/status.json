@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-11T21:44:04.258Z",
+  "lastUpdate": "2026-01-11T21:51:13.453Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -11983,31 +11983,37 @@
           "statusCode": 200,
           "responseTime": 594,
           "timestamp": "2026-01-11T21:44:03.968Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 591,
+          "timestamp": "2026-01-11T21:51:13.233Z"
         }
       ],
-      "lastCheck": "2026-01-11T21:44:03.968Z",
-      "responseTime": 594,
+      "lastCheck": "2026-01-11T21:51:13.233Z",
+      "responseTime": 591,
       "statusCode": 200,
       "uptime": {
-        "day": 79.56,
-        "week": 75.12,
-        "month": 78.66,
-        "all": 78.66
+        "day": 79.41,
+        "week": 75.09,
+        "month": 78.67,
+        "all": 78.67
       },
       "avgResponseTime": {
-        "day": 617,
-        "week": 620,
+        "day": 618,
+        "week": 621,
         "month": 668
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 805.622183996,
+        "uptime": 1234.828638801,
         "deployedAt": "2026-01-11T21:30:41.619Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 116
+            "latency": 172
           },
           "redis": {
             "status": "up",
@@ -23997,10 +24003,16 @@
           "statusCode": 200,
           "responseTime": 267,
           "timestamp": "2026-01-11T21:44:04.249Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 199,
+          "timestamp": "2026-01-11T21:51:13.445Z"
         }
       ],
-      "lastCheck": "2026-01-11T21:44:04.249Z",
-      "responseTime": 267,
+      "lastCheck": "2026-01-11T21:51:13.445Z",
+      "responseTime": 199,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -24009,7 +24021,7 @@
         "all": 99.9
       },
       "avgResponseTime": {
-        "day": 575,
+        "day": 576,
         "week": 597,
         "month": 601
       }
