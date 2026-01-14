@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-14T00:45:40.977Z",
+  "lastUpdate": "2026-01-14T02:24:24.822Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -13393,31 +13393,37 @@
           "statusCode": 200,
           "responseTime": 9366,
           "timestamp": "2026-01-14T00:45:40.244Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 200,
+          "responseTime": 6293,
+          "timestamp": "2026-01-14T02:24:24.165Z"
         }
       ],
-      "lastCheck": "2026-01-14T00:45:40.244Z",
-      "responseTime": 9366,
+      "lastCheck": "2026-01-14T02:24:24.165Z",
+      "responseTime": 6293,
       "statusCode": 200,
       "uptime": {
-        "day": 68.18,
-        "week": 73.7,
-        "month": 77.77,
-        "all": 77.77
+        "day": 67.89,
+        "week": 73.67,
+        "month": 77.73,
+        "all": 77.73
       },
       "avgResponseTime": {
-        "day": 683,
-        "week": 636,
+        "day": 680,
+        "week": 635,
         "month": 667
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 7.389656305,
-        "deployedAt": "2026-01-14T00:45:36.363Z",
+        "uptime": 5.162309133,
+        "deployedAt": "2026-01-14T02:24:21.392Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 506
+            "latency": 391
           },
           "redis": {
             "status": "up",
@@ -26817,10 +26823,16 @@
           "statusCode": 200,
           "responseTime": 319,
           "timestamp": "2026-01-14T00:45:40.965Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 342,
+          "timestamp": "2026-01-14T02:24:24.810Z"
         }
       ],
-      "lastCheck": "2026-01-14T00:45:40.965Z",
-      "responseTime": 319,
+      "lastCheck": "2026-01-14T02:24:24.810Z",
+      "responseTime": 342,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -26829,8 +26841,8 @@
         "all": 99.78
       },
       "avgResponseTime": {
-        "day": 294,
-        "week": 524,
+        "day": 293,
+        "week": 523,
         "month": 572
       }
     }
