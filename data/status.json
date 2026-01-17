@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-17T14:15:06.463Z",
+  "lastUpdate": "2026-01-17T14:28:25.741Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -15769,16 +15769,22 @@
           "statusCode": 200,
           "responseTime": 7499,
           "timestamp": "2026-01-17T14:15:05.833Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 200,
+          "responseTime": 6682,
+          "timestamp": "2026-01-17T14:28:25.427Z"
         }
       ],
-      "lastCheck": "2026-01-17T14:15:05.833Z",
-      "responseTime": 7499,
+      "lastCheck": "2026-01-17T14:28:25.427Z",
+      "responseTime": 6682,
       "statusCode": 200,
       "uptime": {
-        "day": 79.23,
-        "week": 74.79,
-        "month": 77.2,
-        "all": 77.2
+        "day": 78.63,
+        "week": 74.76,
+        "month": 77.17,
+        "all": 77.17
       },
       "avgResponseTime": {
         "day": 644,
@@ -15788,16 +15794,16 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 6.05314692,
-        "deployedAt": "2026-01-17T14:15:02.514Z",
+        "uptime": 5.535971288,
+        "deployedAt": "2026-01-17T14:28:22.003Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 466
+            "latency": 479
           },
           "redis": {
             "status": "up",
-            "latency": 1
+            "latency": null
           }
         }
       }
@@ -31569,14 +31575,20 @@
           "statusCode": 200,
           "responseTime": 318,
           "timestamp": "2026-01-17T14:15:06.452Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 287,
+          "timestamp": "2026-01-17T14:28:25.731Z"
         }
       ],
-      "lastCheck": "2026-01-17T14:15:06.452Z",
-      "responseTime": 318,
+      "lastCheck": "2026-01-17T14:28:25.731Z",
+      "responseTime": 287,
       "statusCode": 200,
       "uptime": {
-        "day": 99.23,
-        "week": 99.52,
+        "day": 99.24,
+        "week": 99.51,
         "month": 99.77,
         "all": 99.77
       },
