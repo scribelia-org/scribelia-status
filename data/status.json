@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-17T13:48:16.827Z",
+  "lastUpdate": "2026-01-17T13:50:09.024Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -15745,35 +15745,41 @@
           "statusCode": 200,
           "responseTime": 598,
           "timestamp": "2026-01-17T13:48:16.523Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 660,
+          "timestamp": "2026-01-17T13:50:08.755Z"
         }
       ],
-      "lastCheck": "2026-01-17T13:48:16.523Z",
-      "responseTime": 598,
+      "lastCheck": "2026-01-17T13:50:08.755Z",
+      "responseTime": 660,
       "statusCode": 200,
       "uptime": {
-        "day": 79.07,
+        "day": 79.23,
         "week": 74.88,
-        "month": 77.2,
-        "all": 77.2
+        "month": 77.21,
+        "all": 77.21
       },
       "avgResponseTime": {
-        "day": 641,
+        "day": 642,
         "week": 645,
         "month": 664
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 731.166463225,
+        "uptime": 843.395439722,
         "deployedAt": "2026-01-17T13:36:08.092Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 195
+            "latency": 181
           },
           "redis": {
             "status": "up",
-            "latency": null
+            "latency": 1
           }
         }
       }
@@ -31521,13 +31527,19 @@
           "statusCode": 200,
           "responseTime": 278,
           "timestamp": "2026-01-17T13:48:16.817Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 243,
+          "timestamp": "2026-01-17T13:50:09.014Z"
         }
       ],
-      "lastCheck": "2026-01-17T13:48:16.817Z",
-      "responseTime": 278,
+      "lastCheck": "2026-01-17T13:50:09.014Z",
+      "responseTime": 243,
       "statusCode": 200,
       "uptime": {
-        "day": 99.22,
+        "day": 99.23,
         "week": 99.51,
         "month": 99.77,
         "all": 99.77
