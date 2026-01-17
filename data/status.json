@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-17T05:47:25.699Z",
+  "lastUpdate": "2026-01-17T05:54:58.709Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -15439,35 +15439,41 @@
           "statusCode": 200,
           "responseTime": 585,
           "timestamp": "2026-01-17T05:47:25.310Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 605,
+          "timestamp": "2026-01-17T05:54:58.446Z"
         }
       ],
-      "lastCheck": "2026-01-17T05:47:25.310Z",
-      "responseTime": 585,
+      "lastCheck": "2026-01-17T05:54:58.446Z",
+      "responseTime": 605,
       "statusCode": 200,
       "uptime": {
-        "day": 78.15,
-        "week": 74.79,
-        "month": 77.1,
-        "all": 77.1
+        "day": 78.81,
+        "week": 74.76,
+        "month": 77.11,
+        "all": 77.11
       },
       "avgResponseTime": {
-        "day": 649,
-        "week": 645,
+        "day": 647,
+        "week": 646,
         "month": 665
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 979.296968452,
+        "uptime": 1432.403069594,
         "deployedAt": "2026-01-17T05:31:08.291Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 123
+            "latency": 121
           },
           "redis": {
             "status": "up",
-            "latency": null
+            "latency": 1
           }
         }
       }
@@ -30909,10 +30915,16 @@
           "statusCode": 200,
           "responseTime": 363,
           "timestamp": "2026-01-17T05:47:25.689Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 238,
+          "timestamp": "2026-01-17T05:54:58.699Z"
         }
       ],
-      "lastCheck": "2026-01-17T05:47:25.689Z",
-      "responseTime": 363,
+      "lastCheck": "2026-01-17T05:54:58.699Z",
+      "responseTime": 238,
       "statusCode": 200,
       "uptime": {
         "day": 100,
