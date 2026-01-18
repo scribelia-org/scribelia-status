@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18T19:42:22.635Z",
+  "lastUpdate": "2026-01-18T19:43:33.308Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -16855,16 +16855,22 @@
           "statusCode": 200,
           "responseTime": 481,
           "timestamp": "2026-01-18T19:42:22.317Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 669,
+          "timestamp": "2026-01-18T19:43:33.016Z"
         }
       ],
-      "lastCheck": "2026-01-18T19:42:22.317Z",
-      "responseTime": 481,
+      "lastCheck": "2026-01-18T19:43:33.016Z",
+      "responseTime": 669,
       "statusCode": 200,
       "uptime": {
-        "day": 87.94,
-        "week": 76.24,
-        "month": 77.88,
-        "all": 77.88
+        "day": 88.03,
+        "week": 76.27,
+        "month": 77.89,
+        "all": 77.89
       },
       "avgResponseTime": {
         "day": 618,
@@ -16874,12 +16880,12 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 4128.525937926,
+        "uptime": 4199.225070462,
         "deployedAt": "2026-01-18T18:33:37.045Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 183
+            "latency": 182
           },
           "redis": {
             "status": "up",
@@ -33741,10 +33747,16 @@
           "statusCode": 200,
           "responseTime": 289,
           "timestamp": "2026-01-18T19:42:22.625Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 257,
+          "timestamp": "2026-01-18T19:43:33.298Z"
         }
       ],
-      "lastCheck": "2026-01-18T19:42:22.625Z",
-      "responseTime": 289,
+      "lastCheck": "2026-01-18T19:43:33.298Z",
+      "responseTime": 257,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -33755,7 +33767,7 @@
       "avgResponseTime": {
         "day": 260,
         "week": 295,
-        "month": 512
+        "month": 511
       }
     }
   },
