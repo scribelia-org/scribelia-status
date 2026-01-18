@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18T09:54:04.826Z",
+  "lastUpdate": "2026-01-18T09:55:05.183Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -16453,16 +16453,22 @@
           "statusCode": 200,
           "responseTime": 638,
           "timestamp": "2026-01-18T09:54:04.394Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 665,
+          "timestamp": "2026-01-18T09:55:04.948Z"
         }
       ],
-      "lastCheck": "2026-01-18T09:54:04.394Z",
-      "responseTime": 638,
+      "lastCheck": "2026-01-18T09:55:04.948Z",
+      "responseTime": 665,
       "statusCode": 200,
       "uptime": {
-        "day": 85.21,
-        "week": 75.45,
-        "month": 77.56,
-        "all": 77.56
+        "day": 85.31,
+        "week": 75.48,
+        "month": 77.57,
+        "all": 77.57
       },
       "avgResponseTime": {
         "day": 621,
@@ -16472,12 +16478,12 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 2117.899276125,
+        "uptime": 2178.497155651,
         "deployedAt": "2026-01-18T09:18:48.968Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 162
+            "latency": 140
           },
           "redis": {
             "status": "up",
@@ -32937,10 +32943,16 @@
           "statusCode": 200,
           "responseTime": 404,
           "timestamp": "2026-01-18T09:54:04.815Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 209,
+          "timestamp": "2026-01-18T09:55:05.173Z"
         }
       ],
-      "lastCheck": "2026-01-18T09:54:04.815Z",
-      "responseTime": 404,
+      "lastCheck": "2026-01-18T09:55:05.173Z",
+      "responseTime": 209,
       "statusCode": 200,
       "uptime": {
         "day": 99.3,
@@ -32951,7 +32963,7 @@
       "avgResponseTime": {
         "day": 267,
         "week": 319,
-        "month": 518
+        "month": 517
       }
     }
   },
