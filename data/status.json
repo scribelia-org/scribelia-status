@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-24T15:33:35.479Z",
+  "lastUpdate": "2026-01-24T15:45:46.058Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -20353,31 +20353,37 @@
           "statusCode": 200,
           "responseTime": 699,
           "timestamp": "2026-01-24T15:33:34.977Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 647,
+          "timestamp": "2026-01-24T15:45:45.684Z"
         }
       ],
-      "lastCheck": "2026-01-24T15:33:34.977Z",
-      "responseTime": 699,
+      "lastCheck": "2026-01-24T15:45:45.684Z",
+      "responseTime": 647,
       "statusCode": 200,
       "uptime": {
         "day": 78.57,
-        "week": 74.47,
+        "week": 74.44,
         "month": 76.59,
         "all": 76.59
       },
       "avgResponseTime": {
-        "day": 645,
-        "week": 631,
+        "day": 646,
+        "week": 632,
         "month": 657
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 30.95366831,
+        "uptime": 761.796627877,
         "deployedAt": "2026-01-24T15:33:07.138Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 298
+            "latency": 141
           },
           "redis": {
             "status": "up",
@@ -40737,10 +40743,16 @@
           "statusCode": 200,
           "responseTime": 111,
           "timestamp": "2026-01-24T15:33:35.466Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 342,
+          "timestamp": "2026-01-24T15:45:46.045Z"
         }
       ],
-      "lastCheck": "2026-01-24T15:33:35.466Z",
-      "responseTime": 111,
+      "lastCheck": "2026-01-24T15:45:46.045Z",
+      "responseTime": 342,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -40749,7 +40761,7 @@
         "all": 99.82
       },
       "avgResponseTime": {
-        "day": 366,
+        "day": 367,
         "week": 292,
         "month": 475
       }
