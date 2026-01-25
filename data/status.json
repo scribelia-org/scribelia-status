@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-25T02:37:18.326Z",
+  "lastUpdate": "2026-01-25T03:19:22.246Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -20725,35 +20725,41 @@
           "statusCode": 200,
           "responseTime": 8262,
           "timestamp": "2026-01-25T02:37:17.599Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 200,
+          "responseTime": 6631,
+          "timestamp": "2026-01-25T03:19:21.968Z"
         }
       ],
-      "lastCheck": "2026-01-25T02:37:17.599Z",
-      "responseTime": 8262,
+      "lastCheck": "2026-01-25T03:19:21.968Z",
+      "responseTime": 6631,
       "statusCode": 200,
       "uptime": {
-        "day": 78.68,
-        "week": 73.43,
-        "month": 76.72,
-        "all": 76.72
+        "day": 77.94,
+        "week": 73.33,
+        "month": 76.69,
+        "all": 76.69
       },
       "avgResponseTime": {
-        "day": 622,
+        "day": 619,
         "week": 632,
         "month": 656
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 6.872438966,
-        "deployedAt": "2026-01-25T02:37:14.097Z",
+        "uptime": 5.385246215,
+        "deployedAt": "2026-01-25T03:19:19.065Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 415
+            "latency": 369
           },
           "redis": {
             "status": "up",
-            "latency": 2
+            "latency": 1
           }
         }
       }
@@ -41481,10 +41487,16 @@
           "statusCode": 200,
           "responseTime": 347,
           "timestamp": "2026-01-25T02:37:18.313Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 244,
+          "timestamp": "2026-01-25T03:19:22.232Z"
         }
       ],
-      "lastCheck": "2026-01-25T02:37:18.313Z",
-      "responseTime": 347,
+      "lastCheck": "2026-01-25T03:19:22.232Z",
+      "responseTime": 244,
       "statusCode": 200,
       "uptime": {
         "day": 100,
