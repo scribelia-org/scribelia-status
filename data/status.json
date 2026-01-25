@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-25T21:48:50.584Z",
+  "lastUpdate": "2026-01-25T21:51:34.491Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -21379,31 +21379,37 @@
           "statusCode": 200,
           "responseTime": 895,
           "timestamp": "2026-01-25T21:48:50.243Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 593,
+          "timestamp": "2026-01-25T21:51:34.239Z"
         }
       ],
-      "lastCheck": "2026-01-25T21:48:50.243Z",
-      "responseTime": 895,
+      "lastCheck": "2026-01-25T21:51:34.239Z",
+      "responseTime": 593,
       "statusCode": 200,
       "uptime": {
         "day": 80.62,
-        "week": 72.05,
-        "month": 76.78,
-        "all": 76.78
+        "week": 72.09,
+        "month": 76.79,
+        "all": 76.79
       },
       "avgResponseTime": {
-        "day": 611,
+        "day": 610,
         "week": 630,
         "month": 655
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 5103.995614668,
+        "uptime": 5267.979978832,
         "deployedAt": "2026-01-25T20:23:49.861Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 152
+            "latency": 163
           },
           "redis": {
             "status": "up",
@@ -42789,10 +42795,16 @@
           "statusCode": 200,
           "responseTime": 309,
           "timestamp": "2026-01-25T21:48:50.571Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 220,
+          "timestamp": "2026-01-25T21:51:34.478Z"
         }
       ],
-      "lastCheck": "2026-01-25T21:48:50.571Z",
-      "responseTime": 309,
+      "lastCheck": "2026-01-25T21:51:34.478Z",
+      "responseTime": 220,
       "statusCode": 200,
       "uptime": {
         "day": 100,
