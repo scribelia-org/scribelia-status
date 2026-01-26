@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-26T08:53:38.954Z",
+  "lastUpdate": "2026-01-26T08:55:13.698Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -21607,35 +21607,41 @@
           "statusCode": 200,
           "responseTime": 794,
           "timestamp": "2026-01-26T08:53:38.611Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 718,
+          "timestamp": "2026-01-26T08:55:13.368Z"
         }
       ],
-      "lastCheck": "2026-01-26T08:53:38.611Z",
-      "responseTime": 794,
+      "lastCheck": "2026-01-26T08:55:13.368Z",
+      "responseTime": 718,
       "statusCode": 200,
       "uptime": {
-        "day": 75.61,
-        "week": 71.56,
-        "month": 76.53,
+        "day": 76.42,
+        "week": 71.6,
+        "month": 76.54,
         "all": 76.67
       },
       "avgResponseTime": {
-        "day": 629,
-        "week": 632,
+        "day": 630,
+        "week": 633,
         "month": 628
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 909.3563486,
+        "uptime": 1004.127663377,
         "deployedAt": "2026-01-26T08:38:31.949Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 179
+            "latency": 153
           },
           "redis": {
             "status": "up",
-            "latency": 2
+            "latency": null
           }
         }
       }
@@ -43245,10 +43251,16 @@
           "statusCode": 200,
           "responseTime": 307,
           "timestamp": "2026-01-26T08:53:38.941Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 290,
+          "timestamp": "2026-01-26T08:55:13.683Z"
         }
       ],
-      "lastCheck": "2026-01-26T08:53:38.941Z",
-      "responseTime": 307,
+      "lastCheck": "2026-01-26T08:55:13.683Z",
+      "responseTime": 290,
       "statusCode": 200,
       "uptime": {
         "day": 98.37,
