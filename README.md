@@ -1,12 +1,12 @@
-# 🟡 Scribelia Status
+# 🟢 Scribelia Status
 
 [![Status](https://status.scribelia.com/badge.svg)](https://status.scribelia.com)
 
 > État des services Scribelia en temps réel
 
-**Statut actuel:** 🟡 Performance dégradée
+**Statut actuel:** 🟢 Tous les systèmes opérationnels
 
-*Dernière mise à jour: 30/01/2026 00:34:04*
+*Dernière mise à jour: 30/01/2026 00:42:18*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 7893ms | 59.42% | 70.62% | 74.46% |
-| **Website** | ✅ Opérationnel | 349ms | 100% | 99.58% | 99.76% |
+| **API** | ✅ Opérationnel | 664ms | 60.29% | 70.62% | 74.45% |
+| **Website** | ✅ Opérationnel | 271ms | 100% | 99.58% | 99.76% |
 
 ---
 
@@ -23,9 +23,8 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 19m
-- **API** - ❌ Hors service depuis 6h 7m
-- **API** - ❌ Hors service depuis 7h 12m
+- **API** - ❌ Hors service depuis 6h 16m
+- **API** - ❌ Hors service depuis 7h 20m
 - **API** - ⚠️ Dégradé depuis 1j 5h
 - **API** - ⚠️ Dégradé depuis 1j 10h
 - **API** - ⚠️ Dégradé depuis 4j 6h
@@ -36,11 +35,11 @@
 
 ### ✅ Incidents résolus récemment
 
+- **API** - 29/01/2026 - Résolu en 27m
 - **API** - 29/01/2026 - Résolu en 6m
 - **API** - 29/01/2026 - Résolu en 9m
 - **API** - 29/01/2026 - Résolu en 51s
 - **API** - 29/01/2026 - Résolu en 16s
-- **API** - 29/01/2026 - Résolu en 24m
 
 ---
 
@@ -49,7 +48,7 @@
 ### API
 - **URL:** `https://api.scribelia.com/health`
 - **Description:** API Backend
-- **Temps de réponse moyen (24h):** 676ms
+- **Temps de réponse moyen (24h):** 673ms
 - **Temps de réponse moyen (7j):** 646ms
 
 ### Website
