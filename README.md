@@ -1,12 +1,12 @@
-# 🔴 Scribelia Status
+# 🟢 Scribelia Status
 
 [![Status](https://status.scribelia.com/badge.svg)](https://status.scribelia.com)
 
 > État des services Scribelia en temps réel
 
-**Statut actuel:** 🔴 Panne détectée
+**Statut actuel:** 🟢 Tous les systèmes opérationnels
 
-*Dernière mise à jour: 30/01/2026 23:21:18*
+*Dernière mise à jour: 30/01/2026 23:29:57*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ❌ Hors service | 10003ms | 50% | 67.61% | 73.95% |
-| **Website** | ✅ Opérationnel | 264ms | 100% | 99.55% | 99.79% |
+| **API** | ✅ Opérationnel | 912ms | 51.43% | 67.66% | 73.95% |
+| **Website** | ✅ Opérationnel | 250ms | 100% | 99.55% | 99.79% |
 
 ---
 
@@ -23,28 +23,27 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ❌ Hors service depuis 1s
-- **API** - ❌ Hors service depuis 3h 16m
-- **API** - ⚠️ Dégradé depuis 3h 37m
-- **API** - ❌ Hors service depuis 4h 0m
-- **API** - ❌ Hors service depuis 5h 58m
-- **API** - ❌ Hors service depuis 1j 4h
+- **API** - ❌ Hors service depuis 3h 25m
+- **API** - ⚠️ Dégradé depuis 3h 46m
+- **API** - ❌ Hors service depuis 4h 8m
+- **API** - ❌ Hors service depuis 6h 7m
 - **API** - ❌ Hors service depuis 1j 5h
+- **API** - ❌ Hors service depuis 1j 6h
 - **API** - ⚠️ Dégradé depuis 2j 4h
 - **API** - ⚠️ Dégradé depuis 2j 9h
 - **API** - ⚠️ Dégradé depuis 5j 5h
 - **API** - ❌ Hors service depuis 9j 7h
 - **API** - ⚠️ Dégradé depuis 9j 7h
 - **API** - ❌ Hors service depuis 18j 8h
-- **API** - ⚠️ Dégradé depuis 18j 9h
+- **API** - ⚠️ Dégradé depuis 18j 10h
 
 ### ✅ Incidents résolus récemment
 
+- **API** - 30/01/2026 - Résolu en 8m
 - **API** - 30/01/2026 - Résolu en 1m
 - **API** - 30/01/2026 - Résolu en 4m
 - **API** - 30/01/2026 - Résolu en 5m
 - **API** - 30/01/2026 - Résolu en 13m
-- **API** - 30/01/2026 - Résolu en 10m
 
 ---
 
@@ -53,7 +52,7 @@
 ### API
 - **URL:** `https://api.scribelia.com/health`
 - **Description:** API Backend
-- **Temps de réponse moyen (24h):** 692ms
+- **Temps de réponse moyen (24h):** 698ms
 - **Temps de réponse moyen (7j):** 649ms
 
 ### Website
