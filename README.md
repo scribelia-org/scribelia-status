@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟢 Tous les systèmes opérationnels
 
-*Dernière mise à jour: 01/02/2026 00:55:16*
+*Dernière mise à jour: 01/02/2026 00:57:48*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ✅ Opérationnel | 574ms | 67.01% | 65.13% | 73.47% |
-| **Website** | ✅ Opérationnel | 273ms | 100% | 99.52% | 99.79% |
+| **API** | ✅ Opérationnel | 410ms | 67.35% | 65.19% | 73.47% |
+| **Website** | ✅ Opérationnel | 278ms | 100% | 99.53% | 99.79% |
 
 ---
 
@@ -23,10 +23,10 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ❌ Hors service depuis 5h 33m
-- **API** - ⚠️ Dégradé depuis 11h 35m
-- **API** - ⚠️ Dégradé depuis 13h 31m
-- **API** - ❌ Hors service depuis 16h 38m
+- **API** - ❌ Hors service depuis 5h 35m
+- **API** - ⚠️ Dégradé depuis 11h 38m
+- **API** - ⚠️ Dégradé depuis 13h 34m
+- **API** - ❌ Hors service depuis 16h 41m
 - **API** - ❌ Hors service depuis 1j 4h
 - **API** - ⚠️ Dégradé depuis 1j 5h
 - **API** - ❌ Hors service depuis 1j 5h
@@ -37,7 +37,7 @@
 - **API** - ⚠️ Dégradé depuis 3j 10h
 - **API** - ⚠️ Dégradé depuis 6j 6h
 - **API** - ❌ Hors service depuis 10j 8h
-- **API** - ⚠️ Dégradé depuis 10j 8h
+- **API** - ⚠️ Dégradé depuis 10j 9h
 - **API** - ❌ Hors service depuis 19j 9h
 - **API** - ⚠️ Dégradé depuis 19j 11h
 
@@ -56,8 +56,8 @@
 ### API
 - **URL:** `https://api.scribelia.com/health`
 - **Description:** API Backend
-- **Temps de réponse moyen (24h):** 636ms
-- **Temps de réponse moyen (7j):** 656ms
+- **Temps de réponse moyen (24h):** 633ms
+- **Temps de réponse moyen (7j):** 655ms
 
 ### Website
 - **URL:** `https://scribelia.com`
