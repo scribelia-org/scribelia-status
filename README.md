@@ -1,12 +1,12 @@
-# 🟡 Scribelia Status
+# 🔴 Scribelia Status
 
 [![Status](https://status.scribelia.com/badge.svg)](https://status.scribelia.com)
 
 > État des services Scribelia en temps réel
 
-**Statut actuel:** 🟡 Performance dégradée
+**Statut actuel:** 🔴 Panne détectée
 
-*Dernière mise à jour: 31/01/2026 11:23:39*
+*Dernière mise à jour: 31/01/2026 11:47:26*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 7641ms | 54.55% | 66.62% | 73.84% |
-| **Website** | ✅ Opérationnel | 348ms | 100% | 99.54% | 99.79% |
+| **API** | ❌ Hors service | 10003ms | 53.95% | 66.56% | 73.8% |
+| **Website** | ✅ Opérationnel | 390ms | 100% | 99.54% | 99.79% |
 
 ---
 
@@ -23,13 +23,14 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 1s
-- **API** - ❌ Hors service depuis 3h 7m
-- **API** - ❌ Hors service depuis 15h 19m
-- **API** - ⚠️ Dégradé depuis 15h 40m
-- **API** - ❌ Hors service depuis 16h 2m
-- **API** - ❌ Hors service depuis 18h 0m
-- **API** - ❌ Hors service depuis 1j 16h
+- **API** - ❌ Hors service depuis 1s
+- **API** - ⚠️ Dégradé depuis 23m
+- **API** - ❌ Hors service depuis 3h 30m
+- **API** - ❌ Hors service depuis 15h 42m
+- **API** - ⚠️ Dégradé depuis 16h 4m
+- **API** - ❌ Hors service depuis 16h 26m
+- **API** - ❌ Hors service depuis 18h 24m
+- **API** - ❌ Hors service depuis 1j 17h
 - **API** - ❌ Hors service depuis 1j 18h
 - **API** - ⚠️ Dégradé depuis 2j 16h
 - **API** - ⚠️ Dégradé depuis 2j 21h
@@ -54,14 +55,14 @@
 ### API
 - **URL:** `https://api.scribelia.com/health`
 - **Description:** API Backend
-- **Temps de réponse moyen (24h):** 687ms
+- **Temps de réponse moyen (24h):** 683ms
 - **Temps de réponse moyen (7j):** 652ms
 
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
 - **Temps de réponse moyen (24h):** 308ms
-- **Temps de réponse moyen (7j):** 353ms
+- **Temps de réponse moyen (7j):** 352ms
 
 ---
 
