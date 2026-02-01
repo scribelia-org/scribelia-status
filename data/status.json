@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-01T21:50:35.016Z",
+  "lastUpdate": "2026-02-01T21:58:10.439Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -24943,31 +24943,37 @@
           "statusCode": 200,
           "responseTime": 670,
           "timestamp": "2026-02-01T21:50:34.510Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 547,
+          "timestamp": "2026-02-01T21:58:10.113Z"
         }
       ],
-      "lastCheck": "2026-02-01T21:50:34.510Z",
-      "responseTime": 670,
+      "lastCheck": "2026-02-01T21:58:10.113Z",
+      "responseTime": 547,
       "statusCode": 200,
       "uptime": {
         "day": 65.91,
         "week": 62.46,
-        "month": 73.12,
+        "month": 73.11,
         "all": 74.74
       },
       "avgResponseTime": {
-        "day": 666,
+        "day": 667,
         "week": 668,
         "month": 636
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 104.359113288,
+        "uptime": 559.973561582,
         "deployedAt": "2026-02-01T21:48:52.986Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 168
+            "latency": 181
           },
           "redis": {
             "status": "up",
@@ -49917,10 +49923,16 @@
           "statusCode": 200,
           "responseTime": 274,
           "timestamp": "2026-02-01T21:50:35.002Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 291,
+          "timestamp": "2026-02-01T21:58:10.424Z"
         }
       ],
-      "lastCheck": "2026-02-01T21:50:35.002Z",
-      "responseTime": 274,
+      "lastCheck": "2026-02-01T21:58:10.424Z",
+      "responseTime": 291,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -49929,9 +49941,9 @@
         "all": 99.78
       },
       "avgResponseTime": {
-        "day": 280,
+        "day": 281,
         "week": 304,
-        "month": 405
+        "month": 404
       }
     }
   },
