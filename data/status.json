@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-01T22:50:02.410Z",
+  "lastUpdate": "2026-02-01T22:57:05.533Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -24973,31 +24973,37 @@
           "statusCode": 200,
           "responseTime": 733,
           "timestamp": "2026-02-01T22:50:02.069Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 560,
+          "timestamp": "2026-02-01T22:57:05.218Z"
         }
       ],
-      "lastCheck": "2026-02-01T22:50:02.069Z",
-      "responseTime": 733,
+      "lastCheck": "2026-02-01T22:57:05.218Z",
+      "responseTime": 560,
       "statusCode": 200,
       "uptime": {
         "day": 66.67,
         "week": 62.33,
         "month": 73.1,
-        "all": 74.74
+        "all": 74.75
       },
       "avgResponseTime": {
-        "day": 666,
+        "day": 665,
         "week": 668,
         "month": 636
       },
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 1444.506311182,
+        "uptime": 1867.666386057,
         "deployedAt": "2026-02-01T22:26:01.575Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 173
+            "latency": 179
           },
           "redis": {
             "status": "up",
@@ -49977,10 +49983,16 @@
           "statusCode": 200,
           "responseTime": 295,
           "timestamp": "2026-02-01T22:50:02.396Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 282,
+          "timestamp": "2026-02-01T22:57:05.519Z"
         }
       ],
-      "lastCheck": "2026-02-01T22:50:02.396Z",
-      "responseTime": 295,
+      "lastCheck": "2026-02-01T22:57:05.519Z",
+      "responseTime": 282,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -49989,7 +50001,7 @@
         "all": 99.78
       },
       "avgResponseTime": {
-        "day": 286,
+        "day": 284,
         "week": 304,
         "month": 404
       }
