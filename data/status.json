@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-03T16:31:20.298Z",
+  "lastUpdate": "2026-02-03T17:07:14.248Z",
   "overallStatus": "outage",
   "sites": {
     "api": {
@@ -25477,19 +25477,25 @@
           "statusCode": 0,
           "responseTime": 10005,
           "timestamp": "2026-02-03T16:31:19.322Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 10005,
+          "timestamp": "2026-02-03T17:07:13.937Z"
         }
       ],
-      "lastCheck": "2026-02-03T16:31:19.322Z",
+      "lastCheck": "2026-02-03T17:07:13.937Z",
       "responseTime": 10005,
       "statusCode": 0,
       "uptime": {
-        "day": 52.27,
-        "week": 60.42,
-        "month": 71.91,
-        "all": 74.25
+        "day": 48.84,
+        "week": 60.46,
+        "month": 71.85,
+        "all": 74.23
       },
       "avgResponseTime": {
-        "day": 715,
+        "day": 708,
         "week": 671,
         "month": 638
       },
@@ -50985,10 +50991,16 @@
           "statusCode": 200,
           "responseTime": 933,
           "timestamp": "2026-02-03T16:31:20.274Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 269,
+          "timestamp": "2026-02-03T17:07:14.226Z"
         }
       ],
-      "lastCheck": "2026-02-03T16:31:20.274Z",
-      "responseTime": 933,
+      "lastCheck": "2026-02-03T17:07:14.226Z",
+      "responseTime": 269,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -50997,8 +51009,8 @@
         "all": 99.79
       },
       "avgResponseTime": {
-        "day": 397,
-        "week": 310,
+        "day": 390,
+        "week": 309,
         "month": 390
       }
     }
