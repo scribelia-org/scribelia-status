@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-02-06T10:22:31.212Z",
-  "overallStatus": "operational",
+  "lastUpdate": "2026-02-06T11:00:48.845Z",
+  "overallStatus": "outage",
   "sites": {
     "api": {
       "name": "API",
       "url": "https://api.scribelia.com/health",
       "description": "API Backend",
-      "status": "up",
+      "status": "down",
       "history": [
         {
           "status": "up",
@@ -26455,20 +26455,26 @@
           "statusCode": 200,
           "responseTime": 757,
           "timestamp": "2026-02-06T10:22:30.151Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 10003,
+          "timestamp": "2026-02-06T11:00:47.234Z"
         }
       ],
-      "lastCheck": "2026-02-06T10:22:30.151Z",
-      "responseTime": 757,
-      "statusCode": 200,
+      "lastCheck": "2026-02-06T11:00:47.234Z",
+      "responseTime": 10003,
+      "statusCode": 0,
       "uptime": {
-        "day": 44.26,
-        "week": 56.66,
-        "month": 70.26,
-        "all": 73.39
+        "day": 43.33,
+        "week": 56.57,
+        "month": 70.22,
+        "all": 73.37
       },
       "avgResponseTime": {
-        "day": 673,
-        "week": 666,
+        "day": 678,
+        "week": 665,
         "month": 643
       },
       "healthCheck": {
@@ -52941,25 +52947,46 @@
           "statusCode": 200,
           "responseTime": 831,
           "timestamp": "2026-02-06T10:22:31.194Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 1253,
+          "timestamp": "2026-02-06T11:00:48.826Z"
         }
       ],
-      "lastCheck": "2026-02-06T10:22:31.194Z",
-      "responseTime": 831,
+      "lastCheck": "2026-02-06T11:00:48.826Z",
+      "responseTime": 1253,
       "statusCode": 200,
       "uptime": {
-        "day": 98.36,
+        "day": 98.33,
         "week": 99.79,
         "month": 99.73,
         "all": 99.77
       },
       "avgResponseTime": {
-        "day": 651,
-        "week": 428,
+        "day": 665,
+        "week": 430,
         "month": 384
       }
     }
   },
   "incidents": [
+    {
+      "id": 1770375647573,
+      "site": "API",
+      "slug": "api",
+      "status": "down",
+      "startedAt": "2026-02-06T11:00:47.234Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "down",
+          "message": "API is down",
+          "timestamp": "2026-02-06T11:00:47.234Z"
+        }
+      ]
+    },
     {
       "id": 1770372613553,
       "site": "API",
