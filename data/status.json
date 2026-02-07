@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-07T10:58:54.037Z",
+  "lastUpdate": "2026-02-07T11:01:22.315Z",
   "overallStatus": "operational",
   "sites": {
     "api": {
@@ -26893,15 +26893,21 @@
           "statusCode": 200,
           "responseTime": 529,
           "timestamp": "2026-02-07T10:58:53.099Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 698,
+          "timestamp": "2026-02-07T11:01:21.517Z"
         }
       ],
-      "lastCheck": "2026-02-07T10:58:53.099Z",
-      "responseTime": 529,
+      "lastCheck": "2026-02-07T11:01:21.517Z",
+      "responseTime": 698,
       "statusCode": 200,
       "uptime": {
-        "day": 54.79,
+        "day": 56.16,
         "week": 56.75,
-        "month": 70.01,
+        "month": 70,
         "all": 73.09
       },
       "avgResponseTime": {
@@ -26912,12 +26918,12 @@
       "healthCheck": {
         "version": "1.0.0",
         "environment": "production",
-        "uptime": 1167.101128237,
+        "uptime": 1315.508113266,
         "deployedAt": "2026-02-07T10:39:28.983Z",
         "checks": {
           "database": {
             "status": "up",
-            "latency": 161
+            "latency": 157
           },
           "redis": {
             "status": "up",
@@ -53817,10 +53823,16 @@
           "statusCode": 200,
           "responseTime": 893,
           "timestamp": "2026-02-07T10:58:54.021Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 760,
+          "timestamp": "2026-02-07T11:01:22.299Z"
         }
       ],
-      "lastCheck": "2026-02-07T10:58:54.021Z",
-      "responseTime": 893,
+      "lastCheck": "2026-02-07T11:01:22.299Z",
+      "responseTime": 760,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -53829,8 +53841,8 @@
         "all": 99.78
       },
       "avgResponseTime": {
-        "day": 708,
-        "week": 492,
+        "day": 701,
+        "week": 493,
         "month": 384
       }
     }
