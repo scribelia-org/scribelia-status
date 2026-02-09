@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-09T09:09:50.292Z",
+  "lastUpdate": "2026-02-09T09:34:44.856Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -27799,16 +27799,22 @@
           "statusCode": 503,
           "responseTime": 384,
           "timestamp": "2026-02-09T09:09:45.492Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 400,
+          "timestamp": "2026-02-09T09:34:44.167Z"
         }
       ],
-      "lastCheck": "2026-02-09T09:09:45.492Z",
-      "responseTime": 384,
-      "statusCode": 503,
+      "lastCheck": "2026-02-09T09:34:44.167Z",
+      "responseTime": 400,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 36,
-        "month": 66.35,
-        "all": 70.88
+        "month": 66.34,
+        "all": 70.86
       },
       "avgResponseTime": {
         "day": 0,
@@ -27836,7 +27842,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "degraded",
+      "status": "up",
       "history": [
         {
           "status": "up",
@@ -55629,20 +55635,26 @@
           "statusCode": 200,
           "responseTime": 4310,
           "timestamp": "2026-02-09T09:09:49.821Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 388,
+          "timestamp": "2026-02-09T09:34:44.574Z"
         }
       ],
-      "lastCheck": "2026-02-09T09:09:49.821Z",
-      "responseTime": 4310,
+      "lastCheck": "2026-02-09T09:34:44.574Z",
+      "responseTime": 388,
       "statusCode": 200,
       "uptime": {
-        "day": 97.47,
+        "day": 97.44,
         "week": 99.33,
         "month": 99.65,
         "all": 99.74
       },
       "avgResponseTime": {
-        "day": 619,
-        "week": 619,
+        "day": 616,
+        "week": 620,
         "month": 379
       }
     }
@@ -55654,12 +55666,17 @@
       "slug": "website",
       "status": "degraded",
       "startedAt": "2026-02-09T09:09:49.821Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-02-09T09:34:44.574Z",
       "updates": [
         {
           "status": "degraded",
           "message": "Website is degraded",
           "timestamp": "2026-02-09T09:09:49.821Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-02-09T09:34:44.574Z"
         }
       ]
     },
