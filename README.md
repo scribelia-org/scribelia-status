@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 13/02/2026 20:28:13*
+*Dernière mise à jour: 13/02/2026 20:51:21*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 328ms | 0% | 8.77% | 58.69% |
-| **Website** | ✅ Opérationnel | 282ms | 100% | 99.29% | 99.69% |
+| **API** | ⚠️ Dégradé | 467ms | 0% | 8.53% | 58.6% |
+| **Website** | ✅ Opérationnel | 299ms | 100% | 99.29% | 99.69% |
 
 ---
 
@@ -27,23 +27,23 @@
 - **API** - ❌ Hors service depuis 7j 12h
 - **API** - ⚠️ Dégradé depuis 7j 13h
 - **API** - ❌ Hors service depuis 7j 17h
-- **API** - ⚠️ Dégradé depuis 7j 17h
-- **API** - ❌ Hors service depuis 7j 22h
+- **API** - ⚠️ Dégradé depuis 7j 18h
+- **API** - ❌ Hors service depuis 7j 23h
 - **API** - ❌ Hors service depuis 8j 1h
 - **API** - ❌ Hors service depuis 8j 8h
 - **API** - ⚠️ Dégradé depuis 8j 14h
-- **API** - ⚠️ Dégradé depuis 8j 23h
+- **API** - ⚠️ Dégradé depuis 9j 0h
 - **API** - ❌ Hors service depuis 9j 21h
-- **API** - ⚠️ Dégradé depuis 10j 3h
+- **API** - ⚠️ Dégradé depuis 10j 4h
 - **API** - ⚠️ Dégradé depuis 11j 7h
-- **API** - ❌ Hors service depuis 11j 9h
+- **API** - ❌ Hors service depuis 11j 10h
 - **API** - ⚠️ Dégradé depuis 11j 13h
 - **API** - ❌ Hors service depuis 13j 1h
 - **API** - ⚠️ Dégradé depuis 13j 7h
 - **API** - ⚠️ Dégradé depuis 13j 9h
 - **API** - ❌ Hors service depuis 13j 12h
 - **API** - ❌ Hors service depuis 14j 0h
-- **API** - ⚠️ Dégradé depuis 14j 0h
+- **API** - ⚠️ Dégradé depuis 14j 1h
 - **API** - ❌ Hors service depuis 14j 1h
 - **API** - ❌ Hors service depuis 14j 3h
 - **API** - ❌ Hors service depuis 15j 2h
@@ -72,13 +72,13 @@
 - **URL:** `https://api.scribelia.com/health`
 - **Description:** API Backend
 - **Temps de réponse moyen (24h):** 0ms
-- **Temps de réponse moyen (7j):** 656ms
+- **Temps de réponse moyen (7j):** 648ms
 
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 341ms
-- **Temps de réponse moyen (7j):** 487ms
+- **Temps de réponse moyen (24h):** 342ms
+- **Temps de réponse moyen (7j):** 486ms
 
 ---
 
