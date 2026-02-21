@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 21/02/2026 20:03:24*
+*Dernière mise à jour: 21/02/2026 20:14:17*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 402ms | 0% | 0% | 38.44% |
-| **Website** | ✅ Opérationnel | 193ms | 100% | 100% | 99.68% |
+| **API** | ⚠️ Dégradé | 617ms | 0% | 0% | 38.42% |
+| **Website** | ✅ Opérationnel | 1129ms | 100% | 100% | 99.68% |
 
 ---
 
@@ -24,14 +24,14 @@
 ### 🚨 Incidents en cours
 
 - **API** - ⚠️ Dégradé depuis 14j 3h
-- **API** - ❌ Hors service depuis 15j 11h
-- **API** - ⚠️ Dégradé depuis 15j 12h
+- **API** - ❌ Hors service depuis 15j 12h
+- **API** - ⚠️ Dégradé depuis 15j 13h
 - **API** - ❌ Hors service depuis 15j 16h
 - **API** - ⚠️ Dégradé depuis 15j 17h
 - **API** - ❌ Hors service depuis 15j 22h
-- **API** - ❌ Hors service depuis 16j 0h
+- **API** - ❌ Hors service depuis 16j 1h
 - **API** - ❌ Hors service depuis 16j 7h
-- **API** - ⚠️ Dégradé depuis 16j 13h
+- **API** - ⚠️ Dégradé depuis 16j 14h
 - **API** - ⚠️ Dégradé depuis 16j 23h
 - **API** - ❌ Hors service depuis 17j 20h
 - **API** - ⚠️ Dégradé depuis 18j 3h
@@ -42,14 +42,14 @@
 - **API** - ⚠️ Dégradé depuis 21j 6h
 - **API** - ⚠️ Dégradé depuis 21j 8h
 - **API** - ❌ Hors service depuis 21j 11h
-- **API** - ❌ Hors service depuis 21j 23h
+- **API** - ❌ Hors service depuis 22j 0h
 - **API** - ⚠️ Dégradé depuis 22j 0h
 - **API** - ❌ Hors service depuis 22j 0h
 - **API** - ❌ Hors service depuis 22j 2h
 - **API** - ❌ Hors service depuis 23j 1h
 - **API** - ❌ Hors service depuis 23j 2h
 - **API** - ⚠️ Dégradé depuis 24j 0h
-- **API** - ⚠️ Dégradé depuis 24j 5h
+- **API** - ⚠️ Dégradé depuis 24j 6h
 - **API** - ⚠️ Dégradé depuis 27j 1h
 - **API** - ❌ Hors service depuis 31j 4h
 - **API** - ⚠️ Dégradé depuis 31j 4h
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 526ms
-- **Temps de réponse moyen (7j):** 451ms
+- **Temps de réponse moyen (24h):** 536ms
+- **Temps de réponse moyen (7j):** 453ms
 
 ---
 
