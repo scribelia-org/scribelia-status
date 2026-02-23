@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 23/02/2026 18:57:39*
+*Dernière mise à jour: 23/02/2026 19:11:58*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 463ms | 0% | 0% | 31.69% |
-| **Website** | ✅ Opérationnel | 1473ms | 98.41% | 99.78% | 99.62% |
+| **API** | ⚠️ Dégradé | 498ms | 0% | 0% | 31.67% |
+| **Website** | ✅ Opérationnel | 312ms | 98.41% | 99.78% | 99.62% |
 
 ---
 
@@ -25,13 +25,13 @@
 
 - **API** - ⚠️ Dégradé depuis 16j 2h
 - **API** - ❌ Hors service depuis 17j 10h
-- **API** - ⚠️ Dégradé depuis 17j 11h
+- **API** - ⚠️ Dégradé depuis 17j 12h
 - **API** - ❌ Hors service depuis 17j 15h
 - **API** - ⚠️ Dégradé depuis 17j 16h
 - **API** - ❌ Hors service depuis 17j 21h
-- **API** - ❌ Hors service depuis 17j 23h
+- **API** - ❌ Hors service depuis 18j 0h
 - **API** - ❌ Hors service depuis 18j 6h
-- **API** - ⚠️ Dégradé depuis 18j 12h
+- **API** - ⚠️ Dégradé depuis 18j 13h
 - **API** - ⚠️ Dégradé depuis 18j 22h
 - **API** - ❌ Hors service depuis 19j 19h
 - **API** - ⚠️ Dégradé depuis 20j 2h
@@ -42,18 +42,18 @@
 - **API** - ⚠️ Dégradé depuis 23j 5h
 - **API** - ⚠️ Dégradé depuis 23j 7h
 - **API** - ❌ Hors service depuis 23j 10h
-- **API** - ❌ Hors service depuis 23j 22h
+- **API** - ❌ Hors service depuis 23j 23h
 - **API** - ⚠️ Dégradé depuis 23j 23h
 - **API** - ❌ Hors service depuis 23j 23h
 - **API** - ❌ Hors service depuis 24j 1h
 - **API** - ❌ Hors service depuis 25j 0h
 - **API** - ❌ Hors service depuis 25j 1h
 - **API** - ⚠️ Dégradé depuis 25j 23h
-- **API** - ⚠️ Dégradé depuis 26j 4h
+- **API** - ⚠️ Dégradé depuis 26j 5h
 - **API** - ⚠️ Dégradé depuis 29j 0h
-- **API** - ❌ Hors service depuis 33j 2h
+- **API** - ❌ Hors service depuis 33j 3h
 - **API** - ⚠️ Dégradé depuis 33j 3h
-- **API** - ❌ Hors service depuis 42j 3h
+- **API** - ❌ Hors service depuis 42j 4h
 - **API** - ⚠️ Dégradé depuis 42j 5h
 
 ### ✅ Incidents résolus récemment
