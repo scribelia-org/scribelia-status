@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-23T09:46:46.979Z",
+  "lastUpdate": "2026-02-23T10:31:10.440Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -33091,16 +33091,22 @@
           "statusCode": 500,
           "responseTime": 422,
           "timestamp": "2026-02-23T09:46:46.623Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 443,
+          "timestamp": "2026-02-23T10:31:06.735Z"
         }
       ],
-      "lastCheck": "2026-02-23T09:46:46.623Z",
-      "responseTime": 422,
-      "statusCode": 500,
+      "lastCheck": "2026-02-23T10:31:06.735Z",
+      "responseTime": 443,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
-        "month": 33.01,
-        "all": 59.54
+        "month": 32.88,
+        "all": 59.53
       },
       "avgResponseTime": {
         "day": 0,
@@ -33128,7 +33134,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "up",
+      "status": "degraded",
       "history": [
         {
           "status": "up",
@@ -66213,25 +66219,46 @@
           "statusCode": 200,
           "responseTime": 315,
           "timestamp": "2026-02-23T09:46:46.961Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 200,
+          "responseTime": 3419,
+          "timestamp": "2026-02-23T10:31:10.178Z"
         }
       ],
-      "lastCheck": "2026-02-23T09:46:46.961Z",
-      "responseTime": 315,
+      "lastCheck": "2026-02-23T10:31:10.178Z",
+      "responseTime": 3419,
       "statusCode": 200,
       "uptime": {
-        "day": 100,
-        "week": 100,
-        "month": 99.68,
-        "all": 99.76
+        "day": 98.73,
+        "week": 99.78,
+        "month": 99.63,
+        "all": 99.75
       },
       "avgResponseTime": {
-        "day": 445,
-        "week": 490,
+        "day": 444,
+        "week": 491,
         "month": 428
       }
     }
   },
   "incidents": [
+    {
+      "id": 1771842670440,
+      "site": "Website",
+      "slug": "website",
+      "status": "degraded",
+      "startedAt": "2026-02-23T10:31:10.178Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "degraded",
+          "message": "Website is degraded",
+          "timestamp": "2026-02-23T10:31:10.178Z"
+        }
+      ]
+    },
     {
       "id": 1770666502849,
       "site": "Website",
