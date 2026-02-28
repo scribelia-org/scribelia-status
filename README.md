@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 28/02/2026 18:58:00*
+*Dernière mise à jour: 28/02/2026 19:12:51*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 672ms | 0% | 0% | 15.76% |
-| **Website** | ✅ Opérationnel | 779ms | 100% | 99.56% | 99.68% |
+| **API** | ⚠️ Dégradé | 639ms | 0% | 0% | 15.72% |
+| **Website** | ✅ Opérationnel | 298ms | 100% | 99.56% | 99.68% |
 
 ---
 
@@ -25,13 +25,13 @@
 
 - **API** - ⚠️ Dégradé depuis 21j 2h
 - **API** - ❌ Hors service depuis 22j 10h
-- **API** - ⚠️ Dégradé depuis 22j 11h
+- **API** - ⚠️ Dégradé depuis 22j 12h
 - **API** - ❌ Hors service depuis 22j 15h
 - **API** - ⚠️ Dégradé depuis 22j 16h
 - **API** - ❌ Hors service depuis 22j 21h
-- **API** - ❌ Hors service depuis 22j 23h
+- **API** - ❌ Hors service depuis 23j 0h
 - **API** - ❌ Hors service depuis 23j 6h
-- **API** - ⚠️ Dégradé depuis 23j 12h
+- **API** - ⚠️ Dégradé depuis 23j 13h
 - **API** - ⚠️ Dégradé depuis 23j 22h
 - **API** - ❌ Hors service depuis 24j 19h
 - **API** - ⚠️ Dégradé depuis 25j 2h
@@ -42,18 +42,18 @@
 - **API** - ⚠️ Dégradé depuis 28j 5h
 - **API** - ⚠️ Dégradé depuis 28j 7h
 - **API** - ❌ Hors service depuis 28j 10h
-- **API** - ❌ Hors service depuis 28j 22h
+- **API** - ❌ Hors service depuis 28j 23h
 - **API** - ⚠️ Dégradé depuis 28j 23h
 - **API** - ❌ Hors service depuis 28j 23h
 - **API** - ❌ Hors service depuis 29j 1h
 - **API** - ❌ Hors service depuis 30j 0h
 - **API** - ❌ Hors service depuis 30j 1h
 - **API** - ⚠️ Dégradé depuis 30j 23h
-- **API** - ⚠️ Dégradé depuis 31j 4h
+- **API** - ⚠️ Dégradé depuis 31j 5h
 - **API** - ⚠️ Dégradé depuis 34j 0h
-- **API** - ❌ Hors service depuis 38j 2h
+- **API** - ❌ Hors service depuis 38j 3h
 - **API** - ⚠️ Dégradé depuis 38j 3h
-- **API** - ❌ Hors service depuis 47j 3h
+- **API** - ❌ Hors service depuis 47j 4h
 - **API** - ⚠️ Dégradé depuis 47j 5h
 
 ### ✅ Incidents résolus récemment
