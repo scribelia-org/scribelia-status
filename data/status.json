@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-01T19:30:29.991Z",
-  "overallStatus": "degraded",
+  "lastUpdate": "2026-03-01T19:38:05.568Z",
+  "overallStatus": "outage",
   "sites": {
     "api": {
       "name": "API",
@@ -37573,16 +37573,22 @@
           "statusCode": 503,
           "responseTime": 310,
           "timestamp": "2026-03-01T19:30:29.744Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 404,
+          "timestamp": "2026-03-01T19:38:05.039Z"
         }
       ],
-      "lastCheck": "2026-03-01T19:30:29.744Z",
-      "responseTime": 310,
+      "lastCheck": "2026-03-01T19:38:05.039Z",
+      "responseTime": 404,
       "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 13.22,
-        "all": 52.44
+        "all": 52.43
       },
       "avgResponseTime": {
         "day": 0,
@@ -37610,7 +37616,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "up",
+      "status": "down",
       "history": [
         {
           "status": "up",
@@ -75177,25 +75183,46 @@
           "statusCode": 200,
           "responseTime": 195,
           "timestamp": "2026-03-01T19:30:29.970Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 228,
+          "timestamp": "2026-03-01T19:38:05.294Z"
         }
       ],
-      "lastCheck": "2026-03-01T19:30:29.970Z",
-      "responseTime": 195,
-      "statusCode": 200,
+      "lastCheck": "2026-03-01T19:38:05.294Z",
+      "responseTime": 228,
+      "statusCode": 0,
       "uptime": {
-        "day": 100,
-        "week": 99.62,
-        "month": 99.7,
-        "all": 99.74
+        "day": 99.45,
+        "week": 99.49,
+        "month": 99.65,
+        "all": 99.73
       },
       "avgResponseTime": {
-        "day": 318,
+        "day": 319,
         "week": 328,
         "month": 413
       }
     }
   },
   "incidents": [
+    {
+      "id": 1772393885568,
+      "site": "Website",
+      "slug": "website",
+      "status": "down",
+      "startedAt": "2026-03-01T19:38:05.294Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "down",
+          "message": "Website is down",
+          "timestamp": "2026-03-01T19:38:05.294Z"
+        }
+      ]
+    },
     {
       "id": 1772182927379,
       "site": "Website",
