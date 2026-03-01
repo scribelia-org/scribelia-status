@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-03-01T19:38:05.568Z",
-  "overallStatus": "outage",
+  "lastUpdate": "2026-03-01T19:40:22.447Z",
+  "overallStatus": "degraded",
   "sites": {
     "api": {
       "name": "API",
@@ -37579,16 +37579,22 @@
           "statusCode": 503,
           "responseTime": 404,
           "timestamp": "2026-03-01T19:38:05.039Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 445,
+          "timestamp": "2026-03-01T19:40:21.589Z"
         }
       ],
-      "lastCheck": "2026-03-01T19:38:05.039Z",
-      "responseTime": 404,
+      "lastCheck": "2026-03-01T19:40:21.589Z",
+      "responseTime": 445,
       "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 13.22,
-        "all": 52.43
+        "all": 52.42
       },
       "avgResponseTime": {
         "day": 0,
@@ -37616,7 +37622,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "down",
+      "status": "up",
       "history": [
         {
           "status": "up",
@@ -75189,21 +75195,27 @@
           "statusCode": 0,
           "responseTime": 228,
           "timestamp": "2026-03-01T19:38:05.294Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 205,
+          "timestamp": "2026-03-01T19:40:21.841Z"
         }
       ],
-      "lastCheck": "2026-03-01T19:38:05.294Z",
-      "responseTime": 228,
-      "statusCode": 0,
+      "lastCheck": "2026-03-01T19:40:21.841Z",
+      "responseTime": 205,
+      "statusCode": 200,
       "uptime": {
-        "day": 99.45,
+        "day": 99.46,
         "week": 99.49,
         "month": 99.65,
         "all": 99.73
       },
       "avgResponseTime": {
-        "day": 319,
-        "week": 328,
-        "month": 413
+        "day": 318,
+        "week": 327,
+        "month": 412
       }
     }
   },
@@ -75214,12 +75226,17 @@
       "slug": "website",
       "status": "down",
       "startedAt": "2026-03-01T19:38:05.294Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-03-01T19:40:21.841Z",
       "updates": [
         {
           "status": "down",
           "message": "Website is down",
           "timestamp": "2026-03-01T19:38:05.294Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-03-01T19:40:21.841Z"
         }
       ]
     },
