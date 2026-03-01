@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 01/03/2026 10:00:14*
+*Dernière mise à jour: 01/03/2026 10:12:38*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 424ms | 0% | 0% | 14.22% |
-| **Website** | ✅ Opérationnel | 237ms | 100% | 99.59% | 99.69% |
+| **API** | ⚠️ Dégradé | 556ms | 0% | 0% | 14.17% |
+| **Website** | ✅ Opérationnel | 252ms | 100% | 99.59% | 99.69% |
 
 ---
 
@@ -25,13 +25,13 @@
 
 - **API** - ⚠️ Dégradé depuis 21j 17h
 - **API** - ❌ Hors service depuis 23j 1h
-- **API** - ⚠️ Dégradé depuis 23j 2h
+- **API** - ⚠️ Dégradé depuis 23j 3h
 - **API** - ❌ Hors service depuis 23j 6h
 - **API** - ⚠️ Dégradé depuis 23j 7h
 - **API** - ❌ Hors service depuis 23j 12h
-- **API** - ❌ Hors service depuis 23j 14h
+- **API** - ❌ Hors service depuis 23j 15h
 - **API** - ❌ Hors service depuis 23j 21h
-- **API** - ⚠️ Dégradé depuis 24j 3h
+- **API** - ⚠️ Dégradé depuis 24j 4h
 - **API** - ⚠️ Dégradé depuis 24j 13h
 - **API** - ❌ Hors service depuis 25j 10h
 - **API** - ⚠️ Dégradé depuis 25j 17h
@@ -42,18 +42,18 @@
 - **API** - ⚠️ Dégradé depuis 28j 20h
 - **API** - ⚠️ Dégradé depuis 28j 22h
 - **API** - ❌ Hors service depuis 29j 1h
-- **API** - ❌ Hors service depuis 29j 13h
+- **API** - ❌ Hors service depuis 29j 14h
 - **API** - ⚠️ Dégradé depuis 29j 14h
 - **API** - ❌ Hors service depuis 29j 14h
 - **API** - ❌ Hors service depuis 29j 16h
 - **API** - ❌ Hors service depuis 30j 15h
 - **API** - ❌ Hors service depuis 30j 16h
 - **API** - ⚠️ Dégradé depuis 31j 14h
-- **API** - ⚠️ Dégradé depuis 31j 19h
+- **API** - ⚠️ Dégradé depuis 31j 20h
 - **API** - ⚠️ Dégradé depuis 34j 15h
 - **API** - ❌ Hors service depuis 38j 18h
 - **API** - ⚠️ Dégradé depuis 38j 18h
-- **API** - ❌ Hors service depuis 47j 18h
+- **API** - ❌ Hors service depuis 47j 19h
 - **API** - ⚠️ Dégradé depuis 47j 20h
 
 ### ✅ Incidents résolus récemment
