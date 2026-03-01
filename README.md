@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 01/03/2026 13:59:43*
+*Dernière mise à jour: 01/03/2026 14:11:19*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 428ms | 0% | 0% | 13.76% |
-| **Website** | ✅ Opérationnel | 233ms | 100% | 99.6% | 99.69% |
+| **API** | ⚠️ Dégradé | 394ms | 0% | 0% | 13.72% |
+| **Website** | ✅ Opérationnel | 297ms | 100% | 99.6% | 99.69% |
 
 ---
 
@@ -25,13 +25,13 @@
 
 - **API** - ⚠️ Dégradé depuis 21j 21h
 - **API** - ❌ Hors service depuis 23j 5h
-- **API** - ⚠️ Dégradé depuis 23j 6h
+- **API** - ⚠️ Dégradé depuis 23j 7h
 - **API** - ❌ Hors service depuis 23j 10h
 - **API** - ⚠️ Dégradé depuis 23j 11h
 - **API** - ❌ Hors service depuis 23j 16h
-- **API** - ❌ Hors service depuis 23j 18h
+- **API** - ❌ Hors service depuis 23j 19h
 - **API** - ❌ Hors service depuis 24j 1h
-- **API** - ⚠️ Dégradé depuis 24j 7h
+- **API** - ⚠️ Dégradé depuis 24j 8h
 - **API** - ⚠️ Dégradé depuis 24j 17h
 - **API** - ❌ Hors service depuis 25j 14h
 - **API** - ⚠️ Dégradé depuis 25j 21h
@@ -42,18 +42,18 @@
 - **API** - ⚠️ Dégradé depuis 29j 0h
 - **API** - ⚠️ Dégradé depuis 29j 2h
 - **API** - ❌ Hors service depuis 29j 5h
-- **API** - ❌ Hors service depuis 29j 17h
+- **API** - ❌ Hors service depuis 29j 18h
 - **API** - ⚠️ Dégradé depuis 29j 18h
 - **API** - ❌ Hors service depuis 29j 18h
 - **API** - ❌ Hors service depuis 29j 20h
 - **API** - ❌ Hors service depuis 30j 19h
 - **API** - ❌ Hors service depuis 30j 20h
 - **API** - ⚠️ Dégradé depuis 31j 18h
-- **API** - ⚠️ Dégradé depuis 31j 23h
+- **API** - ⚠️ Dégradé depuis 32j 0h
 - **API** - ⚠️ Dégradé depuis 34j 19h
 - **API** - ❌ Hors service depuis 38j 22h
 - **API** - ⚠️ Dégradé depuis 38j 22h
-- **API** - ❌ Hors service depuis 47j 22h
+- **API** - ❌ Hors service depuis 47j 23h
 - **API** - ⚠️ Dégradé depuis 48j 0h
 
 ### ✅ Incidents résolus récemment
