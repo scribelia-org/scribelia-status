@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 01/03/2026 20:12:19*
+*Dernière mise à jour: 01/03/2026 20:17:32*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 455ms | 0% | 0% | 13.23% |
-| **Website** | ✅ Opérationnel | 88ms | 100% | 99.62% | 99.7% |
+| **API** | ⚠️ Dégradé | 513ms | 0% | 0% | 13.23% |
+| **Website** | ✅ Opérationnel | 1130ms | 100% | 99.62% | 99.7% |
 
 ---
 
@@ -24,7 +24,7 @@
 ### 🚨 Incidents en cours
 
 - **API** - ⚠️ Dégradé depuis 22j 3h
-- **API** - ❌ Hors service depuis 23j 11h
+- **API** - ❌ Hors service depuis 23j 12h
 - **API** - ⚠️ Dégradé depuis 23j 13h
 - **API** - ❌ Hors service depuis 23j 16h
 - **API** - ⚠️ Dégradé depuis 23j 17h
@@ -37,11 +37,11 @@
 - **API** - ⚠️ Dégradé depuis 26j 3h
 - **API** - ⚠️ Dégradé depuis 27j 6h
 - **API** - ❌ Hors service depuis 27j 9h
-- **API** - ⚠️ Dégradé depuis 27j 12h
+- **API** - ⚠️ Dégradé depuis 27j 13h
 - **API** - ❌ Hors service depuis 29j 0h
 - **API** - ⚠️ Dégradé depuis 29j 6h
 - **API** - ⚠️ Dégradé depuis 29j 8h
-- **API** - ❌ Hors service depuis 29j 11h
+- **API** - ❌ Hors service depuis 29j 12h
 - **API** - ❌ Hors service depuis 30j 0h
 - **API** - ⚠️ Dégradé depuis 30j 0h
 - **API** - ❌ Hors service depuis 30j 0h
@@ -50,7 +50,7 @@
 - **API** - ❌ Hors service depuis 31j 2h
 - **API** - ⚠️ Dégradé depuis 32j 0h
 - **API** - ⚠️ Dégradé depuis 32j 6h
-- **API** - ⚠️ Dégradé depuis 35j 1h
+- **API** - ⚠️ Dégradé depuis 35j 2h
 - **API** - ❌ Hors service depuis 39j 4h
 - **API** - ⚠️ Dégradé depuis 39j 4h
 - **API** - ❌ Hors service depuis 48j 5h
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 311ms
-- **Temps de réponse moyen (7j):** 327ms
+- **Temps de réponse moyen (24h):** 316ms
+- **Temps de réponse moyen (7j):** 328ms
 
 ---
 
