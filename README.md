@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 02/03/2026 00:59:59*
+*Dernière mise à jour: 02/03/2026 01:10:01*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 511ms | 0% | 0% | 12.47% |
-| **Website** | ✅ Opérationnel | 360ms | 99.45% | 99.51% | 99.66% |
+| **API** | ⚠️ Dégradé | 658ms | 0% | 0% | 12.47% |
+| **Website** | ✅ Opérationnel | 359ms | 99.45% | 99.51% | 99.66% |
 
 ---
 
@@ -25,13 +25,13 @@
 
 - **API** - ⚠️ Dégradé depuis 22j 8h
 - **API** - ❌ Hors service depuis 23j 16h
-- **API** - ⚠️ Dégradé depuis 23j 17h
+- **API** - ⚠️ Dégradé depuis 23j 18h
 - **API** - ❌ Hors service depuis 23j 21h
 - **API** - ⚠️ Dégradé depuis 23j 22h
 - **API** - ❌ Hors service depuis 24j 3h
-- **API** - ❌ Hors service depuis 24j 5h
+- **API** - ❌ Hors service depuis 24j 6h
 - **API** - ❌ Hors service depuis 24j 12h
-- **API** - ⚠️ Dégradé depuis 24j 18h
+- **API** - ⚠️ Dégradé depuis 24j 19h
 - **API** - ⚠️ Dégradé depuis 25j 4h
 - **API** - ❌ Hors service depuis 26j 1h
 - **API** - ⚠️ Dégradé depuis 26j 8h
@@ -42,18 +42,18 @@
 - **API** - ⚠️ Dégradé depuis 29j 11h
 - **API** - ⚠️ Dégradé depuis 29j 13h
 - **API** - ❌ Hors service depuis 29j 16h
-- **API** - ❌ Hors service depuis 30j 4h
+- **API** - ❌ Hors service depuis 30j 5h
 - **API** - ⚠️ Dégradé depuis 30j 5h
 - **API** - ❌ Hors service depuis 30j 5h
 - **API** - ❌ Hors service depuis 30j 7h
 - **API** - ❌ Hors service depuis 31j 6h
 - **API** - ❌ Hors service depuis 31j 7h
 - **API** - ⚠️ Dégradé depuis 32j 5h
-- **API** - ⚠️ Dégradé depuis 32j 10h
+- **API** - ⚠️ Dégradé depuis 32j 11h
 - **API** - ⚠️ Dégradé depuis 35j 6h
 - **API** - ❌ Hors service depuis 39j 9h
 - **API** - ⚠️ Dégradé depuis 39j 9h
-- **API** - ❌ Hors service depuis 48j 9h
+- **API** - ❌ Hors service depuis 48j 10h
 - **API** - ⚠️ Dégradé depuis 48j 11h
 
 ### ✅ Incidents résolus récemment
