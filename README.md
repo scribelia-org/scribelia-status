@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 03/03/2026 05:17:44*
+*Dernière mise à jour: 03/03/2026 05:23:01*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 491ms | 0% | 0% | 9.43% |
-| **Website** | ✅ Opérationnel | 1018ms | 99.24% | 99.67% | 99.62% |
+| **API** | ⚠️ Dégradé | 638ms | 0% | 0% | 9.42% |
+| **Website** | ✅ Opérationnel | 318ms | 99.24% | 99.67% | 99.62% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 23j 12h
+- **API** - ⚠️ Dégradé depuis 23j 13h
 - **API** - ❌ Hors service depuis 24j 21h
 - **API** - ⚠️ Dégradé depuis 24j 22h
 - **API** - ❌ Hors service depuis 25j 1h
@@ -33,22 +33,22 @@
 - **API** - ❌ Hors service depuis 25j 16h
 - **API** - ⚠️ Dégradé depuis 25j 23h
 - **API** - ⚠️ Dégradé depuis 26j 8h
-- **API** - ❌ Hors service depuis 27j 5h
+- **API** - ❌ Hors service depuis 27j 6h
 - **API** - ⚠️ Dégradé depuis 27j 12h
 - **API** - ⚠️ Dégradé depuis 28j 15h
 - **API** - ❌ Hors service depuis 28j 18h
 - **API** - ⚠️ Dégradé depuis 28j 22h
-- **API** - ❌ Hors service depuis 30j 9h
-- **API** - ⚠️ Dégradé depuis 30j 15h
+- **API** - ❌ Hors service depuis 30j 10h
+- **API** - ⚠️ Dégradé depuis 30j 16h
 - **API** - ⚠️ Dégradé depuis 30j 17h
 - **API** - ❌ Hors service depuis 30j 21h
 - **API** - ❌ Hors service depuis 31j 9h
 - **API** - ⚠️ Dégradé depuis 31j 9h
-- **API** - ❌ Hors service depuis 31j 9h
-- **API** - ❌ Hors service depuis 31j 11h
+- **API** - ❌ Hors service depuis 31j 10h
+- **API** - ❌ Hors service depuis 31j 12h
 - **API** - ❌ Hors service depuis 32j 10h
-- **API** - ❌ Hors service depuis 32j 11h
-- **API** - ⚠️ Dégradé depuis 33j 9h
+- **API** - ❌ Hors service depuis 32j 12h
+- **API** - ⚠️ Dégradé depuis 33j 10h
 - **API** - ⚠️ Dégradé depuis 33j 15h
 - **API** - ⚠️ Dégradé depuis 36j 11h
 - **API** - ❌ Hors service depuis 40j 13h
