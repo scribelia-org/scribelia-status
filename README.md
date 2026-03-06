@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 07/03/2026 00:24:29*
+*Dernière mise à jour: 07/03/2026 00:27:45*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 377ms | 0% | 0% | 3.22% |
-| **Website** | ✅ Opérationnel | 641ms | 100% | 99.81% | 99.66% |
+| **API** | ⚠️ Dégradé | 545ms | 0% | 0% | 3.22% |
+| **Website** | ✅ Opérationnel | 535ms | 100% | 99.81% | 99.66% |
 
 ---
 
@@ -26,16 +26,16 @@
 - **API** - ⚠️ Dégradé depuis 27j 8h
 - **API** - ❌ Hors service depuis 28j 16h
 - **API** - ⚠️ Dégradé depuis 28j 17h
-- **API** - ❌ Hors service depuis 28j 20h
+- **API** - ❌ Hors service depuis 28j 21h
 - **API** - ⚠️ Dégradé depuis 28j 21h
 - **API** - ❌ Hors service depuis 29j 2h
 - **API** - ❌ Hors service depuis 29j 5h
-- **API** - ❌ Hors service depuis 29j 11h
+- **API** - ❌ Hors service depuis 29j 12h
 - **API** - ⚠️ Dégradé depuis 29j 18h
 - **API** - ⚠️ Dégradé depuis 30j 3h
 - **API** - ❌ Hors service depuis 31j 1h
 - **API** - ⚠️ Dégradé depuis 31j 7h
-- **API** - ⚠️ Dégradé depuis 32j 10h
+- **API** - ⚠️ Dégradé depuis 32j 11h
 - **API** - ❌ Hors service depuis 32j 13h
 - **API** - ⚠️ Dégradé depuis 32j 17h
 - **API** - ❌ Hors service depuis 34j 5h
@@ -46,7 +46,7 @@
 - **API** - ⚠️ Dégradé depuis 35j 4h
 - **API** - ❌ Hors service depuis 35j 5h
 - **API** - ❌ Hors service depuis 35j 7h
-- **API** - ❌ Hors service depuis 36j 5h
+- **API** - ❌ Hors service depuis 36j 6h
 - **API** - ❌ Hors service depuis 36j 7h
 - **API** - ⚠️ Dégradé depuis 37j 5h
 - **API** - ⚠️ Dégradé depuis 37j 10h
