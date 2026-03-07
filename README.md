@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 07/03/2026 03:01:44*
+*Dernière mise à jour: 07/03/2026 03:13:22*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 429ms | 0% | 0% | 3.1% |
-| **Website** | ✅ Opérationnel | 239ms | 100% | 99.81% | 99.66% |
+| **API** | ⚠️ Dégradé | 572ms | 0% | 0% | 3.1% |
+| **Website** | ✅ Opérationnel | 1112ms | 100% | 99.81% | 99.66% |
 
 ---
 
@@ -24,14 +24,14 @@
 ### 🚨 Incidents en cours
 
 - **API** - ⚠️ Dégradé depuis 27j 10h
-- **API** - ❌ Hors service depuis 28j 18h
-- **API** - ⚠️ Dégradé depuis 28j 19h
+- **API** - ❌ Hors service depuis 28j 19h
+- **API** - ⚠️ Dégradé depuis 28j 20h
 - **API** - ❌ Hors service depuis 28j 23h
 - **API** - ⚠️ Dégradé depuis 29j 0h
 - **API** - ❌ Hors service depuis 29j 5h
-- **API** - ❌ Hors service depuis 29j 7h
+- **API** - ❌ Hors service depuis 29j 8h
 - **API** - ❌ Hors service depuis 29j 14h
-- **API** - ⚠️ Dégradé depuis 29j 20h
+- **API** - ⚠️ Dégradé depuis 29j 21h
 - **API** - ⚠️ Dégradé depuis 30j 6h
 - **API** - ❌ Hors service depuis 31j 3h
 - **API** - ⚠️ Dégradé depuis 31j 10h
@@ -42,14 +42,14 @@
 - **API** - ⚠️ Dégradé depuis 34j 13h
 - **API** - ⚠️ Dégradé depuis 34j 15h
 - **API** - ❌ Hors service depuis 34j 18h
-- **API** - ❌ Hors service depuis 35j 6h
+- **API** - ❌ Hors service depuis 35j 7h
 - **API** - ⚠️ Dégradé depuis 35j 7h
 - **API** - ❌ Hors service depuis 35j 7h
 - **API** - ❌ Hors service depuis 35j 9h
 - **API** - ❌ Hors service depuis 36j 8h
 - **API** - ❌ Hors service depuis 36j 9h
 - **API** - ⚠️ Dégradé depuis 37j 7h
-- **API** - ⚠️ Dégradé depuis 37j 12h
+- **API** - ⚠️ Dégradé depuis 37j 13h
 - **API** - ⚠️ Dégradé depuis 40j 8h
 - **API** - ❌ Hors service depuis 44j 11h
 - **API** - ⚠️ Dégradé depuis 44j 11h
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 472ms
-- **Temps de réponse moyen (7j):** 391ms
+- **Temps de réponse moyen (24h):** 476ms
+- **Temps de réponse moyen (7j):** 392ms
 
 ---
 
