@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-09T03:20:44.108Z",
+  "lastUpdate": "2026-03-09T04:09:42.455Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -44149,10 +44149,16 @@
           "statusCode": 503,
           "responseTime": 519,
           "timestamp": "2026-03-09T03:20:39.643Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 483,
+          "timestamp": "2026-03-09T04:09:41.908Z"
         }
       ],
-      "lastCheck": "2026-03-09T03:20:39.643Z",
-      "responseTime": 519,
+      "lastCheck": "2026-03-09T04:09:41.908Z",
+      "responseTime": 483,
       "statusCode": 503,
       "uptime": {
         "day": 0,
@@ -44186,7 +44192,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "degraded",
+      "status": "up",
       "history": [
         {
           "status": "up",
@@ -88329,10 +88335,16 @@
           "statusCode": 200,
           "responseTime": 4019,
           "timestamp": "2026-03-09T03:20:43.693Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 288,
+          "timestamp": "2026-03-09T04:09:42.224Z"
         }
       ],
-      "lastCheck": "2026-03-09T03:20:43.693Z",
-      "responseTime": 4019,
+      "lastCheck": "2026-03-09T04:09:42.224Z",
+      "responseTime": 288,
       "statusCode": 200,
       "uptime": {
         "day": 99.46,
@@ -88354,12 +88366,17 @@
       "slug": "website",
       "status": "degraded",
       "startedAt": "2026-03-09T03:20:43.693Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-03-09T04:09:42.224Z",
       "updates": [
         {
           "status": "degraded",
           "message": "Website is degraded",
           "timestamp": "2026-03-09T03:20:43.693Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-03-09T04:09:42.224Z"
         }
       ]
     },
