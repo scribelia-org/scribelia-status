@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 14/03/2026 11:02:24*
+*Dernière mise à jour: 14/03/2026 11:13:22*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 450ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 255ms | 100% | 99.61% | 99.73% |
+| **API** | ⚠️ Dégradé | 334ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 329ms | 100% | 99.61% | 99.73% |
 
 ---
 
@@ -24,14 +24,14 @@
 ### 🚨 Incidents en cours
 
 - **API** - ⚠️ Dégradé depuis 34j 18h
-- **API** - ❌ Hors service depuis 36j 2h
-- **API** - ⚠️ Dégradé depuis 36j 3h
+- **API** - ❌ Hors service depuis 36j 3h
+- **API** - ⚠️ Dégradé depuis 36j 4h
 - **API** - ❌ Hors service depuis 36j 7h
 - **API** - ⚠️ Dégradé depuis 36j 8h
 - **API** - ❌ Hors service depuis 36j 13h
-- **API** - ❌ Hors service depuis 36j 15h
+- **API** - ❌ Hors service depuis 36j 16h
 - **API** - ❌ Hors service depuis 36j 22h
-- **API** - ⚠️ Dégradé depuis 37j 4h
+- **API** - ⚠️ Dégradé depuis 37j 5h
 - **API** - ⚠️ Dégradé depuis 37j 14h
 - **API** - ❌ Hors service depuis 38j 11h
 - **API** - ⚠️ Dégradé depuis 38j 18h
@@ -42,14 +42,14 @@
 - **API** - ⚠️ Dégradé depuis 41j 21h
 - **API** - ⚠️ Dégradé depuis 41j 23h
 - **API** - ❌ Hors service depuis 42j 2h
-- **API** - ❌ Hors service depuis 42j 14h
+- **API** - ❌ Hors service depuis 42j 15h
 - **API** - ⚠️ Dégradé depuis 42j 15h
 - **API** - ❌ Hors service depuis 42j 15h
 - **API** - ❌ Hors service depuis 42j 17h
 - **API** - ❌ Hors service depuis 43j 16h
 - **API** - ❌ Hors service depuis 43j 17h
 - **API** - ⚠️ Dégradé depuis 44j 15h
-- **API** - ⚠️ Dégradé depuis 44j 20h
+- **API** - ⚠️ Dégradé depuis 44j 21h
 - **API** - ⚠️ Dégradé depuis 47j 16h
 - **API** - ❌ Hors service depuis 51j 19h
 - **API** - ⚠️ Dégradé depuis 51j 19h
@@ -77,7 +77,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 263ms
+- **Temps de réponse moyen (24h):** 264ms
 - **Temps de réponse moyen (7j):** 338ms
 
 ---
