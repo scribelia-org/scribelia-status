@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 15/03/2026 21:13:04*
+*Dernière mise à jour: 15/03/2026 21:21:16*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 537ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 334ms | 100% | 99.7% | 99.74% |
+| **API** | ⚠️ Dégradé | 532ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 172ms | 100% | 99.7% | 99.74% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 36j 4h
+- **API** - ⚠️ Dégradé depuis 36j 5h
 - **API** - ❌ Hors service depuis 37j 13h
 - **API** - ⚠️ Dégradé depuis 37j 14h
 - **API** - ❌ Hors service depuis 37j 17h
@@ -33,24 +33,24 @@
 - **API** - ❌ Hors service depuis 38j 8h
 - **API** - ⚠️ Dégradé depuis 38j 15h
 - **API** - ⚠️ Dégradé depuis 39j 0h
-- **API** - ❌ Hors service depuis 39j 21h
+- **API** - ❌ Hors service depuis 39j 22h
 - **API** - ⚠️ Dégradé depuis 40j 4h
 - **API** - ⚠️ Dégradé depuis 41j 7h
 - **API** - ❌ Hors service depuis 41j 10h
-- **API** - ⚠️ Dégradé depuis 41j 13h
+- **API** - ⚠️ Dégradé depuis 41j 14h
 - **API** - ❌ Hors service depuis 43j 1h
-- **API** - ⚠️ Dégradé depuis 43j 7h
+- **API** - ⚠️ Dégradé depuis 43j 8h
 - **API** - ⚠️ Dégradé depuis 43j 9h
-- **API** - ❌ Hors service depuis 43j 12h
+- **API** - ❌ Hors service depuis 43j 13h
 - **API** - ❌ Hors service depuis 44j 1h
 - **API** - ⚠️ Dégradé depuis 44j 1h
 - **API** - ❌ Hors service depuis 44j 1h
 - **API** - ❌ Hors service depuis 44j 3h
 - **API** - ❌ Hors service depuis 45j 2h
 - **API** - ❌ Hors service depuis 45j 3h
-- **API** - ⚠️ Dégradé depuis 46j 1h
+- **API** - ⚠️ Dégradé depuis 46j 2h
 - **API** - ⚠️ Dégradé depuis 46j 7h
-- **API** - ⚠️ Dégradé depuis 49j 2h
+- **API** - ⚠️ Dégradé depuis 49j 3h
 - **API** - ❌ Hors service depuis 53j 5h
 - **API** - ⚠️ Dégradé depuis 53j 5h
 - **API** - ❌ Hors service depuis 62j 6h
