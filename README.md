@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 20/03/2026 00:00:11*
+*Dernière mise à jour: 20/03/2026 00:08:24*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 557ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 469ms | 99.21% | 99.78% | 99.7% |
+| **API** | ⚠️ Dégradé | 616ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 232ms | 99.21% | 99.78% | 99.7% |
 
 ---
 
@@ -31,7 +31,7 @@
 - **API** - ❌ Hors service depuis 42j 2h
 - **API** - ❌ Hors service depuis 42j 4h
 - **API** - ❌ Hors service depuis 42j 11h
-- **API** - ⚠️ Dégradé depuis 42j 17h
+- **API** - ⚠️ Dégradé depuis 42j 18h
 - **API** - ⚠️ Dégradé depuis 43j 3h
 - **API** - ❌ Hors service depuis 44j 0h
 - **API** - ⚠️ Dégradé depuis 44j 7h
@@ -42,7 +42,7 @@
 - **API** - ⚠️ Dégradé depuis 47j 10h
 - **API** - ⚠️ Dégradé depuis 47j 12h
 - **API** - ❌ Hors service depuis 47j 15h
-- **API** - ❌ Hors service depuis 48j 3h
+- **API** - ❌ Hors service depuis 48j 4h
 - **API** - ⚠️ Dégradé depuis 48j 4h
 - **API** - ❌ Hors service depuis 48j 4h
 - **API** - ❌ Hors service depuis 48j 6h
@@ -53,7 +53,7 @@
 - **API** - ⚠️ Dégradé depuis 53j 5h
 - **API** - ❌ Hors service depuis 57j 8h
 - **API** - ⚠️ Dégradé depuis 57j 8h
-- **API** - ❌ Hors service depuis 66j 8h
+- **API** - ❌ Hors service depuis 66j 9h
 - **API** - ⚠️ Dégradé depuis 66j 10h
 
 ### ✅ Incidents résolus récemment
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 290ms
-- **Temps de réponse moyen (7j):** 283ms
+- **Temps de réponse moyen (24h):** 291ms
+- **Temps de réponse moyen (7j):** 284ms
 
 ---
 
