@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 21/03/2026 17:23:51*
+*Dernière mise à jour: 21/03/2026 17:29:53*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 432ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 792ms | 99.39% | 99.67% | 99.68% |
+| **API** | ⚠️ Dégradé | 345ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 628ms | 99.39% | 99.67% | 99.68% |
 
 ---
 
@@ -26,16 +26,16 @@
 - **API** - ⚠️ Dégradé depuis 42j 1h
 - **API** - ❌ Hors service depuis 43j 9h
 - **API** - ⚠️ Dégradé depuis 43j 10h
-- **API** - ❌ Hors service depuis 43j 13h
-- **API** - ⚠️ Dégradé depuis 43j 14h
+- **API** - ❌ Hors service depuis 43j 14h
+- **API** - ⚠️ Dégradé depuis 43j 15h
 - **API** - ❌ Hors service depuis 43j 19h
 - **API** - ❌ Hors service depuis 43j 22h
-- **API** - ❌ Hors service depuis 44j 4h
+- **API** - ❌ Hors service depuis 44j 5h
 - **API** - ⚠️ Dégradé depuis 44j 11h
 - **API** - ⚠️ Dégradé depuis 44j 20h
 - **API** - ❌ Hors service depuis 45j 18h
 - **API** - ⚠️ Dégradé depuis 46j 0h
-- **API** - ⚠️ Dégradé depuis 47j 3h
+- **API** - ⚠️ Dégradé depuis 47j 4h
 - **API** - ❌ Hors service depuis 47j 6h
 - **API** - ⚠️ Dégradé depuis 47j 10h
 - **API** - ❌ Hors service depuis 48j 22h
@@ -46,7 +46,7 @@
 - **API** - ⚠️ Dégradé depuis 49j 21h
 - **API** - ❌ Hors service depuis 49j 22h
 - **API** - ❌ Hors service depuis 50j 0h
-- **API** - ❌ Hors service depuis 50j 22h
+- **API** - ❌ Hors service depuis 50j 23h
 - **API** - ❌ Hors service depuis 51j 0h
 - **API** - ⚠️ Dégradé depuis 51j 22h
 - **API** - ⚠️ Dégradé depuis 52j 3h
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 439ms
-- **Temps de réponse moyen (7j):** 326ms
+- **Temps de réponse moyen (24h):** 442ms
+- **Temps de réponse moyen (7j):** 327ms
 
 ---
 
