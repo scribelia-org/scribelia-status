@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 21/03/2026 12:55:43*
+*Dernière mise à jour: 21/03/2026 13:00:00*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 458ms | 0% | 0% | 0% |
-| **Website** | ⚠️ Dégradé | 3416ms | 99.34% | 99.67% | 99.68% |
+| **API** | ⚠️ Dégradé | 550ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 193ms | 99.34% | 99.67% | 99.68% |
 
 ---
 
@@ -23,7 +23,6 @@
 
 ### 🚨 Incidents en cours
 
-- **Website** - ⚠️ Dégradé depuis 0s
 - **API** - ⚠️ Dégradé depuis 41j 20h
 - **API** - ❌ Hors service depuis 43j 4h
 - **API** - ⚠️ Dégradé depuis 43j 5h
@@ -52,18 +51,18 @@
 - **API** - ⚠️ Dégradé depuis 51j 17h
 - **API** - ⚠️ Dégradé depuis 51j 22h
 - **API** - ⚠️ Dégradé depuis 54j 18h
-- **API** - ❌ Hors service depuis 58j 20h
-- **API** - ⚠️ Dégradé depuis 58j 20h
+- **API** - ❌ Hors service depuis 58j 21h
+- **API** - ⚠️ Dégradé depuis 58j 21h
 - **API** - ❌ Hors service depuis 67j 21h
 - **API** - ⚠️ Dégradé depuis 67j 23h
 
 ### ✅ Incidents résolus récemment
 
+- **Website** - 21/03/2026 - Résolu en 4m
 - **Website** - 19/03/2026 - Résolu en 8m
 - **Website** - 18/03/2026 - Résolu en 1m
 - **Website** - 09/03/2026 - Résolu en 3m
 - **Website** - 09/03/2026 - Résolu en 15m
-- **Website** - 09/03/2026 - Résolu en 48m
 
 ---
 

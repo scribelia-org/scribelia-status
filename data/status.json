@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-21T11:55:43.566Z",
+  "lastUpdate": "2026-03-21T12:00:00.981Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -53989,11 +53989,17 @@
           "statusCode": 500,
           "responseTime": 458,
           "timestamp": "2026-03-21T11:55:39.793Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 550,
+          "timestamp": "2026-03-21T12:00:00.442Z"
         }
       ],
-      "lastCheck": "2026-03-21T11:55:39.793Z",
-      "responseTime": 458,
-      "statusCode": 500,
+      "lastCheck": "2026-03-21T12:00:00.442Z",
+      "responseTime": 550,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -54026,7 +54032,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "degraded",
+      "status": "up",
       "history": [
         {
           "status": "up",
@@ -108009,10 +108015,16 @@
           "statusCode": 200,
           "responseTime": 3416,
           "timestamp": "2026-03-21T11:55:43.272Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 193,
+          "timestamp": "2026-03-21T12:00:00.698Z"
         }
       ],
-      "lastCheck": "2026-03-21T11:55:43.272Z",
-      "responseTime": 3416,
+      "lastCheck": "2026-03-21T12:00:00.698Z",
+      "responseTime": 193,
       "statusCode": 200,
       "uptime": {
         "day": 99.34,
@@ -108034,12 +108046,17 @@
       "slug": "website",
       "status": "degraded",
       "startedAt": "2026-03-21T11:55:43.272Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-03-21T12:00:00.698Z",
       "updates": [
         {
           "status": "degraded",
           "message": "Website is degraded",
           "timestamp": "2026-03-21T11:55:43.272Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-03-21T12:00:00.698Z"
         }
       ]
     },
