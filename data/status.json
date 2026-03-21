@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-21T19:14:24.067Z",
+  "lastUpdate": "2026-03-21T19:19:51.061Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -54355,10 +54355,16 @@
           "statusCode": 503,
           "responseTime": 488,
           "timestamp": "2026-03-21T19:14:23.219Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 608,
+          "timestamp": "2026-03-21T19:19:50.736Z"
         }
       ],
-      "lastCheck": "2026-03-21T19:14:23.219Z",
-      "responseTime": 488,
+      "lastCheck": "2026-03-21T19:19:50.736Z",
+      "responseTime": 608,
       "statusCode": 503,
       "uptime": {
         "day": 0,
@@ -108741,10 +108747,16 @@
           "statusCode": 200,
           "responseTime": 758,
           "timestamp": "2026-03-21T19:14:24.038Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 255,
+          "timestamp": "2026-03-21T19:19:51.029Z"
         }
       ],
-      "lastCheck": "2026-03-21T19:14:24.038Z",
-      "responseTime": 758,
+      "lastCheck": "2026-03-21T19:19:51.029Z",
+      "responseTime": 255,
       "statusCode": 200,
       "uptime": {
         "day": 99.42,
@@ -108753,7 +108765,7 @@
         "all": 99.72
       },
       "avgResponseTime": {
-        "day": 463,
+        "day": 462,
         "week": 336,
         "month": 361
       }
