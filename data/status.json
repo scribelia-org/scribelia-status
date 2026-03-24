@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-24T20:22:26.834Z",
+  "lastUpdate": "2026-03-24T20:40:15.094Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -56839,11 +56839,17 @@
           "statusCode": 503,
           "responseTime": 366,
           "timestamp": "2026-03-24T20:22:22.787Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 632,
+          "timestamp": "2026-03-24T20:40:13.875Z"
         }
       ],
-      "lastCheck": "2026-03-24T20:22:22.787Z",
-      "responseTime": 366,
-      "statusCode": 503,
+      "lastCheck": "2026-03-24T20:40:13.875Z",
+      "responseTime": 632,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -56876,7 +56882,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "degraded",
+      "status": "up",
       "history": [
         {
           "status": "up",
@@ -113709,19 +113715,25 @@
           "statusCode": 200,
           "responseTime": 3720,
           "timestamp": "2026-03-24T20:22:26.545Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 874,
+          "timestamp": "2026-03-24T20:40:14.787Z"
         }
       ],
-      "lastCheck": "2026-03-24T20:22:26.545Z",
-      "responseTime": 3720,
+      "lastCheck": "2026-03-24T20:40:14.787Z",
+      "responseTime": 874,
       "statusCode": 200,
       "uptime": {
-        "day": 98.25,
+        "day": 98.23,
         "week": 99.05,
         "month": 99.55,
         "all": 99.67
       },
       "avgResponseTime": {
-        "day": 339,
+        "day": 344,
         "week": 415,
         "month": 363
       }
@@ -113734,12 +113746,17 @@
       "slug": "website",
       "status": "degraded",
       "startedAt": "2026-03-24T20:22:26.545Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-03-24T20:40:14.787Z",
       "updates": [
         {
           "status": "degraded",
           "message": "Website is degraded",
           "timestamp": "2026-03-24T20:22:26.545Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-03-24T20:40:14.787Z"
         }
       ]
     },
