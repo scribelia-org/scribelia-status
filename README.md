@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 28/03/2026 15:17:13*
+*Dernière mise à jour: 28/03/2026 15:22:34*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 372ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 762ms | 99.24% | 99.1% | 99.57% |
+| **API** | ⚠️ Dégradé | 303ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 768ms | 99.25% | 99.1% | 99.57% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 48j 22h
+- **API** - ⚠️ Dégradé depuis 48j 23h
 - **API** - ❌ Hors service depuis 50j 7h
 - **API** - ⚠️ Dégradé depuis 50j 8h
 - **API** - ❌ Hors service depuis 50j 11h
@@ -33,22 +33,22 @@
 - **API** - ❌ Hors service depuis 51j 2h
 - **API** - ⚠️ Dégradé depuis 51j 9h
 - **API** - ⚠️ Dégradé depuis 51j 18h
-- **API** - ❌ Hors service depuis 52j 15h
+- **API** - ❌ Hors service depuis 52j 16h
 - **API** - ⚠️ Dégradé depuis 52j 22h
 - **API** - ⚠️ Dégradé depuis 54j 1h
 - **API** - ❌ Hors service depuis 54j 4h
 - **API** - ⚠️ Dégradé depuis 54j 8h
-- **API** - ❌ Hors service depuis 55j 19h
-- **API** - ⚠️ Dégradé depuis 56j 1h
+- **API** - ❌ Hors service depuis 55j 20h
+- **API** - ⚠️ Dégradé depuis 56j 2h
 - **API** - ⚠️ Dégradé depuis 56j 3h
 - **API** - ❌ Hors service depuis 56j 7h
 - **API** - ❌ Hors service depuis 56j 19h
 - **API** - ⚠️ Dégradé depuis 56j 19h
-- **API** - ❌ Hors service depuis 56j 19h
+- **API** - ❌ Hors service depuis 56j 20h
 - **API** - ❌ Hors service depuis 56j 21h
 - **API** - ❌ Hors service depuis 57j 20h
-- **API** - ❌ Hors service depuis 57j 21h
-- **API** - ⚠️ Dégradé depuis 58j 19h
+- **API** - ❌ Hors service depuis 57j 22h
+- **API** - ⚠️ Dégradé depuis 58j 20h
 - **API** - ⚠️ Dégradé depuis 59j 1h
 - **API** - ⚠️ Dégradé depuis 61j 21h
 - **API** - ❌ Hors service depuis 65j 23h
@@ -78,7 +78,7 @@
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
 - **Temps de réponse moyen (24h):** 745ms
-- **Temps de réponse moyen (7j):** 524ms
+- **Temps de réponse moyen (7j):** 525ms
 
 ---
 
