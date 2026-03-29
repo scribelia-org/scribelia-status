@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 29/03/2026 14:23:47*
+*Dernière mise à jour: 29/03/2026 14:42:46*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 426ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 791ms | 100% | 99.08% | 99.59% |
+| **API** | ⚠️ Dégradé | 325ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 876ms | 100% | 99.08% | 99.59% |
 
 ---
 
@@ -26,17 +26,17 @@
 - **API** - ⚠️ Dégradé depuis 49j 21h
 - **API** - ❌ Hors service depuis 51j 5h
 - **API** - ⚠️ Dégradé depuis 51j 6h
-- **API** - ❌ Hors service depuis 51j 9h
-- **API** - ⚠️ Dégradé depuis 51j 10h
-- **API** - ❌ Hors service depuis 51j 15h
+- **API** - ❌ Hors service depuis 51j 10h
+- **API** - ⚠️ Dégradé depuis 51j 11h
+- **API** - ❌ Hors service depuis 51j 16h
 - **API** - ❌ Hors service depuis 51j 18h
-- **API** - ❌ Hors service depuis 52j 0h
+- **API** - ❌ Hors service depuis 52j 1h
 - **API** - ⚠️ Dégradé depuis 52j 7h
-- **API** - ⚠️ Dégradé depuis 52j 16h
+- **API** - ⚠️ Dégradé depuis 52j 17h
 - **API** - ❌ Hors service depuis 53j 14h
-- **API** - ⚠️ Dégradé depuis 53j 20h
-- **API** - ⚠️ Dégradé depuis 54j 23h
-- **API** - ❌ Hors service depuis 55j 2h
+- **API** - ⚠️ Dégradé depuis 53j 21h
+- **API** - ⚠️ Dégradé depuis 55j 0h
+- **API** - ❌ Hors service depuis 55j 3h
 - **API** - ⚠️ Dégradé depuis 55j 6h
 - **API** - ❌ Hors service depuis 56j 18h
 - **API** - ⚠️ Dégradé depuis 57j 0h
@@ -46,7 +46,7 @@
 - **API** - ⚠️ Dégradé depuis 57j 17h
 - **API** - ❌ Hors service depuis 57j 18h
 - **API** - ❌ Hors service depuis 57j 20h
-- **API** - ❌ Hors service depuis 58j 18h
+- **API** - ❌ Hors service depuis 58j 19h
 - **API** - ❌ Hors service depuis 58j 20h
 - **API** - ⚠️ Dégradé depuis 59j 18h
 - **API** - ⚠️ Dégradé depuis 59j 23h
@@ -78,7 +78,7 @@
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
 - **Temps de réponse moyen (24h):** 753ms
-- **Temps de réponse moyen (7j):** 555ms
+- **Temps de réponse moyen (7j):** 556ms
 
 ---
 
