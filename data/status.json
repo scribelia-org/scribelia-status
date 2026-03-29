@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-29T14:32:41.931Z",
+  "lastUpdate": "2026-03-29T14:34:39.381Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 718,
-          "timestamp": "2025-12-29T14:32:49.810Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -58345,16 +58339,22 @@
           "statusCode": 429,
           "responseTime": 394,
           "timestamp": "2026-03-29T14:32:40.968Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 458,
+          "timestamp": "2026-03-29T14:34:38.733Z"
         }
       ],
-      "lastCheck": "2026-03-29T14:32:40.968Z",
-      "responseTime": 394,
-      "statusCode": 429,
+      "lastCheck": "2026-03-29T14:34:38.733Z",
+      "responseTime": 458,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 30.95
+        "all": 30.94
       },
       "avgResponseTime": {
         "day": 0,
@@ -58384,12 +58384,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 1007,
-          "timestamp": "2025-12-29T14:32:51.032Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -116721,10 +116715,16 @@
           "statusCode": 200,
           "responseTime": 861,
           "timestamp": "2026-03-29T14:32:41.895Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 571,
+          "timestamp": "2026-03-29T14:34:39.343Z"
         }
       ],
-      "lastCheck": "2026-03-29T14:32:41.895Z",
-      "responseTime": 861,
+      "lastCheck": "2026-03-29T14:34:39.343Z",
+      "responseTime": 571,
       "statusCode": 200,
       "uptime": {
         "day": 100,
