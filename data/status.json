@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-29T20:33:46.666Z",
+  "lastUpdate": "2026-03-29T20:46:49.512Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 551,
-          "timestamp": "2025-12-29T20:41:45.142Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -58393,16 +58387,22 @@
           "statusCode": 503,
           "responseTime": 362,
           "timestamp": "2026-03-29T20:33:45.760Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 292,
+          "timestamp": "2026-03-29T20:46:48.619Z"
         }
       ],
-      "lastCheck": "2026-03-29T20:33:45.760Z",
-      "responseTime": 362,
+      "lastCheck": "2026-03-29T20:46:48.619Z",
+      "responseTime": 292,
       "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 30.61
+        "all": 30.6
       },
       "avgResponseTime": {
         "day": 0,
@@ -58432,12 +58432,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 294,
-          "timestamp": "2025-12-29T20:41:45.442Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -116817,10 +116811,16 @@
           "statusCode": 200,
           "responseTime": 797,
           "timestamp": "2026-03-29T20:33:46.630Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 816,
+          "timestamp": "2026-03-29T20:46:49.475Z"
         }
       ],
-      "lastCheck": "2026-03-29T20:33:46.630Z",
-      "responseTime": 797,
+      "lastCheck": "2026-03-29T20:46:49.475Z",
+      "responseTime": 816,
       "statusCode": 200,
       "uptime": {
         "day": 100,
