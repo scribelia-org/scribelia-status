@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 30/03/2026 23:04:03*
+*Dernière mise à jour: 30/03/2026 23:21:49*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 464ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 858ms | 99.01% | 99.4% | 99.56% |
+| **API** | ⚠️ Dégradé | 369ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 195ms | 99% | 99.4% | 99.56% |
 
 ---
 
@@ -23,34 +23,34 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 51j 5h
-- **API** - ❌ Hors service depuis 52j 13h
-- **API** - ⚠️ Dégradé depuis 52j 14h
+- **API** - ⚠️ Dégradé depuis 51j 6h
+- **API** - ❌ Hors service depuis 52j 14h
+- **API** - ⚠️ Dégradé depuis 52j 15h
 - **API** - ❌ Hors service depuis 52j 18h
 - **API** - ⚠️ Dégradé depuis 52j 19h
 - **API** - ❌ Hors service depuis 53j 0h
-- **API** - ❌ Hors service depuis 53j 2h
+- **API** - ❌ Hors service depuis 53j 3h
 - **API** - ❌ Hors service depuis 53j 9h
-- **API** - ⚠️ Dégradé depuis 53j 15h
+- **API** - ⚠️ Dégradé depuis 53j 16h
 - **API** - ⚠️ Dégradé depuis 54j 1h
-- **API** - ❌ Hors service depuis 54j 22h
+- **API** - ❌ Hors service depuis 54j 23h
 - **API** - ⚠️ Dégradé depuis 55j 5h
 - **API** - ⚠️ Dégradé depuis 56j 8h
 - **API** - ❌ Hors service depuis 56j 11h
-- **API** - ⚠️ Dégradé depuis 56j 14h
+- **API** - ⚠️ Dégradé depuis 56j 15h
 - **API** - ❌ Hors service depuis 58j 2h
-- **API** - ⚠️ Dégradé depuis 58j 8h
+- **API** - ⚠️ Dégradé depuis 58j 9h
 - **API** - ⚠️ Dégradé depuis 58j 10h
-- **API** - ❌ Hors service depuis 58j 13h
-- **API** - ❌ Hors service depuis 59j 1h
-- **API** - ⚠️ Dégradé depuis 59j 2h
+- **API** - ❌ Hors service depuis 58j 14h
 - **API** - ❌ Hors service depuis 59j 2h
+- **API** - ⚠️ Dégradé depuis 59j 2h
+- **API** - ❌ Hors service depuis 59j 3h
 - **API** - ❌ Hors service depuis 59j 4h
 - **API** - ❌ Hors service depuis 60j 3h
-- **API** - ❌ Hors service depuis 60j 4h
-- **API** - ⚠️ Dégradé depuis 61j 2h
-- **API** - ⚠️ Dégradé depuis 61j 7h
-- **API** - ⚠️ Dégradé depuis 64j 3h
+- **API** - ❌ Hors service depuis 60j 5h
+- **API** - ⚠️ Dégradé depuis 61j 3h
+- **API** - ⚠️ Dégradé depuis 61j 8h
+- **API** - ⚠️ Dégradé depuis 64j 4h
 - **API** - ❌ Hors service depuis 68j 6h
 - **API** - ⚠️ Dégradé depuis 68j 6h
 - **API** - ❌ Hors service depuis 77j 7h
@@ -77,7 +77,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 744ms
+- **Temps de réponse moyen (24h):** 737ms
 - **Temps de réponse moyen (7j):** 607ms
 
 ---
