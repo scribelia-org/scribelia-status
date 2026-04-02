@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-02T05:39:52.493Z",
+  "lastUpdate": "2026-04-02T05:51:06.159Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 912,
-          "timestamp": "2026-01-02T05:43:12.974Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -57907,16 +57901,22 @@
           "statusCode": 503,
           "responseTime": 356,
           "timestamp": "2026-04-02T05:39:51.596Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 466,
+          "timestamp": "2026-04-02T05:51:05.236Z"
         }
       ],
-      "lastCheck": "2026-04-02T05:39:51.596Z",
-      "responseTime": 356,
+      "lastCheck": "2026-04-02T05:51:05.236Z",
+      "responseTime": 466,
       "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 27.49
+        "all": 27.48
       },
       "avgResponseTime": {
         "day": 0,
@@ -57946,12 +57946,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 301,
-          "timestamp": "2026-01-02T05:43:13.467Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -115845,13 +115839,19 @@
           "statusCode": 200,
           "responseTime": 823,
           "timestamp": "2026-04-02T05:39:52.458Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 853,
+          "timestamp": "2026-04-02T05:51:06.126Z"
         }
       ],
-      "lastCheck": "2026-04-02T05:39:52.458Z",
-      "responseTime": 823,
+      "lastCheck": "2026-04-02T05:51:06.126Z",
+      "responseTime": 853,
       "statusCode": 200,
       "uptime": {
-        "day": 99,
+        "day": 99.01,
         "week": 99.26,
         "month": 99.52,
         "all": 99.64
