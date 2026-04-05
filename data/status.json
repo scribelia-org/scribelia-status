@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-05T21:35:42.158Z",
+  "lastUpdate": "2026-04-05T21:46:31.034Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 677,
-          "timestamp": "2026-01-05T21:38:50.395Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -57925,16 +57919,22 @@
           "statusCode": 503,
           "responseTime": 535,
           "timestamp": "2026-04-05T21:35:41.385Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 319,
+          "timestamp": "2026-04-05T21:46:30.204Z"
         }
       ],
-      "lastCheck": "2026-04-05T21:35:41.385Z",
-      "responseTime": 535,
+      "lastCheck": "2026-04-05T21:46:30.204Z",
+      "responseTime": 319,
       "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 23.38
+        "all": 23.37
       },
       "avgResponseTime": {
         "day": 0,
@@ -57964,12 +57964,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 246,
-          "timestamp": "2026-01-05T21:38:50.656Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -115881,10 +115875,16 @@
           "statusCode": 200,
           "responseTime": 700,
           "timestamp": "2026-04-05T21:35:42.123Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 733,
+          "timestamp": "2026-04-05T21:46:31.000Z"
         }
       ],
-      "lastCheck": "2026-04-05T21:35:42.123Z",
-      "responseTime": 700,
+      "lastCheck": "2026-04-05T21:46:31.000Z",
+      "responseTime": 733,
       "statusCode": 200,
       "uptime": {
         "day": 100,
