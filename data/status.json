@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-06T11:09:34.361Z",
+  "lastUpdate": "2026-04-06T11:29:21.173Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,18 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 697,
-          "timestamp": "2026-01-06T11:16:13.462Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 564,
-          "timestamp": "2026-01-06T11:26:52.589Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -57895,16 +57883,22 @@
           "statusCode": 500,
           "responseTime": 490,
           "timestamp": "2026-04-06T11:09:33.395Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 446,
+          "timestamp": "2026-04-06T11:29:17.414Z"
         }
       ],
-      "lastCheck": "2026-04-06T11:09:33.395Z",
-      "responseTime": 490,
-      "statusCode": 500,
+      "lastCheck": "2026-04-06T11:29:17.414Z",
+      "responseTime": 446,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 22.99
+        "all": 22.97
       },
       "avgResponseTime": {
         "day": 0,
@@ -57932,20 +57926,8 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "up",
+      "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 609,
-          "timestamp": "2026-01-06T11:16:14.081Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 887,
-          "timestamp": "2026-01-06T11:26:53.485Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -115821,25 +115803,46 @@
           "statusCode": 200,
           "responseTime": 891,
           "timestamp": "2026-04-06T11:09:34.327Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 200,
+          "responseTime": 3387,
+          "timestamp": "2026-04-06T11:29:20.840Z"
         }
       ],
-      "lastCheck": "2026-04-06T11:09:34.327Z",
-      "responseTime": 891,
+      "lastCheck": "2026-04-06T11:29:20.840Z",
+      "responseTime": 3387,
       "statusCode": 200,
       "uptime": {
-        "day": 98.41,
-        "week": 99.27,
-        "month": 99.47,
-        "all": 99.62
+        "day": 97.6,
+        "week": 99.15,
+        "month": 99.44,
+        "all": 99.61
       },
       "avgResponseTime": {
-        "day": 739,
+        "day": 740,
         "week": 774,
         "month": 492
       }
     }
   },
   "incidents": [
+    {
+      "id": 1775474961173,
+      "site": "Website",
+      "slug": "website",
+      "status": "degraded",
+      "startedAt": "2026-04-06T11:29:20.840Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "degraded",
+          "message": "Website is degraded",
+          "timestamp": "2026-04-06T11:29:20.840Z"
+        }
+      ]
+    },
     {
       "id": 1775453717933,
       "site": "Website",
