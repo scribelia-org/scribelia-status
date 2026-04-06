@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-06T08:28:22.174Z",
+  "lastUpdate": "2026-04-06T08:47:31.575Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 200,
-          "responseTime": 5718,
-          "timestamp": "2026-01-06T08:42:58.291Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -57907,11 +57901,17 @@
           "statusCode": 503,
           "responseTime": 373,
           "timestamp": "2026-04-06T08:28:21.903Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 478,
+          "timestamp": "2026-04-06T08:47:30.609Z"
         }
       ],
-      "lastCheck": "2026-04-06T08:28:21.903Z",
-      "responseTime": 373,
-      "statusCode": 503,
+      "lastCheck": "2026-04-06T08:47:30.609Z",
+      "responseTime": 478,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -57946,12 +57946,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 208,
-          "timestamp": "2026-01-06T08:42:59.034Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -115845,13 +115839,19 @@
           "statusCode": 200,
           "responseTime": 198,
           "timestamp": "2026-04-06T08:28:22.139Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 891,
+          "timestamp": "2026-04-06T08:47:31.538Z"
         }
       ],
-      "lastCheck": "2026-04-06T08:28:22.139Z",
-      "responseTime": 198,
+      "lastCheck": "2026-04-06T08:47:31.538Z",
+      "responseTime": 891,
       "statusCode": 200,
       "uptime": {
-        "day": 98.48,
+        "day": 98.47,
         "week": 99.27,
         "month": 99.47,
         "all": 99.62
