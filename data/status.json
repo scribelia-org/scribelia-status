@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-06T19:12:41.051Z",
+  "lastUpdate": "2026-04-06T19:29:16.109Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,18 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 470,
-          "timestamp": "2026-01-06T19:21:45.533Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 556,
-          "timestamp": "2026-01-06T19:25:31.236Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -57901,16 +57889,22 @@
           "statusCode": 503,
           "responseTime": 452,
           "timestamp": "2026-04-06T19:12:40.196Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 451,
+          "timestamp": "2026-04-06T19:29:15.239Z"
         }
       ],
-      "lastCheck": "2026-04-06T19:12:40.196Z",
-      "responseTime": 452,
-      "statusCode": 503,
+      "lastCheck": "2026-04-06T19:29:15.239Z",
+      "responseTime": 451,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 22.68
+        "all": 22.66
       },
       "avgResponseTime": {
         "day": 0,
@@ -57940,18 +57934,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 174,
-          "timestamp": "2026-01-06T19:21:45.716Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 798,
-          "timestamp": "2026-01-06T19:25:32.049Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -115833,10 +115815,16 @@
           "statusCode": 200,
           "responseTime": 780,
           "timestamp": "2026-04-06T19:12:41.014Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 799,
+          "timestamp": "2026-04-06T19:29:16.076Z"
         }
       ],
-      "lastCheck": "2026-04-06T19:12:41.014Z",
-      "responseTime": 780,
+      "lastCheck": "2026-04-06T19:29:16.076Z",
+      "responseTime": 799,
       "statusCode": 200,
       "uptime": {
         "day": 97.35,
@@ -115845,7 +115833,7 @@
         "all": 99.61
       },
       "avgResponseTime": {
-        "day": 676,
+        "day": 674,
         "week": 768,
         "month": 494
       }
