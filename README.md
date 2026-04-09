@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 09/04/2026 14:00:25*
+*Dernière mise à jour: 09/04/2026 14:12:40*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 327ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 227ms | 100% | 99.51% | 99.49% |
+| **API** | ⚠️ Dégradé | 473ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 940ms | 100% | 99.51% | 99.49% |
 
 ---
 
@@ -25,13 +25,13 @@
 
 - **API** - ⚠️ Dégradé depuis 60j 20h
 - **API** - ❌ Hors service depuis 62j 4h
-- **API** - ⚠️ Dégradé depuis 62j 5h
+- **API** - ⚠️ Dégradé depuis 62j 6h
 - **API** - ❌ Hors service depuis 62j 9h
 - **API** - ⚠️ Dégradé depuis 62j 10h
 - **API** - ❌ Hors service depuis 62j 15h
-- **API** - ❌ Hors service depuis 62j 17h
+- **API** - ❌ Hors service depuis 62j 18h
 - **API** - ❌ Hors service depuis 63j 0h
-- **API** - ⚠️ Dégradé depuis 63j 6h
+- **API** - ⚠️ Dégradé depuis 63j 7h
 - **API** - ⚠️ Dégradé depuis 63j 16h
 - **API** - ❌ Hors service depuis 64j 13h
 - **API** - ⚠️ Dégradé depuis 64j 20h
@@ -42,18 +42,18 @@
 - **API** - ⚠️ Dégradé depuis 67j 23h
 - **API** - ⚠️ Dégradé depuis 68j 1h
 - **API** - ❌ Hors service depuis 68j 4h
-- **API** - ❌ Hors service depuis 68j 16h
+- **API** - ❌ Hors service depuis 68j 17h
 - **API** - ⚠️ Dégradé depuis 68j 17h
 - **API** - ❌ Hors service depuis 68j 17h
 - **API** - ❌ Hors service depuis 68j 19h
 - **API** - ❌ Hors service depuis 69j 18h
 - **API** - ❌ Hors service depuis 69j 19h
 - **API** - ⚠️ Dégradé depuis 70j 17h
-- **API** - ⚠️ Dégradé depuis 70j 22h
+- **API** - ⚠️ Dégradé depuis 70j 23h
 - **API** - ⚠️ Dégradé depuis 73j 18h
 - **API** - ❌ Hors service depuis 77j 21h
 - **API** - ⚠️ Dégradé depuis 77j 21h
-- **API** - ❌ Hors service depuis 86j 21h
+- **API** - ❌ Hors service depuis 86j 22h
 - **API** - ⚠️ Dégradé depuis 86j 23h
 
 ### ✅ Incidents résolus récemment
