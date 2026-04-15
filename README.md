@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 15/04/2026 05:53:04*
+*Dernière mise à jour: 15/04/2026 05:54:02*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 552ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 819ms | 100% | 99.86% | 99.43% |
+| **API** | ⚠️ Dégradé | 430ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 1051ms | 100% | 99.86% | 99.43% |
 
 ---
 
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 570ms
-- **Temps de réponse moyen (7j):** 578ms
+- **Temps de réponse moyen (24h):** 573ms
+- **Temps de réponse moyen (7j):** 579ms
 
 ---
 
