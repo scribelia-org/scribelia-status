@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 16/04/2026 00:15:20*
+*Dernière mise à jour: 16/04/2026 00:21:53*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 573ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 837ms | 100% | 99.86% | 99.43% |
+| **API** | ⚠️ Dégradé | 295ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 793ms | 100% | 99.86% | 99.43% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 67j 6h
+- **API** - ⚠️ Dégradé depuis 67j 7h
 - **API** - ❌ Hors service depuis 68j 15h
 - **API** - ⚠️ Dégradé depuis 68j 16h
 - **API** - ❌ Hors service depuis 68j 19h
@@ -33,22 +33,22 @@
 - **API** - ❌ Hors service depuis 69j 10h
 - **API** - ⚠️ Dégradé depuis 69j 17h
 - **API** - ⚠️ Dégradé depuis 70j 2h
-- **API** - ❌ Hors service depuis 70j 23h
+- **API** - ❌ Hors service depuis 71j 0h
 - **API** - ⚠️ Dégradé depuis 71j 6h
 - **API** - ⚠️ Dégradé depuis 72j 9h
 - **API** - ❌ Hors service depuis 72j 12h
 - **API** - ⚠️ Dégradé depuis 72j 16h
 - **API** - ❌ Hors service depuis 74j 3h
-- **API** - ⚠️ Dégradé depuis 74j 9h
+- **API** - ⚠️ Dégradé depuis 74j 10h
 - **API** - ⚠️ Dégradé depuis 74j 11h
-- **API** - ❌ Hors service depuis 74j 14h
+- **API** - ❌ Hors service depuis 74j 15h
 - **API** - ❌ Hors service depuis 75j 3h
 - **API** - ⚠️ Dégradé depuis 75j 3h
-- **API** - ❌ Hors service depuis 75j 3h
+- **API** - ❌ Hors service depuis 75j 4h
 - **API** - ❌ Hors service depuis 75j 5h
 - **API** - ❌ Hors service depuis 76j 4h
-- **API** - ❌ Hors service depuis 76j 5h
-- **API** - ⚠️ Dégradé depuis 77j 3h
+- **API** - ❌ Hors service depuis 76j 6h
+- **API** - ⚠️ Dégradé depuis 77j 4h
 - **API** - ⚠️ Dégradé depuis 77j 9h
 - **API** - ⚠️ Dégradé depuis 80j 5h
 - **API** - ❌ Hors service depuis 84j 7h
@@ -77,7 +77,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 607ms
+- **Temps de réponse moyen (24h):** 613ms
 - **Temps de réponse moyen (7j):** 581ms
 
 ---
