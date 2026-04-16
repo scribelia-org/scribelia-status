@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-16T18:19:09.161Z",
+  "lastUpdate": "2026-04-16T18:38:08.031Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 528,
-          "timestamp": "2026-01-16T18:21:16.740Z"
-        },
         {
           "status": "degraded",
           "statusCode": 200,
@@ -57019,16 +57013,22 @@
           "statusCode": 500,
           "responseTime": 484,
           "timestamp": "2026-04-16T18:19:08.308Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 353,
+          "timestamp": "2026-04-16T18:38:07.011Z"
         }
       ],
-      "lastCheck": "2026-04-16T18:19:08.308Z",
-      "responseTime": 484,
-      "statusCode": 500,
+      "lastCheck": "2026-04-16T18:38:07.011Z",
+      "responseTime": 353,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 14.15
+        "all": 14.14
       },
       "avgResponseTime": {
         "day": 0,
@@ -57058,12 +57058,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 343,
-          "timestamp": "2026-01-16T18:21:17.103Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -114069,10 +114063,16 @@
           "statusCode": 200,
           "responseTime": 770,
           "timestamp": "2026-04-16T18:19:09.127Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 953,
+          "timestamp": "2026-04-16T18:38:08.000Z"
         }
       ],
-      "lastCheck": "2026-04-16T18:19:09.127Z",
-      "responseTime": 770,
+      "lastCheck": "2026-04-16T18:38:08.000Z",
+      "responseTime": 953,
       "statusCode": 200,
       "uptime": {
         "day": 100,
