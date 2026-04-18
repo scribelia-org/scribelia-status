@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 19/04/2026 01:18:00*
+*Dernière mise à jour: 19/04/2026 01:21:24*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 381ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 260ms | 100% | 99.86% | 99.48% |
+| **API** | ⚠️ Dégradé | 481ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 841ms | 100% | 99.86% | 99.48% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 70j 7h
+- **API** - ⚠️ Dégradé depuis 70j 8h
 - **API** - ❌ Hors service depuis 71j 16h
 - **API** - ⚠️ Dégradé depuis 71j 17h
 - **API** - ❌ Hors service depuis 71j 20h
@@ -33,22 +33,22 @@
 - **API** - ❌ Hors service depuis 72j 11h
 - **API** - ⚠️ Dégradé depuis 72j 18h
 - **API** - ⚠️ Dégradé depuis 73j 3h
-- **API** - ❌ Hors service depuis 74j 0h
+- **API** - ❌ Hors service depuis 74j 1h
 - **API** - ⚠️ Dégradé depuis 74j 7h
 - **API** - ⚠️ Dégradé depuis 75j 10h
 - **API** - ❌ Hors service depuis 75j 13h
 - **API** - ⚠️ Dégradé depuis 75j 17h
 - **API** - ❌ Hors service depuis 77j 4h
-- **API** - ⚠️ Dégradé depuis 77j 10h
+- **API** - ⚠️ Dégradé depuis 77j 11h
 - **API** - ⚠️ Dégradé depuis 77j 12h
 - **API** - ❌ Hors service depuis 77j 16h
 - **API** - ❌ Hors service depuis 78j 4h
 - **API** - ⚠️ Dégradé depuis 78j 4h
-- **API** - ❌ Hors service depuis 78j 4h
+- **API** - ❌ Hors service depuis 78j 5h
 - **API** - ❌ Hors service depuis 78j 6h
 - **API** - ❌ Hors service depuis 79j 5h
 - **API** - ❌ Hors service depuis 79j 6h
-- **API** - ⚠️ Dégradé depuis 80j 4h
+- **API** - ⚠️ Dégradé depuis 80j 5h
 - **API** - ⚠️ Dégradé depuis 80j 10h
 - **API** - ⚠️ Dégradé depuis 83j 6h
 - **API** - ❌ Hors service depuis 87j 8h
@@ -77,7 +77,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 599ms
+- **Temps de réponse moyen (24h):** 598ms
 - **Temps de réponse moyen (7j):** 580ms
 
 ---
