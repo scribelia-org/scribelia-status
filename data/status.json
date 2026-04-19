@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-19T20:52:59.466Z",
+  "lastUpdate": "2026-04-19T20:56:53.904Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 539,
-          "timestamp": "2026-01-19T20:56:02.190Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -56695,16 +56689,22 @@
           "statusCode": 503,
           "responseTime": 374,
           "timestamp": "2026-04-19T20:52:59.191Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 400,
+          "timestamp": "2026-04-19T20:56:53.734Z"
         }
       ],
-      "lastCheck": "2026-04-19T20:52:59.191Z",
-      "responseTime": 374,
+      "lastCheck": "2026-04-19T20:56:53.734Z",
+      "responseTime": 400,
       "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
         "month": 0,
-        "all": 10.65
+        "all": 10.64
       },
       "avgResponseTime": {
         "day": 0,
@@ -56734,12 +56734,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 275,
-          "timestamp": "2026-01-19T20:56:02.491Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -113421,10 +113415,16 @@
           "statusCode": 200,
           "responseTime": 183,
           "timestamp": "2026-04-19T20:52:59.433Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 94,
+          "timestamp": "2026-04-19T20:56:53.871Z"
         }
       ],
-      "lastCheck": "2026-04-19T20:52:59.433Z",
-      "responseTime": 183,
+      "lastCheck": "2026-04-19T20:56:53.871Z",
+      "responseTime": 94,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -113433,7 +113433,7 @@
         "all": 99.62
       },
       "avgResponseTime": {
-        "day": 589,
+        "day": 585,
         "week": 580,
         "month": 620
       }
