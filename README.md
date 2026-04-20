@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 21/04/2026 01:28:38*
+*Dernière mise à jour: 21/04/2026 01:44:44*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 338ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 294ms | 96.59% | 99.57% | 99.41% |
+| **API** | ⚠️ Dégradé | 497ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 801ms | 96.55% | 99.57% | 99.41% |
 
 ---
 
@@ -27,23 +27,23 @@
 - **API** - ❌ Hors service depuis 73j 16h
 - **API** - ⚠️ Dégradé depuis 73j 17h
 - **API** - ❌ Hors service depuis 73j 21h
-- **API** - ⚠️ Dégradé depuis 73j 21h
-- **API** - ❌ Hors service depuis 74j 2h
+- **API** - ⚠️ Dégradé depuis 73j 22h
+- **API** - ❌ Hors service depuis 74j 3h
 - **API** - ❌ Hors service depuis 74j 5h
 - **API** - ❌ Hors service depuis 74j 12h
 - **API** - ⚠️ Dégradé depuis 74j 18h
-- **API** - ⚠️ Dégradé depuis 75j 3h
+- **API** - ⚠️ Dégradé depuis 75j 4h
 - **API** - ❌ Hors service depuis 76j 1h
-- **API** - ⚠️ Dégradé depuis 76j 7h
+- **API** - ⚠️ Dégradé depuis 76j 8h
 - **API** - ⚠️ Dégradé depuis 77j 11h
-- **API** - ❌ Hors service depuis 77j 13h
+- **API** - ❌ Hors service depuis 77j 14h
 - **API** - ⚠️ Dégradé depuis 77j 17h
 - **API** - ❌ Hors service depuis 79j 5h
 - **API** - ⚠️ Dégradé depuis 79j 11h
 - **API** - ⚠️ Dégradé depuis 79j 13h
 - **API** - ❌ Hors service depuis 79j 16h
 - **API** - ❌ Hors service depuis 80j 4h
-- **API** - ⚠️ Dégradé depuis 80j 4h
+- **API** - ⚠️ Dégradé depuis 80j 5h
 - **API** - ❌ Hors service depuis 80j 5h
 - **API** - ❌ Hors service depuis 80j 7h
 - **API** - ❌ Hors service depuis 81j 6h
@@ -77,8 +77,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 472ms
-- **Temps de réponse moyen (7j):** 569ms
+- **Temps de réponse moyen (24h):** 475ms
+- **Temps de réponse moyen (7j):** 571ms
 
 ---
 
