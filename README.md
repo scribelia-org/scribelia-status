@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 06/05/2026 00:06:15*
+*Dernière mise à jour: 06/05/2026 00:15:21*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 539ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 761ms | 100% | 100% | 99.68% |
+| **API** | ⚠️ Dégradé | 377ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 812ms | 100% | 100% | 99.68% |
 
 ---
 
@@ -24,12 +24,12 @@
 ### 🚨 Incidents en cours
 
 - **API** - ⚠️ Dégradé depuis 87j 6h
-- **API** - ❌ Hors service depuis 88j 14h
-- **API** - ⚠️ Dégradé depuis 88j 15h
+- **API** - ❌ Hors service depuis 88j 15h
+- **API** - ⚠️ Dégradé depuis 88j 16h
 - **API** - ❌ Hors service depuis 88j 19h
 - **API** - ⚠️ Dégradé depuis 88j 20h
 - **API** - ❌ Hors service depuis 89j 1h
-- **API** - ❌ Hors service depuis 89j 3h
+- **API** - ❌ Hors service depuis 89j 4h
 - **API** - ❌ Hors service depuis 89j 10h
 - **API** - ⚠️ Dégradé depuis 89j 17h
 - **API** - ⚠️ Dégradé depuis 90j 2h
@@ -37,7 +37,7 @@
 - **API** - ⚠️ Dégradé depuis 91j 6h
 - **API** - ⚠️ Dégradé depuis 92j 9h
 - **API** - ❌ Hors service depuis 92j 12h
-- **API** - ⚠️ Dégradé depuis 92j 15h
+- **API** - ⚠️ Dégradé depuis 92j 16h
 - **API** - ❌ Hors service depuis 94j 3h
 - **API** - ⚠️ Dégradé depuis 94j 9h
 - **API** - ⚠️ Dégradé depuis 94j 11h
@@ -49,8 +49,8 @@
 - **API** - ❌ Hors service depuis 96j 4h
 - **API** - ❌ Hors service depuis 96j 5h
 - **API** - ⚠️ Dégradé depuis 97j 3h
-- **API** - ⚠️ Dégradé depuis 97j 8h
-- **API** - ⚠️ Dégradé depuis 100j 4h
+- **API** - ⚠️ Dégradé depuis 97j 9h
+- **API** - ⚠️ Dégradé depuis 100j 5h
 - **API** - ❌ Hors service depuis 104j 7h
 - **API** - ⚠️ Dégradé depuis 104j 7h
 - **API** - ❌ Hors service depuis 113j 8h
@@ -77,7 +77,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 620ms
+- **Temps de réponse moyen (24h):** 623ms
 - **Temps de réponse moyen (7j):** 619ms
 
 ---
