@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 08/05/2026 22:37:03*
+*Dernière mise à jour: 08/05/2026 22:50:42*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 446ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 349ms | 100% | 100% | 99.82% |
+| **API** | ⚠️ Dégradé | 346ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 775ms | 100% | 100% | 99.82% |
 
 ---
 
@@ -34,7 +34,7 @@
 - **API** - ⚠️ Dégradé depuis 92j 15h
 - **API** - ⚠️ Dégradé depuis 93j 1h
 - **API** - ❌ Hors service depuis 93j 22h
-- **API** - ⚠️ Dégradé depuis 94j 4h
+- **API** - ⚠️ Dégradé depuis 94j 5h
 - **API** - ⚠️ Dégradé depuis 95j 8h
 - **API** - ❌ Hors service depuis 95j 11h
 - **API** - ⚠️ Dégradé depuis 95j 14h
@@ -43,7 +43,7 @@
 - **API** - ⚠️ Dégradé depuis 97j 10h
 - **API** - ❌ Hors service depuis 97j 13h
 - **API** - ❌ Hors service depuis 98j 1h
-- **API** - ⚠️ Dégradé depuis 98j 1h
+- **API** - ⚠️ Dégradé depuis 98j 2h
 - **API** - ❌ Hors service depuis 98j 2h
 - **API** - ❌ Hors service depuis 98j 4h
 - **API** - ❌ Hors service depuis 99j 3h
