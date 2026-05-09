@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 09/05/2026 13:50:30*
+*Dernière mise à jour: 09/05/2026 14:08:16*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 406ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 246ms | 97.59% | 99.64% | 99.75% |
+| **API** | ⚠️ Dégradé | 329ms | 0% | 0% | 0% |
+| **Website** | ⚠️ Dégradé | 3846ms | 96.39% | 99.46% | 99.71% |
 
 ---
 
@@ -23,6 +23,7 @@
 
 ### 🚨 Incidents en cours
 
+- **Website** - ⚠️ Dégradé depuis 0s
 - **API** - ⚠️ Dégradé depuis 90j 20h
 - **API** - ❌ Hors service depuis 92j 4h
 - **API** - ⚠️ Dégradé depuis 92j 5h
@@ -31,7 +32,7 @@
 - **API** - ❌ Hors service depuis 92j 15h
 - **API** - ❌ Hors service depuis 92j 17h
 - **API** - ❌ Hors service depuis 93j 0h
-- **API** - ⚠️ Dégradé depuis 93j 6h
+- **API** - ⚠️ Dégradé depuis 93j 7h
 - **API** - ⚠️ Dégradé depuis 93j 16h
 - **API** - ❌ Hors service depuis 94j 13h
 - **API** - ⚠️ Dégradé depuis 94j 20h
@@ -42,7 +43,7 @@
 - **API** - ⚠️ Dégradé depuis 97j 23h
 - **API** - ⚠️ Dégradé depuis 98j 1h
 - **API** - ❌ Hors service depuis 98j 4h
-- **API** - ❌ Hors service depuis 98j 16h
+- **API** - ❌ Hors service depuis 98j 17h
 - **API** - ⚠️ Dégradé depuis 98j 17h
 - **API** - ❌ Hors service depuis 98j 17h
 - **API** - ❌ Hors service depuis 98j 19h
@@ -51,9 +52,9 @@
 - **API** - ⚠️ Dégradé depuis 100j 17h
 - **API** - ⚠️ Dégradé depuis 100j 22h
 - **API** - ⚠️ Dégradé depuis 103j 18h
-- **API** - ❌ Hors service depuis 107j 20h
-- **API** - ⚠️ Dégradé depuis 107j 20h
-- **API** - ❌ Hors service depuis 116j 21h
+- **API** - ❌ Hors service depuis 107j 21h
+- **API** - ⚠️ Dégradé depuis 107j 21h
+- **API** - ❌ Hors service depuis 116j 22h
 - **API** - ⚠️ Dégradé depuis 116j 23h
 
 ### ✅ Incidents résolus récemment
@@ -77,8 +78,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 650ms
-- **Temps de réponse moyen (7j):** 634ms
+- **Temps de réponse moyen (24h):** 648ms
+- **Temps de réponse moyen (7j):** 633ms
 
 ---
 
