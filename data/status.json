@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-11T00:39:23.056Z",
+  "lastUpdate": "2026-05-11T01:13:31.874Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 354,
-          "timestamp": "2026-02-10T01:04:15.417Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -57103,11 +57097,17 @@
           "statusCode": 500,
           "responseTime": 291,
           "timestamp": "2026-05-11T00:39:22.396Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 318,
+          "timestamp": "2026-05-11T01:13:31.197Z"
         }
       ],
-      "lastCheck": "2026-05-11T00:39:22.396Z",
-      "responseTime": 291,
-      "statusCode": 500,
+      "lastCheck": "2026-05-11T01:13:31.197Z",
+      "responseTime": 318,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -57142,12 +57142,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 577,
-          "timestamp": "2026-02-10T01:04:16.018Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -114237,10 +114231,16 @@
           "statusCode": 200,
           "responseTime": 587,
           "timestamp": "2026-05-11T00:39:23.021Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 606,
+          "timestamp": "2026-05-11T01:13:31.841Z"
         }
       ],
-      "lastCheck": "2026-05-11T00:39:23.021Z",
-      "responseTime": 587,
+      "lastCheck": "2026-05-11T01:13:31.841Z",
+      "responseTime": 606,
       "statusCode": 200,
       "uptime": {
         "day": 98.9,
@@ -114250,7 +114250,7 @@
       },
       "avgResponseTime": {
         "day": 597,
-        "week": 638,
+        "week": 637,
         "month": 603
       }
     }
