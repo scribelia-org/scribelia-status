@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 13/05/2026 02:07:40*
+*Dernière mise à jour: 13/05/2026 03:09:06*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 457ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 846ms | 100% | 99.23% | 99.69% |
+| **API** | ⚠️ Dégradé | 481ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 751ms | 100% | 99.23% | 99.69% |
 
 ---
 
@@ -23,38 +23,38 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 94j 8h
-- **API** - ❌ Hors service depuis 95j 16h
-- **API** - ⚠️ Dégradé depuis 95j 17h
-- **API** - ❌ Hors service depuis 95j 21h
-- **API** - ⚠️ Dégradé depuis 95j 22h
-- **API** - ❌ Hors service depuis 96j 3h
-- **API** - ❌ Hors service depuis 96j 5h
-- **API** - ❌ Hors service depuis 96j 12h
-- **API** - ⚠️ Dégradé depuis 96j 19h
-- **API** - ⚠️ Dégradé depuis 97j 4h
-- **API** - ❌ Hors service depuis 98j 1h
-- **API** - ⚠️ Dégradé depuis 98j 8h
-- **API** - ⚠️ Dégradé depuis 99j 11h
-- **API** - ❌ Hors service depuis 99j 14h
-- **API** - ⚠️ Dégradé depuis 99j 17h
-- **API** - ❌ Hors service depuis 101j 5h
-- **API** - ⚠️ Dégradé depuis 101j 11h
-- **API** - ⚠️ Dégradé depuis 101j 13h
-- **API** - ❌ Hors service depuis 101j 16h
-- **API** - ❌ Hors service depuis 102j 5h
-- **API** - ⚠️ Dégradé depuis 102j 5h
-- **API** - ❌ Hors service depuis 102j 5h
-- **API** - ❌ Hors service depuis 102j 7h
-- **API** - ❌ Hors service depuis 103j 6h
+- **API** - ⚠️ Dégradé depuis 94j 9h
+- **API** - ❌ Hors service depuis 95j 17h
+- **API** - ⚠️ Dégradé depuis 95j 18h
+- **API** - ❌ Hors service depuis 95j 22h
+- **API** - ⚠️ Dégradé depuis 95j 23h
+- **API** - ❌ Hors service depuis 96j 4h
+- **API** - ❌ Hors service depuis 96j 6h
+- **API** - ❌ Hors service depuis 96j 13h
+- **API** - ⚠️ Dégradé depuis 96j 20h
+- **API** - ⚠️ Dégradé depuis 97j 5h
+- **API** - ❌ Hors service depuis 98j 2h
+- **API** - ⚠️ Dégradé depuis 98j 9h
+- **API** - ⚠️ Dégradé depuis 99j 12h
+- **API** - ❌ Hors service depuis 99j 15h
+- **API** - ⚠️ Dégradé depuis 99j 18h
+- **API** - ❌ Hors service depuis 101j 6h
+- **API** - ⚠️ Dégradé depuis 101j 12h
+- **API** - ⚠️ Dégradé depuis 101j 14h
+- **API** - ❌ Hors service depuis 101j 17h
+- **API** - ❌ Hors service depuis 102j 6h
+- **API** - ⚠️ Dégradé depuis 102j 6h
+- **API** - ❌ Hors service depuis 102j 6h
+- **API** - ❌ Hors service depuis 102j 8h
 - **API** - ❌ Hors service depuis 103j 7h
-- **API** - ⚠️ Dégradé depuis 104j 5h
-- **API** - ⚠️ Dégradé depuis 104j 10h
-- **API** - ⚠️ Dégradé depuis 107j 6h
-- **API** - ❌ Hors service depuis 111j 9h
-- **API** - ⚠️ Dégradé depuis 111j 9h
-- **API** - ❌ Hors service depuis 120j 10h
-- **API** - ⚠️ Dégradé depuis 120j 11h
+- **API** - ❌ Hors service depuis 103j 8h
+- **API** - ⚠️ Dégradé depuis 104j 6h
+- **API** - ⚠️ Dégradé depuis 104j 11h
+- **API** - ⚠️ Dégradé depuis 107j 7h
+- **API** - ❌ Hors service depuis 111j 10h
+- **API** - ⚠️ Dégradé depuis 111j 10h
+- **API** - ❌ Hors service depuis 120j 11h
+- **API** - ⚠️ Dégradé depuis 120j 12h
 
 ### ✅ Incidents résolus récemment
 
