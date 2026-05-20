@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-20T00:14:12.561Z",
+  "lastUpdate": "2026-05-20T01:14:48.134Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 545,
-          "timestamp": "2026-02-19T00:57:12.404Z"
-        },
         {
           "status": "degraded",
           "statusCode": 500,
@@ -57379,10 +57373,16 @@
           "statusCode": 503,
           "responseTime": 484,
           "timestamp": "2026-05-20T00:14:11.709Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 424,
+          "timestamp": "2026-05-20T01:14:47.803Z"
         }
       ],
-      "lastCheck": "2026-05-20T00:14:11.709Z",
-      "responseTime": 484,
+      "lastCheck": "2026-05-20T01:14:47.803Z",
+      "responseTime": 424,
       "statusCode": 503,
       "uptime": {
         "day": 0,
@@ -57418,12 +57418,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 311,
-          "timestamp": "2026-02-19T00:57:12.738Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -114789,10 +114783,16 @@
           "statusCode": 200,
           "responseTime": 779,
           "timestamp": "2026-05-20T00:14:12.527Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 257,
+          "timestamp": "2026-05-20T01:14:48.100Z"
         }
       ],
-      "lastCheck": "2026-05-20T00:14:12.527Z",
-      "responseTime": 779,
+      "lastCheck": "2026-05-20T01:14:48.100Z",
+      "responseTime": 257,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -114803,7 +114803,7 @@
       "avgResponseTime": {
         "day": 624,
         "week": 564,
-        "month": 606
+        "month": 605
       }
     }
   },
