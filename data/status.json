@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-05-21T03:22:12.030Z",
-  "overallStatus": "degraded",
+  "lastUpdate": "2026-05-21T03:24:13.263Z",
+  "overallStatus": "outage",
   "sites": {
     "api": {
       "name": "API",
       "url": "https://api.scribelia.com/health",
       "description": "API Backend",
-      "status": "degraded",
+      "status": "down",
       "history": [
         {
           "status": "degraded",
@@ -57373,11 +57373,17 @@
           "statusCode": 500,
           "responseTime": 383,
           "timestamp": "2026-05-21T03:22:11.706Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 10001,
+          "timestamp": "2026-05-21T03:24:02.378Z"
         }
       ],
-      "lastCheck": "2026-05-21T03:22:11.706Z",
-      "responseTime": 383,
-      "statusCode": 500,
+      "lastCheck": "2026-05-21T03:24:02.378Z",
+      "responseTime": 10001,
+      "statusCode": 0,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -57410,7 +57416,7 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "up",
+      "status": "down",
       "history": [
         {
           "status": "up",
@@ -114777,16 +114783,22 @@
           "statusCode": 200,
           "responseTime": 218,
           "timestamp": "2026-05-21T03:22:11.997Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 10001,
+          "timestamp": "2026-05-21T03:24:12.945Z"
         }
       ],
-      "lastCheck": "2026-05-21T03:22:11.997Z",
-      "responseTime": 218,
-      "statusCode": 200,
+      "lastCheck": "2026-05-21T03:24:12.945Z",
+      "responseTime": 10001,
+      "statusCode": 0,
       "uptime": {
-        "day": 100,
-        "week": 99.78,
-        "month": 99.74,
-        "all": 99.6
+        "day": 98.04,
+        "week": 99.56,
+        "month": 99.7,
+        "all": 99.59
       },
       "avgResponseTime": {
         "day": 624,
@@ -114796,6 +114808,36 @@
     }
   },
   "incidents": [
+    {
+      "id": 1779333853263,
+      "site": "Website",
+      "slug": "website",
+      "status": "down",
+      "startedAt": "2026-05-21T03:24:12.945Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "down",
+          "message": "Website is down",
+          "timestamp": "2026-05-21T03:24:12.945Z"
+        }
+      ]
+    },
+    {
+      "id": 1779333842944,
+      "site": "API",
+      "slug": "api",
+      "status": "down",
+      "startedAt": "2026-05-21T03:24:02.378Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "down",
+          "message": "API is down",
+          "timestamp": "2026-05-21T03:24:02.378Z"
+        }
+      ]
+    },
     {
       "id": 1779125633015,
       "site": "Website",
