@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 24/05/2026 21:36:08*
+*Dernière mise à jour: 24/05/2026 22:01:02*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 441ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 314ms | 100% | 99.53% | 99.73% |
+| **API** | ⚠️ Dégradé | 443ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 728ms | 100% | 99.53% | 99.73% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 3j 14h
+- **API** - ⚠️ Dégradé depuis 3j 15h
 - **API** - ❌ Hors service depuis 3j 16h
 - **API** - ⚠️ Dégradé depuis 106j 4h
 - **API** - ❌ Hors service depuis 107j 12h
@@ -36,7 +36,7 @@
 - **API** - ⚠️ Dégradé depuis 108j 14h
 - **API** - ⚠️ Dégradé depuis 109j 0h
 - **API** - ❌ Hors service depuis 109j 21h
-- **API** - ⚠️ Dégradé depuis 110j 3h
+- **API** - ⚠️ Dégradé depuis 110j 4h
 - **API** - ⚠️ Dégradé depuis 111j 7h
 - **API** - ❌ Hors service depuis 111j 10h
 - **API** - ⚠️ Dégradé depuis 111j 13h
@@ -45,7 +45,7 @@
 - **API** - ⚠️ Dégradé depuis 113j 9h
 - **API** - ❌ Hors service depuis 113j 12h
 - **API** - ❌ Hors service depuis 114j 0h
-- **API** - ⚠️ Dégradé depuis 114j 0h
+- **API** - ⚠️ Dégradé depuis 114j 1h
 - **API** - ❌ Hors service depuis 114j 1h
 - **API** - ❌ Hors service depuis 114j 3h
 - **API** - ❌ Hors service depuis 115j 2h
@@ -53,9 +53,9 @@
 - **API** - ⚠️ Dégradé depuis 116j 1h
 - **API** - ⚠️ Dégradé depuis 116j 6h
 - **API** - ⚠️ Dégradé depuis 119j 2h
-- **API** - ❌ Hors service depuis 123j 4h
-- **API** - ⚠️ Dégradé depuis 123j 4h
-- **API** - ❌ Hors service depuis 132j 5h
+- **API** - ❌ Hors service depuis 123j 5h
+- **API** - ⚠️ Dégradé depuis 123j 5h
+- **API** - ❌ Hors service depuis 132j 6h
 - **API** - ⚠️ Dégradé depuis 132j 7h
 
 ### ✅ Incidents résolus récemment
@@ -79,8 +79,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 605ms
-- **Temps de réponse moyen (7j):** 579ms
+- **Temps de réponse moyen (24h):** 600ms
+- **Temps de réponse moyen (7j):** 580ms
 
 ---
 
