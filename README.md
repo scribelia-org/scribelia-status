@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 02/06/2026 03:24:52*
+*Dernière mise à jour: 02/06/2026 03:29:46*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 482ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 751ms | 100% | 98.9% | 99.49% |
+| **API** | ⚠️ Dégradé | 477ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 758ms | 100% | 98.91% | 99.49% |
 
 ---
 
@@ -28,16 +28,16 @@
 - **API** - ⚠️ Dégradé depuis 114j 10h
 - **API** - ❌ Hors service depuis 115j 18h
 - **API** - ⚠️ Dégradé depuis 115j 19h
-- **API** - ❌ Hors service depuis 115j 22h
-- **API** - ⚠️ Dégradé depuis 115j 23h
+- **API** - ❌ Hors service depuis 115j 23h
+- **API** - ⚠️ Dégradé depuis 116j 0h
 - **API** - ❌ Hors service depuis 116j 4h
 - **API** - ❌ Hors service depuis 116j 7h
-- **API** - ❌ Hors service depuis 116j 13h
+- **API** - ❌ Hors service depuis 116j 14h
 - **API** - ⚠️ Dégradé depuis 116j 20h
 - **API** - ⚠️ Dégradé depuis 117j 5h
 - **API** - ❌ Hors service depuis 118j 3h
 - **API** - ⚠️ Dégradé depuis 118j 9h
-- **API** - ⚠️ Dégradé depuis 119j 12h
+- **API** - ⚠️ Dégradé depuis 119j 13h
 - **API** - ❌ Hors service depuis 119j 15h
 - **API** - ⚠️ Dégradé depuis 119j 19h
 - **API** - ❌ Hors service depuis 121j 7h
@@ -48,7 +48,7 @@
 - **API** - ⚠️ Dégradé depuis 122j 6h
 - **API** - ❌ Hors service depuis 122j 7h
 - **API** - ❌ Hors service depuis 122j 9h
-- **API** - ❌ Hors service depuis 123j 7h
+- **API** - ❌ Hors service depuis 123j 8h
 - **API** - ❌ Hors service depuis 123j 9h
 - **API** - ⚠️ Dégradé depuis 124j 7h
 - **API** - ⚠️ Dégradé depuis 124j 12h
@@ -79,8 +79,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 623ms
-- **Temps de réponse moyen (7j):** 571ms
+- **Temps de réponse moyen (24h):** 621ms
+- **Temps de réponse moyen (7j):** 572ms
 
 ---
 
