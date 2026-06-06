@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-06T08:12:04.392Z",
+  "lastUpdate": "2026-06-06T08:15:05.416Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 469,
-          "timestamp": "2026-03-08T08:14:18.909Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -50989,11 +50983,17 @@
           "statusCode": 503,
           "responseTime": 333,
           "timestamp": "2026-06-06T08:12:03.657Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 387,
+          "timestamp": "2026-06-06T08:15:04.556Z"
         }
       ],
-      "lastCheck": "2026-06-06T08:12:03.657Z",
-      "responseTime": 333,
-      "statusCode": 503,
+      "lastCheck": "2026-06-06T08:15:04.556Z",
+      "responseTime": 387,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -51028,12 +51028,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 219,
-          "timestamp": "2026-03-08T08:14:19.161Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -102009,10 +102003,16 @@
           "statusCode": 200,
           "responseTime": 667,
           "timestamp": "2026-06-06T08:12:04.360Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 781,
+          "timestamp": "2026-06-06T08:15:05.386Z"
         }
       ],
-      "lastCheck": "2026-06-06T08:12:04.360Z",
-      "responseTime": 667,
+      "lastCheck": "2026-06-06T08:15:05.386Z",
+      "responseTime": 781,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -102022,7 +102022,7 @@
       },
       "avgResponseTime": {
         "day": 573,
-        "week": 552,
+        "week": 553,
         "month": 586
       }
     }
