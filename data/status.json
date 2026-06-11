@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-11T03:50:01.325Z",
-  "overallStatus": "degraded",
+  "lastUpdate": "2026-06-11T05:11:27.106Z",
+  "overallStatus": "outage",
   "sites": {
     "api": {
       "name": "API",
@@ -8,36 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 420,
-          "timestamp": "2026-03-13T03:58:06.555Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 416,
-          "timestamp": "2026-03-13T04:14:17.584Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 362,
-          "timestamp": "2026-03-13T04:40:02.055Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 471,
-          "timestamp": "2026-03-13T04:54:11.499Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 434,
-          "timestamp": "2026-03-13T05:08:57.853Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -48523,10 +48493,16 @@
           "statusCode": 500,
           "responseTime": 369,
           "timestamp": "2026-06-11T03:50:01.063Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 333,
+          "timestamp": "2026-06-11T05:11:16.733Z"
         }
       ],
-      "lastCheck": "2026-06-11T03:50:01.063Z",
-      "responseTime": 369,
+      "lastCheck": "2026-06-11T05:11:16.733Z",
+      "responseTime": 333,
       "statusCode": 500,
       "uptime": {
         "day": 0,
@@ -48560,38 +48536,8 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "up",
+      "status": "down",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 254,
-          "timestamp": "2026-03-13T03:58:06.858Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 216,
-          "timestamp": "2026-03-13T04:14:17.836Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 189,
-          "timestamp": "2026-03-13T04:40:02.276Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 145,
-          "timestamp": "2026-03-13T04:54:11.677Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 200,
-          "timestamp": "2026-03-13T05:08:58.087Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -97077,25 +97023,46 @@
           "statusCode": 200,
           "responseTime": 199,
           "timestamp": "2026-06-11T03:50:01.297Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 10001,
+          "timestamp": "2026-06-11T05:11:26.768Z"
         }
       ],
-      "lastCheck": "2026-06-11T03:50:01.297Z",
-      "responseTime": 199,
-      "statusCode": 200,
+      "lastCheck": "2026-06-11T05:11:26.768Z",
+      "responseTime": 10001,
+      "statusCode": 0,
       "uptime": {
-        "day": 100,
-        "week": 100,
-        "month": 99.65,
-        "all": 99.58
+        "day": 97.73,
+        "week": 99.74,
+        "month": 99.59,
+        "all": 99.57
       },
       "avgResponseTime": {
-        "day": 519,
+        "day": 516,
         "week": 531,
         "month": 565
       }
     }
   },
   "incidents": [
+    {
+      "id": 1781154687106,
+      "site": "Website",
+      "slug": "website",
+      "status": "down",
+      "startedAt": "2026-06-11T05:11:26.768Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "down",
+          "message": "Website is down",
+          "timestamp": "2026-06-11T05:11:26.768Z"
+        }
+      ]
+    },
     {
       "id": 1780238438622,
       "site": "Website",
