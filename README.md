@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 19/06/2026 05:48:23*
+*Dernière mise à jour: 19/06/2026 05:58:38*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 412ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 756ms | 100% | 100% | 99.62% |
+| **API** | ⚠️ Dégradé | 452ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 587ms | 100% | 100% | 99.62% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 28j 22h
+- **API** - ⚠️ Dégradé depuis 28j 23h
 - **API** - ❌ Hors service depuis 29j 0h
 - **API** - ⚠️ Dégradé depuis 131j 12h
 - **API** - ❌ Hors service depuis 132j 20h
@@ -54,7 +54,7 @@
 - **API** - ⚠️ Dégradé depuis 141j 14h
 - **API** - ⚠️ Dégradé depuis 144j 10h
 - **API** - ❌ Hors service depuis 148j 12h
-- **API** - ⚠️ Dégradé depuis 148j 12h
+- **API** - ⚠️ Dégradé depuis 148j 13h
 - **API** - ❌ Hors service depuis 157j 13h
 - **API** - ⚠️ Dégradé depuis 157j 15h
 
@@ -79,7 +79,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 566ms
+- **Temps de réponse moyen (24h):** 573ms
 - **Temps de réponse moyen (7j):** 536ms
 
 ---
