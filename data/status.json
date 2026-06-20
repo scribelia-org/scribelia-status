@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-20T03:21:03.091Z",
+  "lastUpdate": "2026-06-20T03:29:07.201Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 438,
-          "timestamp": "2026-03-22T03:22:48.629Z"
-        },
         {
           "status": "degraded",
           "statusCode": 500,
@@ -43717,10 +43711,16 @@
           "statusCode": 503,
           "responseTime": 383,
           "timestamp": "2026-06-20T03:21:02.670Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 300,
+          "timestamp": "2026-06-20T03:29:06.513Z"
         }
       ],
-      "lastCheck": "2026-06-20T03:21:02.670Z",
-      "responseTime": 383,
+      "lastCheck": "2026-06-20T03:29:06.513Z",
+      "responseTime": 300,
       "statusCode": 503,
       "uptime": {
         "day": 0,
@@ -43756,12 +43756,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 270,
-          "timestamp": "2026-03-22T03:22:48.937Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -87465,15 +87459,21 @@
           "statusCode": 200,
           "responseTime": 365,
           "timestamp": "2026-06-20T03:21:03.066Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 624,
+          "timestamp": "2026-06-20T03:29:07.172Z"
         }
       ],
-      "lastCheck": "2026-06-20T03:21:03.066Z",
-      "responseTime": 365,
+      "lastCheck": "2026-06-20T03:29:07.172Z",
+      "responseTime": 624,
       "statusCode": 200,
       "uptime": {
         "day": 100,
         "week": 100,
-        "month": 99.62,
+        "month": 99.68,
         "all": 99.56
       },
       "avgResponseTime": {
