@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 26/06/2026 00:37:48*
+*Dernière mise à jour: 26/06/2026 00:59:17*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 432ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 846ms | 100% | 99.73% | 99.61% |
+| **API** | ⚠️ Dégradé | 301ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 696ms | 100% | 99.73% | 99.61% |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 35j 17h
+- **API** - ⚠️ Dégradé depuis 35j 18h
 - **API** - ❌ Hors service depuis 35j 19h
 - **API** - ⚠️ Dégradé depuis 138j 7h
 - **API** - ❌ Hors service depuis 139j 15h
@@ -36,7 +36,7 @@
 - **API** - ⚠️ Dégradé depuis 140j 17h
 - **API** - ⚠️ Dégradé depuis 141j 3h
 - **API** - ❌ Hors service depuis 142j 0h
-- **API** - ⚠️ Dégradé depuis 142j 6h
+- **API** - ⚠️ Dégradé depuis 142j 7h
 - **API** - ⚠️ Dégradé depuis 143j 10h
 - **API** - ❌ Hors service depuis 143j 13h
 - **API** - ⚠️ Dégradé depuis 143j 16h
@@ -45,7 +45,7 @@
 - **API** - ⚠️ Dégradé depuis 145j 12h
 - **API** - ❌ Hors service depuis 145j 15h
 - **API** - ❌ Hors service depuis 146j 3h
-- **API** - ⚠️ Dégradé depuis 146j 3h
+- **API** - ⚠️ Dégradé depuis 146j 4h
 - **API** - ❌ Hors service depuis 146j 4h
 - **API** - ❌ Hors service depuis 146j 6h
 - **API** - ❌ Hors service depuis 147j 5h
@@ -54,7 +54,7 @@
 - **API** - ⚠️ Dégradé depuis 148j 9h
 - **API** - ⚠️ Dégradé depuis 151j 5h
 - **API** - ❌ Hors service depuis 155j 7h
-- **API** - ⚠️ Dégradé depuis 155j 7h
+- **API** - ⚠️ Dégradé depuis 155j 8h
 - **API** - ❌ Hors service depuis 164j 8h
 - **API** - ⚠️ Dégradé depuis 164j 10h
 
@@ -79,7 +79,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 600ms
+- **Temps de réponse moyen (24h):** 601ms
 - **Temps de réponse moyen (7j):** 578ms
 
 ---
