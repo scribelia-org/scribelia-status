@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 26/06/2026 19:27:25*
+*Dernière mise à jour: 26/06/2026 19:51:55*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 529ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 921ms | 98.21% | 99.48% | 99.61% |
+| **API** | ⚠️ Dégradé | 349ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 851ms | 98.21% | 99.48% | 99.61% |
 
 ---
 
@@ -29,23 +29,23 @@
 - **API** - ❌ Hors service depuis 140j 10h
 - **API** - ⚠️ Dégradé depuis 140j 11h
 - **API** - ❌ Hors service depuis 140j 15h
-- **API** - ⚠️ Dégradé depuis 140j 15h
-- **API** - ❌ Hors service depuis 140j 20h
+- **API** - ⚠️ Dégradé depuis 140j 16h
+- **API** - ❌ Hors service depuis 140j 21h
 - **API** - ❌ Hors service depuis 140j 23h
 - **API** - ❌ Hors service depuis 141j 6h
 - **API** - ⚠️ Dégradé depuis 141j 12h
-- **API** - ⚠️ Dégradé depuis 141j 21h
+- **API** - ⚠️ Dégradé depuis 141j 22h
 - **API** - ❌ Hors service depuis 142j 19h
-- **API** - ⚠️ Dégradé depuis 143j 1h
+- **API** - ⚠️ Dégradé depuis 143j 2h
 - **API** - ⚠️ Dégradé depuis 144j 5h
-- **API** - ❌ Hors service depuis 144j 7h
+- **API** - ❌ Hors service depuis 144j 8h
 - **API** - ⚠️ Dégradé depuis 144j 11h
 - **API** - ❌ Hors service depuis 145j 23h
 - **API** - ⚠️ Dégradé depuis 146j 5h
 - **API** - ⚠️ Dégradé depuis 146j 7h
 - **API** - ❌ Hors service depuis 146j 10h
 - **API** - ❌ Hors service depuis 146j 22h
-- **API** - ⚠️ Dégradé depuis 146j 22h
+- **API** - ⚠️ Dégradé depuis 146j 23h
 - **API** - ❌ Hors service depuis 146j 23h
 - **API** - ❌ Hors service depuis 147j 1h
 - **API** - ❌ Hors service depuis 148j 0h
@@ -79,7 +79,7 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 581ms
+- **Temps de réponse moyen (24h):** 584ms
 - **Temps de réponse moyen (7j):** 575ms
 
 ---
