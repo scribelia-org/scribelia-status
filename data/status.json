@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-06-26T12:01:02.288Z",
-  "overallStatus": "outage",
+  "lastUpdate": "2026-06-26T12:48:59.819Z",
+  "overallStatus": "degraded",
   "sites": {
     "api": {
       "name": "API",
@@ -8,36 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 453,
-          "timestamp": "2026-03-28T12:02:06.035Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 508,
-          "timestamp": "2026-03-28T12:10:56.658Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 506,
-          "timestamp": "2026-03-28T12:21:43.189Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 454,
-          "timestamp": "2026-03-28T12:27:34.779Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 478,
-          "timestamp": "2026-03-28T12:40:50.493Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -41065,11 +41035,17 @@
           "statusCode": 500,
           "responseTime": 5216,
           "timestamp": "2026-06-26T12:00:51.732Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 374,
+          "timestamp": "2026-06-26T12:48:59.084Z"
         }
       ],
-      "lastCheck": "2026-06-26T12:00:51.732Z",
-      "responseTime": 5216,
-      "statusCode": 500,
+      "lastCheck": "2026-06-26T12:48:59.084Z",
+      "responseTime": 374,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -41102,38 +41078,8 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "down",
+      "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 819,
-          "timestamp": "2026-03-28T12:02:06.893Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 1153,
-          "timestamp": "2026-03-28T12:10:57.884Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 681,
-          "timestamp": "2026-03-28T12:21:43.917Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 757,
-          "timestamp": "2026-03-28T12:27:35.574Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 840,
-          "timestamp": "2026-03-28T12:40:51.398Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -82161,20 +82107,26 @@
           "statusCode": 0,
           "responseTime": 10000,
           "timestamp": "2026-06-26T12:01:01.762Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 306,
+          "timestamp": "2026-06-26T12:48:59.421Z"
         }
       ],
-      "lastCheck": "2026-06-26T12:01:01.762Z",
-      "responseTime": 10000,
-      "statusCode": 0,
+      "lastCheck": "2026-06-26T12:48:59.421Z",
+      "responseTime": 306,
+      "statusCode": 200,
       "uptime": {
-        "day": 98.18,
+        "day": 98.15,
         "week": 99.47,
         "month": 99.61,
         "all": 99.62
       },
       "avgResponseTime": {
-        "day": 588,
-        "week": 575,
+        "day": 585,
+        "week": 573,
         "month": 555
       }
     }
@@ -82186,12 +82138,17 @@
       "slug": "website",
       "status": "down",
       "startedAt": "2026-06-26T12:01:01.762Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-06-26T12:48:59.421Z",
       "updates": [
         {
           "status": "down",
           "message": "Website is down",
           "timestamp": "2026-06-26T12:01:01.762Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-06-26T12:48:59.421Z"
         }
       ]
     },
