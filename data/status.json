@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-28T10:07:57.540Z",
+  "lastUpdate": "2026-06-28T10:27:45.260Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 532,
-          "timestamp": "2026-03-30T10:22:50.462Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -40273,10 +40267,16 @@
           "statusCode": 503,
           "responseTime": 319,
           "timestamp": "2026-06-28T10:07:57.046Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 369,
+          "timestamp": "2026-06-28T10:27:44.910Z"
         }
       ],
-      "lastCheck": "2026-06-28T10:07:57.046Z",
-      "responseTime": 319,
+      "lastCheck": "2026-06-28T10:27:44.910Z",
+      "responseTime": 369,
       "statusCode": 503,
       "uptime": {
         "day": 0,
@@ -40312,12 +40312,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 838,
-          "timestamp": "2026-03-30T10:22:51.347Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -80577,10 +80571,16 @@
           "statusCode": 200,
           "responseTime": 422,
           "timestamp": "2026-06-28T10:07:57.517Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 279,
+          "timestamp": "2026-06-28T10:27:45.237Z"
         }
       ],
-      "lastCheck": "2026-06-28T10:07:57.517Z",
-      "responseTime": 422,
+      "lastCheck": "2026-06-28T10:27:45.237Z",
+      "responseTime": 279,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -80589,9 +80589,9 @@
         "all": 99.61
       },
       "avgResponseTime": {
-        "day": 560,
-        "week": 569,
-        "month": 553
+        "day": 556,
+        "week": 568,
+        "month": 552
       }
     }
   },
