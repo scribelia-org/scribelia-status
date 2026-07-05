@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-05T13:01:53.461Z",
+  "lastUpdate": "2026-07-05T14:23:21.551Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,36 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 412,
-          "timestamp": "2026-04-06T13:13:46.869Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 341,
-          "timestamp": "2026-04-06T13:33:18.707Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 474,
-          "timestamp": "2026-04-06T13:48:43.113Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 460,
-          "timestamp": "2026-04-06T14:01:31.949Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 465,
-          "timestamp": "2026-04-06T14:14:26.794Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -37123,10 +37093,16 @@
           "statusCode": 503,
           "responseTime": 412,
           "timestamp": "2026-07-05T13:01:47.002Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 430,
+          "timestamp": "2026-07-05T14:23:20.421Z"
         }
       ],
-      "lastCheck": "2026-07-05T13:01:47.002Z",
-      "responseTime": 412,
+      "lastCheck": "2026-07-05T14:23:20.421Z",
+      "responseTime": 430,
       "statusCode": 503,
       "uptime": {
         "day": 0,
@@ -37160,38 +37136,8 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "degraded",
+      "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 1016,
-          "timestamp": "2026-04-06T13:13:47.923Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 232,
-          "timestamp": "2026-04-06T13:33:18.977Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 737,
-          "timestamp": "2026-04-06T13:48:43.890Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 722,
-          "timestamp": "2026-04-06T14:01:32.728Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 772,
-          "timestamp": "2026-04-06T14:14:27.607Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -74277,19 +74223,25 @@
           "statusCode": 200,
           "responseTime": 6053,
           "timestamp": "2026-07-05T13:01:53.103Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 695,
+          "timestamp": "2026-07-05T14:23:21.147Z"
         }
       ],
-      "lastCheck": "2026-07-05T13:01:53.103Z",
-      "responseTime": 6053,
+      "lastCheck": "2026-07-05T14:23:21.147Z",
+      "responseTime": 695,
       "statusCode": 200,
       "uptime": {
-        "day": 96.88,
+        "day": 96.77,
         "week": 99.33,
         "month": 99.67,
         "all": 99.66
       },
       "avgResponseTime": {
-        "day": 525,
+        "day": 517,
         "week": 575,
         "month": 557
       }
@@ -74302,12 +74254,17 @@
       "slug": "website",
       "status": "degraded",
       "startedAt": "2026-07-05T13:01:53.103Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-07-05T14:23:21.147Z",
       "updates": [
         {
           "status": "degraded",
           "message": "Website is degraded",
           "timestamp": "2026-07-05T13:01:53.103Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-07-05T14:23:21.147Z"
         }
       ]
     },
