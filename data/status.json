@@ -1,37 +1,13 @@
 {
-  "lastUpdate": "2026-07-30T12:17:44.713Z",
-  "overallStatus": "outage",
+  "lastUpdate": "2026-07-30T13:04:36.156Z",
+  "overallStatus": "degraded",
   "sites": {
     "api": {
       "name": "API",
       "url": "https://api.scribelia.com/health",
       "description": "API Backend",
-      "status": "down",
+      "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 429,
-          "responseTime": 388,
-          "timestamp": "2026-05-01T12:33:26.288Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 373,
-          "timestamp": "2026-05-01T12:35:00.234Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 462,
-          "timestamp": "2026-05-01T13:00:31.006Z"
-        },
-        {
-          "status": "degraded",
-          "statusCode": 503,
-          "responseTime": 322,
-          "timestamp": "2026-05-01T13:01:03.638Z"
-        },
         {
           "status": "degraded",
           "statusCode": 503,
@@ -27145,11 +27121,17 @@
           "statusCode": 0,
           "responseTime": 10000,
           "timestamp": "2026-07-30T12:17:34.807Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 503,
+          "responseTime": 333,
+          "timestamp": "2026-07-30T13:04:34.920Z"
         }
       ],
-      "lastCheck": "2026-07-30T12:17:34.807Z",
-      "responseTime": 10000,
-      "statusCode": 0,
+      "lastCheck": "2026-07-30T13:04:34.920Z",
+      "responseTime": 333,
+      "statusCode": 503,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -27182,32 +27164,8 @@
       "name": "Website",
       "url": "https://scribelia.com",
       "description": "Frontend Application",
-      "status": "degraded",
+      "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 781,
-          "timestamp": "2026-05-01T12:33:27.102Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 255,
-          "timestamp": "2026-05-01T12:35:00.527Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 1185,
-          "timestamp": "2026-05-01T13:00:32.228Z"
-        },
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 770,
-          "timestamp": "2026-05-01T13:01:04.437Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -54321,19 +54279,25 @@
           "statusCode": 200,
           "responseTime": 9363,
           "timestamp": "2026-07-30T12:17:44.552Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 692,
+          "timestamp": "2026-07-30T13:04:35.970Z"
         }
       ],
-      "lastCheck": "2026-07-30T12:17:44.552Z",
-      "responseTime": 9363,
+      "lastCheck": "2026-07-30T13:04:35.970Z",
+      "responseTime": 692,
       "statusCode": 200,
       "uptime": {
-        "day": 96.67,
+        "day": 96.77,
         "week": 99.51,
         "month": 99.67,
         "all": 99.65
       },
       "avgResponseTime": {
-        "day": 623,
+        "day": 625,
         "week": 675,
         "month": 647
       }
@@ -54341,17 +54305,37 @@
   },
   "incidents": [
     {
+      "id": 1785416675278,
+      "site": "API",
+      "slug": "api",
+      "status": "degraded",
+      "startedAt": "2026-07-30T13:04:34.920Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "degraded",
+          "message": "API is degraded",
+          "timestamp": "2026-07-30T13:04:34.920Z"
+        }
+      ]
+    },
+    {
       "id": 1785413864713,
       "site": "Website",
       "slug": "website",
       "status": "degraded",
       "startedAt": "2026-07-30T12:17:44.552Z",
-      "resolvedAt": null,
+      "resolvedAt": "2026-07-30T13:04:35.970Z",
       "updates": [
         {
           "status": "degraded",
           "message": "Website is degraded",
           "timestamp": "2026-07-30T12:17:44.552Z"
+        },
+        {
+          "status": "resolved",
+          "message": "Website is back up",
+          "timestamp": "2026-07-30T13:04:35.970Z"
         }
       ]
     },
