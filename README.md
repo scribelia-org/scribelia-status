@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 18/08/2026 09:51:48*
+*Dernière mise à jour: 18/08/2026 10:04:56*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 522ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 332ms | 100% | 100% | 99.92% |
+| **API** | ⚠️ Dégradé | 303ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 234ms | 100% | 100% | 99.92% |
 
 ---
 
@@ -23,9 +23,9 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 18j 18h
+- **API** - ⚠️ Dégradé depuis 18j 19h
 - **API** - ❌ Hors service depuis 18j 19h
-- **API** - ⚠️ Dégradé depuis 89j 2h
+- **API** - ⚠️ Dégradé depuis 89j 3h
 - **API** - ❌ Hors service depuis 89j 4h
 - **API** - ⚠️ Dégradé depuis 191j 16h
 - **API** - ❌ Hors service depuis 193j 0h
@@ -46,7 +46,7 @@
 - **API** - ⚠️ Dégradé depuis 198j 19h
 - **API** - ⚠️ Dégradé depuis 198j 21h
 - **API** - ❌ Hors service depuis 199j 0h
-- **API** - ❌ Hors service depuis 199j 12h
+- **API** - ❌ Hors service depuis 199j 13h
 - **API** - ⚠️ Dégradé depuis 199j 13h
 - **API** - ❌ Hors service depuis 199j 13h
 - **API** - ❌ Hors service depuis 199j 15h
@@ -55,9 +55,9 @@
 - **API** - ⚠️ Dégradé depuis 201j 13h
 - **API** - ⚠️ Dégradé depuis 201j 18h
 - **API** - ⚠️ Dégradé depuis 204j 14h
-- **API** - ❌ Hors service depuis 208j 16h
-- **API** - ⚠️ Dégradé depuis 208j 16h
-- **API** - ❌ Hors service depuis 217j 17h
+- **API** - ❌ Hors service depuis 208j 17h
+- **API** - ⚠️ Dégradé depuis 208j 17h
+- **API** - ❌ Hors service depuis 217j 18h
 - **API** - ⚠️ Dégradé depuis 217j 19h
 
 ### ✅ Incidents résolus récemment
@@ -81,8 +81,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 671ms
-- **Temps de réponse moyen (7j):** 663ms
+- **Temps de réponse moyen (24h):** 664ms
+- **Temps de réponse moyen (7j):** 662ms
 
 ---
 
