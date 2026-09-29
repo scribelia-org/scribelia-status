@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-29T13:21:16.419Z",
+  "lastUpdate": "2026-09-29T13:52:43.581Z",
   "overallStatus": "degraded",
   "sites": {
     "api": {
@@ -8,12 +8,6 @@
       "description": "API Backend",
       "status": "degraded",
       "history": [
-        {
-          "status": "degraded",
-          "statusCode": 500,
-          "responseTime": 308,
-          "timestamp": "2026-07-01T13:38:32.547Z"
-        },
         {
           "status": "degraded",
           "statusCode": 500,
@@ -18037,11 +18031,17 @@
           "statusCode": 503,
           "responseTime": 416,
           "timestamp": "2026-09-29T13:21:14.940Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 387,
+          "timestamp": "2026-09-29T13:52:42.623Z"
         }
       ],
-      "lastCheck": "2026-09-29T13:21:14.940Z",
-      "responseTime": 416,
-      "statusCode": 503,
+      "lastCheck": "2026-09-29T13:52:42.623Z",
+      "responseTime": 387,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -18076,12 +18076,6 @@
       "description": "Frontend Application",
       "status": "up",
       "history": [
-        {
-          "status": "up",
-          "statusCode": 200,
-          "responseTime": 794,
-          "timestamp": "2026-07-01T13:38:33.385Z"
-        },
         {
           "status": "up",
           "statusCode": 200,
@@ -36105,10 +36099,16 @@
           "statusCode": 200,
           "responseTime": 1459,
           "timestamp": "2026-09-29T13:21:16.410Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 939,
+          "timestamp": "2026-09-29T13:52:43.573Z"
         }
       ],
-      "lastCheck": "2026-09-29T13:21:16.410Z",
-      "responseTime": 1459,
+      "lastCheck": "2026-09-29T13:52:43.573Z",
+      "responseTime": 939,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -36118,8 +36118,8 @@
       },
       "avgResponseTime": {
         "day": 935,
-        "week": 781,
-        "month": 767
+        "week": 783,
+        "month": 769
       }
     }
   },
