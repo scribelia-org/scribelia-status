@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-09-30T14:12:02.347Z",
-  "overallStatus": "outage",
+  "lastUpdate": "2026-09-30T14:23:13.009Z",
+  "overallStatus": "degraded",
   "sites": {
     "api": {
       "name": "API",
       "url": "https://api.scribelia.com/health",
       "description": "API Backend",
-      "status": "down",
+      "status": "degraded",
       "history": [
         {
           "status": "degraded",
@@ -17851,11 +17851,17 @@
           "statusCode": 0,
           "responseTime": 10004,
           "timestamp": "2026-09-30T14:12:01.857Z"
+        },
+        {
+          "status": "degraded",
+          "statusCode": 500,
+          "responseTime": 503,
+          "timestamp": "2026-09-30T14:23:11.718Z"
         }
       ],
-      "lastCheck": "2026-09-30T14:12:01.857Z",
-      "responseTime": 10004,
-      "statusCode": 0,
+      "lastCheck": "2026-09-30T14:23:11.718Z",
+      "responseTime": 503,
+      "statusCode": 500,
       "uptime": {
         "day": 0,
         "week": 0,
@@ -35733,10 +35739,16 @@
           "statusCode": 200,
           "responseTime": 321,
           "timestamp": "2026-09-30T14:12:02.331Z"
+        },
+        {
+          "status": "up",
+          "statusCode": 200,
+          "responseTime": 1138,
+          "timestamp": "2026-09-30T14:23:13.000Z"
         }
       ],
-      "lastCheck": "2026-09-30T14:12:02.331Z",
-      "responseTime": 321,
+      "lastCheck": "2026-09-30T14:23:13.000Z",
+      "responseTime": 1138,
       "statusCode": 200,
       "uptime": {
         "day": 100,
@@ -35745,13 +35757,28 @@
         "all": 99.8
       },
       "avgResponseTime": {
-        "day": 555,
-        "week": 747,
-        "month": 762
+        "day": 604,
+        "week": 752,
+        "month": 763
       }
     }
   },
   "incidents": [
+    {
+      "id": 1790778191862,
+      "site": "API",
+      "slug": "api",
+      "status": "degraded",
+      "startedAt": "2026-09-30T14:23:11.718Z",
+      "resolvedAt": null,
+      "updates": [
+        {
+          "status": "degraded",
+          "message": "API is degraded",
+          "timestamp": "2026-09-30T14:23:11.718Z"
+        }
+      ]
+    },
     {
       "id": 1790777522010,
       "site": "API",
