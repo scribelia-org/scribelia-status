@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 07/10/2026 22:11:32*
+*Dernière mise à jour: 08/10/2026 01:24:58*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 510ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 1265ms | 100% | 100% | 99.75% |
+| **API** | ⚠️ Dégradé | 353ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 326ms | 100% | 100% | 99.75% |
 
 ---
 
@@ -23,46 +23,46 @@
 
 ### 🚨 Incidents en cours
 
-- **API** - ⚠️ Dégradé depuis 7j 5h
-- **API** - ❌ Hors service depuis 7j 5h
-- **API** - ⚠️ Dégradé depuis 7j 21h
-- **API** - ❌ Hors service depuis 8j 1h
-- **API** - ⚠️ Dégradé depuis 69j 7h
-- **API** - ❌ Hors service depuis 69j 7h
-- **API** - ⚠️ Dégradé depuis 139j 15h
-- **API** - ❌ Hors service depuis 139j 16h
-- **API** - ⚠️ Dégradé depuis 242j 4h
-- **API** - ❌ Hors service depuis 243j 12h
-- **API** - ⚠️ Dégradé depuis 243j 14h
-- **API** - ❌ Hors service depuis 243j 17h
-- **API** - ⚠️ Dégradé depuis 243j 18h
-- **API** - ❌ Hors service depuis 243j 23h
+- **API** - ⚠️ Dégradé depuis 7j 9h
+- **API** - ❌ Hors service depuis 7j 9h
+- **API** - ⚠️ Dégradé depuis 8j 0h
+- **API** - ❌ Hors service depuis 8j 4h
+- **API** - ⚠️ Dégradé depuis 69j 10h
+- **API** - ❌ Hors service depuis 69j 11h
+- **API** - ⚠️ Dégradé depuis 139j 18h
+- **API** - ❌ Hors service depuis 139j 20h
+- **API** - ⚠️ Dégradé depuis 242j 8h
+- **API** - ❌ Hors service depuis 243j 16h
+- **API** - ⚠️ Dégradé depuis 243j 17h
+- **API** - ❌ Hors service depuis 243j 20h
+- **API** - ⚠️ Dégradé depuis 243j 21h
 - **API** - ❌ Hors service depuis 244j 2h
-- **API** - ❌ Hors service depuis 244j 8h
-- **API** - ⚠️ Dégradé depuis 244j 15h
-- **API** - ⚠️ Dégradé depuis 245j 0h
-- **API** - ❌ Hors service depuis 245j 21h
-- **API** - ⚠️ Dégradé depuis 246j 4h
-- **API** - ⚠️ Dégradé depuis 247j 7h
-- **API** - ❌ Hors service depuis 247j 10h
-- **API** - ⚠️ Dégradé depuis 247j 13h
-- **API** - ❌ Hors service depuis 249j 1h
-- **API** - ⚠️ Dégradé depuis 249j 7h
-- **API** - ⚠️ Dégradé depuis 249j 9h
-- **API** - ❌ Hors service depuis 249j 12h
-- **API** - ❌ Hors service depuis 250j 1h
-- **API** - ⚠️ Dégradé depuis 250j 1h
-- **API** - ❌ Hors service depuis 250j 1h
-- **API** - ❌ Hors service depuis 250j 3h
-- **API** - ❌ Hors service depuis 251j 2h
-- **API** - ❌ Hors service depuis 251j 3h
-- **API** - ⚠️ Dégradé depuis 252j 1h
-- **API** - ⚠️ Dégradé depuis 252j 7h
-- **API** - ⚠️ Dégradé depuis 255j 2h
-- **API** - ❌ Hors service depuis 259j 5h
-- **API** - ⚠️ Dégradé depuis 259j 5h
-- **API** - ❌ Hors service depuis 268j 6h
-- **API** - ⚠️ Dégradé depuis 268j 7h
+- **API** - ❌ Hors service depuis 244j 5h
+- **API** - ❌ Hors service depuis 244j 11h
+- **API** - ⚠️ Dégradé depuis 244j 18h
+- **API** - ⚠️ Dégradé depuis 245j 3h
+- **API** - ❌ Hors service depuis 246j 1h
+- **API** - ⚠️ Dégradé depuis 246j 7h
+- **API** - ⚠️ Dégradé depuis 247j 11h
+- **API** - ❌ Hors service depuis 247j 13h
+- **API** - ⚠️ Dégradé depuis 247j 17h
+- **API** - ❌ Hors service depuis 249j 5h
+- **API** - ⚠️ Dégradé depuis 249j 11h
+- **API** - ⚠️ Dégradé depuis 249j 13h
+- **API** - ❌ Hors service depuis 249j 16h
+- **API** - ❌ Hors service depuis 250j 4h
+- **API** - ⚠️ Dégradé depuis 250j 4h
+- **API** - ❌ Hors service depuis 250j 5h
+- **API** - ❌ Hors service depuis 250j 7h
+- **API** - ❌ Hors service depuis 251j 5h
+- **API** - ❌ Hors service depuis 251j 7h
+- **API** - ⚠️ Dégradé depuis 252j 5h
+- **API** - ⚠️ Dégradé depuis 252j 10h
+- **API** - ⚠️ Dégradé depuis 255j 6h
+- **API** - ❌ Hors service depuis 259j 8h
+- **API** - ⚠️ Dégradé depuis 259j 8h
+- **API** - ❌ Hors service depuis 268j 9h
+- **API** - ⚠️ Dégradé depuis 268j 11h
 
 ### ✅ Incidents résolus récemment
 
@@ -85,8 +85,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 808ms
-- **Temps de réponse moyen (7j):** 756ms
+- **Temps de réponse moyen (24h):** 754ms
+- **Temps de réponse moyen (7j):** 744ms
 
 ---
 
