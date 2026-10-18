@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🟡 Performance dégradée
 
-*Dernière mise à jour: 18/10/2026 14:05:01*
+*Dernière mise à jour: 18/10/2026 14:14:57*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ⚠️ Dégradé | 360ms | 0% | 0% | 0% |
-| **Website** | ✅ Opérationnel | 334ms | 100% | 100% | 100% |
+| **API** | ⚠️ Dégradé | 362ms | 0% | 0% | 0% |
+| **Website** | ✅ Opérationnel | 1133ms | 100% | 100% | 100% |
 
 ---
 
@@ -24,7 +24,7 @@
 ### 🚨 Incidents en cours
 
 - **API** - ⚠️ Dégradé depuis 17j 21h
-- **API** - ❌ Hors service depuis 17j 21h
+- **API** - ❌ Hors service depuis 17j 22h
 - **API** - ⚠️ Dégradé depuis 18j 13h
 - **API** - ❌ Hors service depuis 18j 17h
 - **API** - ⚠️ Dégradé depuis 79j 23h
@@ -32,14 +32,14 @@
 - **API** - ⚠️ Dégradé depuis 150j 7h
 - **API** - ❌ Hors service depuis 150j 8h
 - **API** - ⚠️ Dégradé depuis 252j 20h
-- **API** - ❌ Hors service depuis 254j 4h
-- **API** - ⚠️ Dégradé depuis 254j 5h
+- **API** - ❌ Hors service depuis 254j 5h
+- **API** - ⚠️ Dégradé depuis 254j 6h
 - **API** - ❌ Hors service depuis 254j 9h
 - **API** - ⚠️ Dégradé depuis 254j 10h
 - **API** - ❌ Hors service depuis 254j 15h
-- **API** - ❌ Hors service depuis 254j 17h
+- **API** - ❌ Hors service depuis 254j 18h
 - **API** - ❌ Hors service depuis 255j 0h
-- **API** - ⚠️ Dégradé depuis 255j 6h
+- **API** - ⚠️ Dégradé depuis 255j 7h
 - **API** - ⚠️ Dégradé depuis 255j 16h
 - **API** - ❌ Hors service depuis 256j 13h
 - **API** - ⚠️ Dégradé depuis 256j 20h
@@ -57,7 +57,7 @@
 - **API** - ❌ Hors service depuis 261j 18h
 - **API** - ❌ Hors service depuis 261j 19h
 - **API** - ⚠️ Dégradé depuis 262j 17h
-- **API** - ⚠️ Dégradé depuis 262j 22h
+- **API** - ⚠️ Dégradé depuis 262j 23h
 - **API** - ⚠️ Dégradé depuis 265j 18h
 - **API** - ❌ Hors service depuis 269j 21h
 - **API** - ⚠️ Dégradé depuis 269j 21h
@@ -85,8 +85,8 @@
 ### Website
 - **URL:** `https://scribelia.com`
 - **Description:** Frontend Application
-- **Temps de réponse moyen (24h):** 818ms
-- **Temps de réponse moyen (7j):** 806ms
+- **Temps de réponse moyen (24h):** 835ms
+- **Temps de réponse moyen (7j):** 810ms
 
 ---
 
