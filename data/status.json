@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-03T15:34:55.596Z",
+  "lastUpdate": "2026-11-03T16:03:59.636Z",
   "overallStatus": "outage",
   "sites": {
     "api": {
@@ -14257,10 +14257,16 @@
           "statusCode": 0,
           "responseTime": 96,
           "timestamp": "2026-11-03T15:34:55.373Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 64,
+          "timestamp": "2026-11-03T16:03:59.561Z"
         }
       ],
-      "lastCheck": "2026-11-03T15:34:55.373Z",
-      "responseTime": 96,
+      "lastCheck": "2026-11-03T16:03:59.561Z",
+      "responseTime": 64,
       "statusCode": 0,
       "uptime": {
         "day": 0,
@@ -28545,16 +28551,22 @@
           "statusCode": 0,
           "responseTime": 37,
           "timestamp": "2026-11-03T15:34:55.516Z"
+        },
+        {
+          "status": "down",
+          "statusCode": 0,
+          "responseTime": 55,
+          "timestamp": "2026-11-03T16:03:59.628Z"
         }
       ],
-      "lastCheck": "2026-11-03T15:34:55.516Z",
-      "responseTime": 37,
+      "lastCheck": "2026-11-03T16:03:59.628Z",
+      "responseTime": 55,
       "statusCode": 0,
       "uptime": {
-        "day": 87.5,
-        "week": 98.57,
-        "month": 99.71,
-        "all": 99.83
+        "day": 77.78,
+        "week": 97.18,
+        "month": 99.43,
+        "all": 99.79
       },
       "avgResponseTime": {
         "day": 777,
