@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🔴 Panne détectée
 
-*Dernière mise à jour: 07/11/2026 23:41:02*
+*Dernière mise à jour: 07/11/2026 23:49:22*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ❌ Hors service | 73ms | 0% | 0% | 0% |
-| **Website** | ❌ Hors service | 56ms | 0% | 35.38% | 87.93% |
+| **API** | ❌ Hors service | 101ms | 0% | 0% | 0% |
+| **Website** | ❌ Hors service | 12ms | 0% | 34.85% | 87.68% |
 
 ---
 
@@ -53,7 +53,7 @@
 - **API** - ⚠️ Dégradé depuis 280j 12h
 - **API** - ❌ Hors service depuis 280j 15h
 - **API** - ❌ Hors service depuis 281j 3h
-- **API** - ⚠️ Dégradé depuis 281j 3h
+- **API** - ⚠️ Dégradé depuis 281j 4h
 - **API** - ❌ Hors service depuis 281j 4h
 - **API** - ❌ Hors service depuis 281j 6h
 - **API** - ❌ Hors service depuis 282j 5h
