@@ -6,7 +6,7 @@
 
 **Statut actuel:** 🔴 Panne détectée
 
-*Dernière mise à jour: 08/11/2026 02:50:55*
+*Dernière mise à jour: 08/11/2026 02:53:16*
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Service | État | Temps de réponse | Uptime (24h) | Uptime (7j) | Uptime (30j) |
 |---------|------|------------------|--------------|-------------|--------------|
-| **API** | ❌ Hors service | 88ms | 0% | 0% | 0% |
-| **Website** | ❌ Hors service | 39ms | 0% | 32.31% | 87.36% |
+| **API** | ❌ Hors service | 96ms | 0% | 0% | 0% |
+| **Website** | ❌ Hors service | 37ms | 0% | 31.82% | 87.11% |
 
 ---
 
